@@ -1,0 +1,31 @@
+{
+  "name": "gatsby-starter-signalwerk",
+  "description": "Gatsby signalwerk starter",
+  "version": "1.0.0",
+  "author": "Stefan Huber <sh@signalwerk.ch>",
+  "dependencies": {
+    "gatsby": "^0.12.47",
+    "object-assign": "^4.1.1",
+    "react-helmet": "^5.0.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "normalize.css": "^7.0.0",
+    "signalwerk.documentation.md": "0.0.9",
+    "signalwerk.documentation.style": "0.0.8",
+    "susy": "^2.2.12"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "build": "gatsby build",
+    "build-prefix-links": "gatsby build --prefix-links",
+    "deploy": "gatsby build --prefix-links && gh-pages -d public",
+    "develop": "gatsby develop",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"pages/*.js\" \"utils/*.js\" \"wrappers/*.js\" \"html.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,55 @@
+// reset css
+@import "~normalize.css/normalize";
+
+// load susy (used in ~signalwerk.documentation.style/components/grid)
+@import "~susy/sass/susy";
+
+// load default variables
+@import "~signalwerk.documentation.style/variables";
+
+// load default variables
+@import "./_variables";
+@import "./_fonts";
+
+@import "~signalwerk.documentation.style/components/html";
+@import "~signalwerk.documentation.style/components/img";
+@import "~signalwerk.documentation.style/components/content";
+@import "~signalwerk.documentation.style/components/code";
+@import "~signalwerk.documentation.style/components/grid"; // needs susy
+@import "~signalwerk.documentation.style/components/headings";
+@import "~signalwerk.documentation.style/components/toc";
+@import "~signalwerk.documentation.style/components/counter";
+@import "~signalwerk.documentation.style/components/table";
+@import "~signalwerk.documentation.style/components/video";
+@import "~signalwerk.documentation.style/components/print";
+@import "~signalwerk.documentation.style/components/highlightjs";
+// @import "~signalwerk.documentation.style/components/chart";
+
+
+.navigation {
+  background: lightgray,
+}
+
+@media print {
+  .navigation {
+      display: none;
+  }
+}
+
+.main-nav {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.65rem 0;
+}
+
+
+
+
+@media print {
+  html {
+    .header:after {
+      content: "Signalwerk GmbH · Stefan Huber · 2017 · CC BY-SA 4.0";
+    }
+  }
+}

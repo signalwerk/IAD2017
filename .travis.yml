@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "6"
+install:
+  - yarn install
+script:
+  - bash ./util/deploy_doc.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: "d4f454d843ce"
+  - COMMIT_AUTHOR_EMAIL: "sh@signalwerk.ch"
