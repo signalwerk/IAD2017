@@ -22,5 +22,3 @@ title: Inhalt
 
 Kontakt:
 Stefan Huber · sh@signalwerk.ch
-
-</script>
