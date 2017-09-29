@@ -7,7 +7,7 @@ title: Inhalt
 <br>
 <br>
 
-### Start · Tag 1
+### Dokumente · 1. Semester
 * [Ziele](/ziele/)
 * [Dokumentation · Experimentelles Erzählen](/exercise-exp-story/)
 
