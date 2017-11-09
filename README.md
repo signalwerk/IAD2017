@@ -1,1 +1,1 @@
-Dokumentation für die HF Interactiondesign – Stefan Huber
+Dokumentation für die HF Interactiondesign 
