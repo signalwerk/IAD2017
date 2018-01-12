@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Stefan Huber <sh@signalwerk.ch>",
   "dependencies": {
-    "gatsby": "^0.12.47",
+    "gatsby": "^0.12.48",
     "object-assign": "^4.1.1",
     "react-helmet": "^5.0.3"
   },
@@ -25,6 +25,7 @@
     "build-prefix-links": "gatsby build --prefix-links",
     "deploy": "gatsby build --prefix-links && gh-pages -d public",
     "develop": "gatsby develop",
+    "start": "npm run develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"pages/*.js\" \"utils/*.js\" \"wrappers/*.js\" \"html.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
