@@ -36,6 +36,13 @@
   }
 }
 
+@media print {
+  .header.reset {
+    counter-reset: page;
+  }
+}
+
+
 .main-nav {
   max-width: 940px;
   margin-left: auto;
