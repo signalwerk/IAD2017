@@ -2,10 +2,13 @@ language: node_js
 node_js:
   - "6"
 install:
-  - yarn install
+  - npm install
 script:
-  - bash ./util/deploy_doc.sh
+  - bash ./travis/gh-pages.sh
 env:
   global:
-  - ENCRYPTION_LABEL: "d4f454d843ce"
+  - ENCRYPTION_LABEL: "ef8fd05fec67"
   - COMMIT_AUTHOR_EMAIL: "sh@signalwerk.ch"
+  - DEPLOY_DIR: "public"
+  - SOURCE_BRANCH: "master"
+  - TARGET_BRANCH: "gh-pages"
