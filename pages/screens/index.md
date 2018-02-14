@@ -7,6 +7,7 @@ title: Screen · Interface
 
 
 
+– screen: https://www.theverge.com/2017/10/31/16579748/apple-iphone-x-review
 
 
 ## Bildschirmhelligkeit
