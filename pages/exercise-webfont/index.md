@@ -56,9 +56,9 @@ Einige Schriften, die man berücksichtigen könnte.
 * Noto Sans & Serif
 
 Abzugeben ist ein SVG, bei dem das Wort «Hamburgefonts» (klassisches Testwort für Schriftmuster) gesetzt wird und spezielle Merkmale der Schrift farblich markiert sind. Die Legende dazu ist in einer Textdatei abzugeben. Siehe Beispieldatei.  
-Zusätzlich; Kenne ich digitale Schriftmuster? Bringen Sie drei URL's mit; Zwei Schriftenhersteller (nicht Linotype, Monotype, Fontshop, fonts.com, google-Fonts), eine Website bei der Schriften vorgestellt werden (Blog-Post oder ähnliches).
+Zusätzlich; Kenne ich digitale Schriftmuster? Bringen Sie drei URL's mit; Zwei Schriftenhersteller (nicht Linotype, Monotype, Fontshop, fonts.com, google-Fonts), eine Website bei der Schriften vorgestellt werden (Blog-Post oder ähnliches). Kurze Vorstellung des Favoriten in der Klasse.
 
-### KW08 · 23.02.2018
+### KW11 · 16.03.2018
 
 * Präsentation von Schrift in Klasse
 * Dokumentation der Schriftwahl
@@ -72,7 +72,7 @@ Zusätzlich; Kenne ich digitale Schriftmuster? Bringen Sie drei URL's mit; Zwei 
 Abzugeben ist das korrigierte SVG von letzer Woche mit neu gelernten Kriterien oder Eigenheiten.
 Zusätzlich sollen die Proportionen der Schrift eingezeichnet werden (siehe Beispiel). Zusätzlich soll ein Text mit 1000 Zeichen zur Schrift geschrieben werden, der die Geschichte/Hintergrund/Entstehung der Schrift beleuchtet. Quellen müssen korrekt und vollständig angegeben werden. Ein kritischer Umgang mit der Zuverlässigkeit der Quellen ist gefordert. Dieser Text soll als Textdatei abgegeben werden.
 
-### KW11 · 16.03.2018
+### KW12 · 23.03.2018
 
 * Präsentation von eigenschaften der Schrift in Verbindung mit der Geschichte. Warum sieht die Schrift so aus? Welchen Zweck sollte die Schrift erfüllen. Warum gibt es die Schrift?
 * Welche Möglichkeiten haben wir für die Navigation innerhalb des Werkes (mobile first)?
@@ -83,7 +83,7 @@ Zusätzlich sollen die Proportionen der Schrift eingezeichnet werden (siehe Beis
 Jeder Student macht ein Fact-Checking des bisher erarbeiteten Textes eines Mitstudenten. Stimmen alle Angaben? Wurde keine Wertung im Text eingearbeitet, sondern nur die Faktenlage dargestellt? Sind die eingezeichneten Merkmale wirklich relevant?  
 Zusätzlich soll ein Text mit 1000 Zeichen zum Designer/Zeichner der eigenen Schrift geschrieben werden. Hintergrund/Geschichte/Werdegang und weitere Schriften des selben Gestalters sollen erwähnt werden. Quellen müssen korrekt und vollständig angegeben werden. Ein kritischer Umgang mit der Zuverlässigkeit der Quellen ist gefordert. Dieser Text soll als Textdatei abgegeben werden.
 
-### KW12 · 23.03.2018
+### KW14 · 06.04.2018
 
 * Präsentation des Autors der eigenen Schrift
 * Welche Inhalts-Elemente/Darstellungen sollen nun auf unserem Schriftmuster gezeigt werden
@@ -94,7 +94,7 @@ Zusätzlich soll ein Text mit 1000 Zeichen zum Designer/Zeichner der eigenen Sch
 Jeder Student macht ein Fact-Checking des bisher erarbeiteten Textes eines Mitstudenten.  
 Beispiel-Websites mit der eigenen Schrift suchen. Gute und schlechte Punkte beim Einsatz des Fonts auf den Beispielen aufzeigen. Die Untersuchung beinhaltet zwei Listen (Positiv/Negativ) pro URL mit kurzen Stichworten. Abgabe als Textdatei.
 
-### KW14 · 06.04.2018
+### KW16 · 20.04.2018
 
 * Erarbeitung von Schriftmuster-Beispielen (Mengentext)
 * Media-Queries für verschiedene Screen-Grössen
@@ -103,15 +103,6 @@ Beispiel-Websites mit der eigenen Schrift suchen. Gute und schlechte Punkte beim
 #### Heimarbeit
 
 Es werden zwei Schriftmuster (HTML) abgegeben. Ein Muste, welches eine Anwendung als Grundtext zeigt bei dem der Text in Schwarz auf Weiss möglichst gut Lesbar gesetzt wird. Daneben soll ein Beispiel abgegeben werden, wie in Kombination mit einem (!) anderen Font eine möglichst ansprechende Typografische struktur erarbeitet werden kann.
-
-### KW16 · 20.04.2018
-
-* Präsentation von Schriftmustern
-* Besprechung und Überarbeitung von Schriftmustern
-
-#### Heimarbeit
-
-Überarbeitung der Schriftmuster und zusammenstellen der Texte und Bilder.
 
 ### KW20 · 18.05.2018
 
@@ -123,6 +114,15 @@ Es werden zwei Schriftmuster (HTML) abgegeben. Ein Muste, welches eine Anwendung
 Überarbeitung der Schriftmuster und zusammenstellen der Texte und Bilder.
 
 ### KW22 · 01.06.2018
+
+* Präsentation von Schriftmustern
+* Besprechung und Überarbeitung von Schriftmustern
+
+#### Heimarbeit
+
+Überarbeitung der Schriftmuster und zusammenstellen der Texte und Bilder.
+
+### KW22 · 29.06.2018
 
 * Abgabe und Präsentation der Schriftmuster
 
