@@ -1,7 +1,5 @@
 ## Fragen an Jonas
 
-* Kann Natascha sprachliche Unterstützung erhalten? Ev. auch Nadia.
-
 # Thesis
 
 > > Der Begriff Hypothese bezeichnet eine für die Forschung zielführende wissenschaftliche Behauptung mit Wahrheitsanspruch.
@@ -47,7 +45,8 @@ Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting der Arbeit m
 
 ### Mentorat
 
-Die Aufgabe des Mentors ist dem Studierenden eine Rückmeldung während des Prozesses auf seine Arbeitsweise und seine Erkenntnisse zu geben.
+Die Aufgabe des Mentors ist dem Studierenden eine Rückmeldung während des Prozesses auf seine Arbeitsweise und seine Erkenntnisse zu geben.  
+Für das Mentorat stehen dem Studenten zwei
 
 ### Zeitlicher Ablauf
 
