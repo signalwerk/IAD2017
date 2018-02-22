@@ -25,7 +25,6 @@ KW08 · 23.02.2018 · 8 Lektionen
 * News
 * Papier-Schriftmuster
 * Präsentation · Papier-Schriftmuster
-* Webfonts einbinden & Webfonts kaufen
 
 ##### Praxis
 
@@ -33,7 +32,6 @@ KW08 · 23.02.2018 · 8 Lektionen
 * Papier-Schriftmuster untersuchen
 * Dokumentation · Papier-Schriftmuster
 * Timeline «Medien-/Technologiegeschichte»
-* Webfonts
 
   ::::
 
@@ -59,6 +57,7 @@ KW11 · 16.03.2018 · 4 Lektionen
 
 ##### Theorie
 
+* Webfonts einbinden & Webfonts kaufen
 * Kriterien einer Schrift
 * Präsentation · Schrift
 * Präsentation · Schriftmuster
@@ -68,6 +67,7 @@ KW11 · 16.03.2018 · 4 Lektionen
 * Bilder/Daten medienneutrale aufbereitet (PNG – JPG – SVG)
 * Dokumentation · Schriftwahl
 * Dokumentation · Schriftmuster
+* Webfonts
 
 ::::
 
@@ -155,6 +155,7 @@ KW16 · 20.04.2018 · 4 Lektionen
 
 * CSS-Masseinheiten
 * Mediaqueries
+* margin collapsing
 
 ##### Praxis
 
