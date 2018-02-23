@@ -18,22 +18,22 @@ Die zuständigen Personen kopieren (!) am Tag des Unterrichts aus der Dropbox de
 
 ### 3. Semester
 
-Stephanie Fuchs
-Marc Hatt
+* Stephanie Fuchs
+* Marc Hatt
 
 ### 4. Semester
 
-Severin Kilchhofer
-Matthias Koch
+* Severin Kilchhofer
+* Matthias Koch
 
 ### 5. Semester
 
-Lars Mäder
-Nils Mäder
-Tieu Khe Mayer
+* Lars Mäder
+* Nils Mäder
+* Tieu Khe Mayer
 
 ### 6. Semester
 
-Natasha Ruf
-Wolfgang Schoeck
-Nicole Watrinet
+* Natasha Ruf
+* Wolfgang Schoeck
+* Nicole Watrinet
