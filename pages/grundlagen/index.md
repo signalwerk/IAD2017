@@ -9,6 +9,15 @@ title: Technologie · Grundlagen
 :::
 <div class='header'></div>
 
+## Digitale Kommunikation
+::: margin compact
+#### digital
+Vom Lateinischen: «digitus» → Finger. Digital meint eine (mit den Fingern) abzählbare Einordnung von Dingen.
+
+#### Computer
+Abgeleitet vom englischen Verb «to compute». Ausgehend vom Lateinischen: computare → «berechnen».
+:::
+Die Entwicklung der modernen elektronischen Digitalrechner begann in den 1930er Jahren ([Atanasoff-Berry-Computer](https://de.wikipedia.org/wiki/Atanasoff-Berry-Computer), [Z1](https://de.wikipedia.org/wiki/Z1_(Rechner)), ... ). Aufgaben, die zuvor manuell oder mit Lochkartenmaschinen erledigt wurden, wurden mehr und mehr mit Computern unterstützt oder abgelöst. Waren es in den Anfängen noch sehr einfache matemathische Aufgaben, so kam die Speicherung, Verarbeitung und Übermittlung von menschlicher Sprache/Kommunikation sehr Schnell dazu. 1963 kam die erste grosse Standardisierung eines Zeichensatzes zum Informationsaustausch ([ASCII](https://de.wikipedia.org/wiki/ASCII)). Durch die wachesende Verbreitung der Home-Computer (Personal Computer) in den 1980er Jahren nahm die Kommunikation über (lokale) Netzwerke oder Datenträger zu.
 
 
 ## Geschichte des Internets
@@ -117,6 +126,7 @@ sh@signalwerk.ch
 Mai 2014: Erstellung  
 August 2015: Erweiterung  
 Februar 2017: Erweiterung  
+März 2017: Erweiterung  
 
 :::
 
