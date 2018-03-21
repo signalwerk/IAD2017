@@ -46,7 +46,8 @@ Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting der Arbeit m
 ### Mentorat
 
 Die Aufgabe des Mentors ist dem Studierenden eine Rückmeldung während des Prozesses auf seine Arbeitsweise und seine Erkenntnisse zu geben.  
-Für das Mentorat stehen dem Studenten zwei
+Zum Mentorat sind alle Dozierenden berechtigt, die am Unterricht des Studiengangs beteiligt waren. Externe Mentoren können von den Studenten vorgeschlagen werden.
+Für das Mentorat stehen den Mentoren pro Kandidat 4½ Stunden (nicht Lektionen) zur Verfügung. Es wird empfohlen dieses Zeitbudget in zwei persönlichen kurzen Sitzungen und deren Vorbereitung zu nutzen. Die Mentoren sind angehalten sich an die Zeitvorgaben zu halten, da sonst ein unterschiedlicher Betreuungsgrad zwischen den Studierenden entsteht.
 
 ### Zeitlicher Ablauf
 
@@ -87,3 +88,14 @@ Der Ablauf der Verteidigung läuft wie folgt:
 | 15:00 | Natasha Ruf        |
 | 15:30 | Wolfgang Schoeck   |
 | 16:00 | Nicole Watrinet    |
+
+#### Nachtrag
+
+48 Lektionen stehen für die Betreuung der Thesis zur Verfügung.  
+Die Mentoratszeit ergibt sich wie folgt;
+
+```
+4½ Studnen * 13 Studierende / 1.6 Faktor zur Umrechnung in Lektionen = ~36 Lektionen
+```
+
+Die Benotung aller Arbeiten wird durch zwei Begleiter beurteilt. Diese haben ein Zeitbudget von 12 Lektionen.
