@@ -25,6 +25,18 @@
 @import "~signalwerk.documentation.style/components/highlightjs";
 // @import "~signalwerk.documentation.style/components/chart";
 
+.inlinecode {
+  code {
+    display: unset;
+    font-size: 1.1rem;
+  }
+}
+h1 code {
+  font-size: 1em;
+}
+
+.ABC ol { list-style-type: upper-alpha; }
+
 
 .navigation {
   background: lightgray,
