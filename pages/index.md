@@ -14,6 +14,7 @@ title: Inhalt
 * [Internet · Grundlagen](/grundlagen/)
 * [Fonts · Eigenschaften](/font-anatomy/)
 * [Fonts · Verwendung](/font-use/)
+* [Interaktion · Navigation](/navigation/)
 
 ### 1. Semester
 
