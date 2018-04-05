@@ -56,14 +56,13 @@ KW11 · 16.03.2018 · 4 Lektionen
 :::: col_6of12
 
 ##### Theorie
-
-* Webfonts einbinden & Webfonts kaufen
+* Fonts · Eigenschaften & Verwendung
 * Kriterien einer Schrift
 * Präsentation · Schrift
 * Präsentation · Schriftmuster
 
 ##### Praxis
-
+* Webfonts einbinden & Webfonts kaufen
 * Bilder/Daten medienneutrale aufbereitet (PNG – JPG – SVG)
 * Dokumentation · Schriftwahl
 * Dokumentation · Schriftmuster
@@ -215,6 +214,7 @@ KW22 · 01.06.2018 · 4 Lektionen
 ##### Theorie
 
 * Präsentation · Schriftmuster
+* Bionic Reading (10:00 – 11:45)
 
 ##### Praxis
 

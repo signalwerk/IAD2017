@@ -127,6 +127,7 @@ Mai 2014: Erstellung
 August 2015: Erweiterung  
 Februar 2017: Erweiterung  
 März 2017: Erweiterung  
+März 2018: Erweiterung  
 
 :::
 
@@ -165,3 +166,9 @@ März 2017: Erweiterung
 * [ICT Facts and Figures 2016](http://www.itu.int/en/ITU-D/Statistics/Pages/facts/)
 * [100-Year of Technology – Graph](https://www.theatlantic.com/technology/archive/2012/04/the-100-year-march-of-technology-in-1-graph/255573/)
 * [You Are What You Spend - The New York Times](http://www.nytimes.com/2008/02/10/opinion/10cox.html)
+
+### Wichtige Linux/Unix-Befehle für DNS-Research
+* [dig](https://en.wikipedia.org/wiki/Dig_(command))
+* [whois](https://en.wikipedia.org/wiki/WHOIS)
+* [ping](https://en.wikipedia.org/wiki/Ping_(networking_utility))
+* [traceroute](https://en.wikipedia.org/wiki/Traceroute)

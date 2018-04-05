@@ -81,7 +81,7 @@ Zusätzlich sollen die Proportionen der Schrift eingezeichnet werden (siehe Beis
 #### Heimarbeit
 
 Jeder Student macht ein Fact-Checking des bisher erarbeiteten Textes eines Mitstudenten. Stimmen alle Angaben? Wurde keine Wertung im Text eingearbeitet, sondern nur die Faktenlage dargestellt? Sind die eingezeichneten Merkmale wirklich relevant?  
-Zusätzlich soll ein Text mit 1000 Zeichen zum Designer/Zeichner der eigenen Schrift geschrieben werden. Hintergrund/Geschichte/Werdegang und weitere Schriften des selben Gestalters sollen erwähnt werden. Quellen müssen korrekt und vollständig angegeben werden. Ein kritischer Umgang mit der Zuverlässigkeit der Quellen ist gefordert. Dieser Text soll als Textdatei abgegeben werden.
+
 
 ### KW14 · 06.04.2018
 
@@ -91,7 +91,7 @@ Zusätzlich soll ein Text mit 1000 Zeichen zum Designer/Zeichner der eigenen Sch
 
 #### Heimarbeit:
 
-Jeder Student macht ein Fact-Checking des bisher erarbeiteten Textes eines Mitstudenten.  
+Es soll ein Text mit 1000 Zeichen zum Designer/Zeichner der eigenen Schrift geschrieben werden. Hintergrund/Geschichte/Werdegang und weitere Schriften des selben Gestalters sollen erwähnt werden. Quellen müssen korrekt und vollständig angegeben werden. Ein kritischer Umgang mit der Zuverlässigkeit der Quellen ist gefordert. Dieser Text soll als Textdatei abgegeben werden.  
 Beispiel-Websites mit der eigenen Schrift suchen. Gute und schlechte Punkte beim Einsatz des Fonts auf den Beispielen aufzeigen. Die Untersuchung beinhaltet zwei Listen (Positiv/Negativ) pro URL mit kurzen Stichworten. Abgabe als Textdatei.
 
 ### KW16 · 20.04.2018
@@ -102,7 +102,8 @@ Beispiel-Websites mit der eigenen Schrift suchen. Gute und schlechte Punkte beim
 
 #### Heimarbeit
 
-Es werden zwei Schriftmuster (HTML) abgegeben. Ein Muste, welches eine Anwendung als Grundtext zeigt bei dem der Text in Schwarz auf Weiss möglichst gut Lesbar gesetzt wird. Daneben soll ein Beispiel abgegeben werden, wie in Kombination mit einem (!) anderen Font eine möglichst ansprechende Typografische struktur erarbeitet werden kann.
+Es werden zwei Schriftmuster (HTML) abgegeben. Ein Muste, welches eine Anwendung als Grundtext zeigt bei dem der Text in Schwarz auf Weiss möglichst gut Lesbar gesetzt wird. Daneben soll ein Beispiel abgegeben werden, wie in Kombination mit einem (!) anderen Font eine möglichst ansprechende Typografische struktur erarbeitet werden kann.  
+Jeder Student macht ein Fact-Checking des bisher erarbeiteten Textes eines Mitstudenten.  
 
 ### KW20 · 18.05.2018
 

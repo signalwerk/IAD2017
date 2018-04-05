@@ -25,11 +25,15 @@ title: Inhalt
 
 ### 2. Semester
 
+* [Lab · Ziele](/ziele/semester-02/)
 * [Lab · Aufgabe · Dropbox](/exercise-dropbox-handling/)
 * [Lab · Aufgabe · Fonts im Web](/exercise-webfont/)
-* [Lab · Untersuchung · Schriftmuster (Papier)](/exercise-webfont/paper-specimen/)
 
-* [Lab · Ziele](/ziele/semester-02/)
+#### Dokumentation
+* [Lab · Untersuchung · Schriftmuster (Papier)](/exercise-webfont/paper-specimen/)
+* [Lab · Zusammenstellung · Links](/exercise-webfont/font-foundries/)
+
+<!-- * [Lab · Plan](/plan/semester-02/) -->
 
 ### 3. Semester
 
