@@ -60,6 +60,7 @@ KW11 · 16.03.2018 · 4 Lektionen
 * Kriterien einer Schrift
 * Präsentation · Schrift
 * Präsentation · Schriftmuster
+* Webfonts
 
 ##### Praxis
 * Webfonts einbinden & Webfonts kaufen
@@ -215,6 +216,7 @@ KW22 · 01.06.2018 · 4 Lektionen
 
 * Präsentation · Schriftmuster
 * Bionic Reading (10:00 – 11:45)
+* Metapolator
 
 ##### Praxis
 
