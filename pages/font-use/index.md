@@ -70,6 +70,11 @@ p {
 </pre>
 :::
 
+
+
+
+
+
 #### Beispiel google-Fonts
 
 ::: code
@@ -81,6 +86,84 @@ p {
 }
 </pre>
 :::
+
+
+
+
+### OpenType features
+
+
+::: margin compact
+#### Links
+* [Übersicht über die OpenType-Features von Adobe](https://helpx.adobe.com/typekit/using/open-type-syntax.html#ordn)
+* [Anwendung – css-tricks](https://css-tricks.com/almanac/properties/f/font-feature-settings/)
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings)
+* [Google vs. Font Features](https://blog.bramp.net/post/2018/01/21/google-font-features/)
+:::
+
+Auch im Web sind OpenType features wie Ligaturen oder verschiedenen Zahlensets möglich. Der Browser-Support ist hierfür gut, jedoch müssen natürlich die entsprechenden Features im Font vorhanden sein.
+
+
+#### Beispiele
+CSS-Definition mit aktivierten Brüchen:
+
+::: code
+<pre>
+.bsp1  {
+    font-feature-settings: "frac";
+}
+</pre>
+:::
+
+<br>
+
+CSS-Definition mit aktivierten tabelarischen (`lnum`) Mediävalziffern (`onum`):
+
+::: code
+<pre>
+.bsp2  {
+    font-feature-settings: "lnum", "onum";
+}
+</pre>
+:::
+
+
+<br>
+
+CSS-Definition mit ausgeschalteten Ligaturen:
+
+::: code
+<pre>
+.bsp3  {
+    font-feature-settings: "liga" 0;
+}
+</pre>
+:::
+
+#### Gängige Features
+Um bei eienm Font OpenType-Features zu nutzen, muss die Dokumentation vom Font/Schriftenhersteller konsultiert werden um zu erfahren, welche Features verfügbar sind.
+
+Einige gängige Features sind die auch in CSS abrufbar sind;
+
+| Feature  | Englisch                      | Deutsch                                          |
+|---------------|-------------------------|----------------------------------------------|
+| liga          | Standard Ligatures      | Standard Ligatures                           |
+| dlig          | Discretionary Ligatures | Bedingte Ligaturen                           |
+| lnum          | Lining figures          | Versalziffern                                |
+| onum          | Oldstyle figures        | Mediävalziffern (Minuskelziffern)            |
+| pnum          | Proportional figures    | Proportionale Ziffern (nicht gleiche Breite) |
+| tnum          | Tabular figures         | Tabellenziffern (gleiche Breite)             |
+| frac          | Fractions               | Bruchziffern                                 |
+| smcp          | Small caps              | Kapitälchen                                  |
+| ss01–ss20     | Stylistic sets          | Formatsätze                                  |
+| sups          | Superscript/Superior    | Hochgestellt                                 |
+| subs          | Subscript/Infirior      | Tiefgestellt                                 |
+| numr          | Numerator               | Zähler                                       |
+| dnom          | Denominator             | Nenner                                       |
+
+
+
+
 
 
 <div class='header'></div>
@@ -117,6 +200,14 @@ Fontwechsel – Auswechseln von Fonts abhängig von der Fenstergrösse.
 
 
 ## Variable Fonts
+
+::: margin compact
+#### Links
+* [Übersicht Variable Fonts](https://medium.com/@clagnut/get-started-with-variable-fonts-c055fd73ecd7)
+* [Getting started with variable fonts](https://clagnut.com/blog/2389/)
+* [Variable Fonts on the Web – WebKit](https://webkit.org/blog/7051/variable-fonts-on-the-web/)
+* [The Typekit Blog – Variable fonts](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
+:::
 
 Im Oktober 2016 hatte ein breites Konsortium von diversen Herstellern den OpenType-Standard mit der Version 1.8 angekündigt. Adobe, Google, Microsoft und Andere haben zugesagt diesen Standard bald in Ihre Software-Produkte zu integireren. Neben diversen eher technischen Erneuerungen ist vor allem die Möglichkeit für «Variable Fonts» für Gestalter heraus zu streichen. Mit dieser Funktion können Fonts mehrere so genannte Design-Achsen haben. Man kann also Fonts so einrichten, dass Sie zum Beispiel von ganz Light zu super Black stuffenlos (oder mit vom Designer gewählten Stufen) einstellbar sind. Aber auch andere Design-Achsen lassen sich frei vom Schriftdesinger bestimmen. Diese Technologie erinnert an die «Multiple master fonts» (1991), jedoch wird sich der neue Standard wohl besser verbreiten als die damalige Technologie.
 
@@ -315,8 +406,3 @@ März 2018: Erweiterung
 * [WOFF File Format 1.0](http://www.w3.org/TR/WOFF/)
 * [WOFF File Format 2.0](https://www.w3.org/TR/WOFF2/)
 * [Google Developers Blog – WOFF 2.0](http://googledevelopers.blogspot.hu/2015/02/smaller-fonts-with-woff-20-and-unicode.html)
-
-### Variable Fonts
-* [Getting started with variable fonts](https://clagnut.com/blog/2389/)
-* [Variable Fonts on the Web – WebKit](https://webkit.org/blog/7051/variable-fonts-on-the-web/)
-* [The Typekit Blog – Variable fonts](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
