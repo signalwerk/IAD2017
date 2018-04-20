@@ -1,3 +1,6 @@
+resistiv capacitiv display
+
+
 
 <div class='header'></div>
 

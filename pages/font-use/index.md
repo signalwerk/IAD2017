@@ -45,22 +45,30 @@ Es wird versucht zuerst Arial einzusetzen. Wenn keine Arial vorhanden ist, soll 
 
 
 ### Verbreitung und Vorteile von Webfonts
+
+
+
 Meist kommt bei Webfonts das WOFF (Web Open Font Format) zum Einsatz. Seit 2014 sind auch die besser komprimierten WOFF 2.0 Dateien im Gebrauch, die heute von allen modernen Browsern unterstützt werden. Auch ältere Browser können mit älteren Font-Formaten (EOT)  Schriften einbinden.
 Verfügt man über eine Lizenz eines Webfonts, so kann diese Schrift dynamisch zur Seite hinzugeladen werden. Der Gestalter weiss somit, wie seine Seite aussehen wird und kann die Typografie vollständig kontrollieren.
 
 #### Beispiel
-CSS-Definition mit Webfonts:
+::: margin compact
+#### Fallback
+Damit der Webfont von möglichst vielen Browsern gelesen werden kann, werden diverse Fallbacks definiert.
+:::
+
+CSS-Definition für Webfonts:
 
 ::: code
 <pre>
 @font-face {
   font-family: 'Open Sans';
-  src: url('opensans-regular-webfont.eot');
-  src: url('opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
-  url('opensans-regular-webfont.woff2') format('woff2'),
-  url('opensans-regular-webfont.woff') format('woff'),
-  url('opensans-regular-webfont.ttf') format('truetype');
-  font-weight: normal;
+  src: url('opensans-reg-web.eot'); /* IE9 */
+  src: url('opensans-reg-web.eot?#iefix') format('embedded-opentype'), /* IE6 - IE8 */
+  url('opensans-reg-web.woff2') format('woff2'), /* Modern Browsers */
+  url('opensans-reg-web.woff') format('woff'), /* OK Browsers */
+  url('opensans-reg-web.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-weight: normal; <!–– ** ––>
   font-style: normal;
 }
 
@@ -88,7 +96,43 @@ p {
 :::
 
 
+### Unicode Range
+Möchte man nur eine speziefische Auswahl an Buchstaben (Subset) eines Fonts von einer anderen Font-Datei beziehen, so kann dies mittels `unicode-range` gemacht werden. Dies ist vor allem nützlich, wenn wichtige Zeichen in einem Font fehlen (beispielsweise geschütztes schmales Leerzeichen) und von einer anderen Datei bezogen werden müssen.
 
+#### Beispiel
+CSS-Definition mit `unicode-range` aus zwei font-faces:
+
+::: code
+<pre>
+@font-face {
+  font-family: 'Open Sans';
+  src: url('opensans-reg-web.eot');
+  src: url('opensans-reg-web.eot?#iefix') format('embedded-opentype'),
+  url('opensans-reg-web.woff2') format('woff2'),
+  url('opensans-reg-web.woff') format('woff'),
+  url('opensans-reg-web.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  unicode-range: U+000-5FF; /* Latin glyphs */  <!–– ** ––>
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('special-web.eot');
+  src: url('special-web.eot?#iefix') format('embedded-opentype'),
+  url('special-web.woff2') format('woff2'),
+  url('special-web.woff') format('woff'),
+  url('special-web.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  unicode-range: U+0061; /* overwrite for letter a */  <!–– ** ––>
+}
+
+p {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+</pre>
+:::
 
 ### OpenType features
 
