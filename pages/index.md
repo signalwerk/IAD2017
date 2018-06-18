@@ -32,6 +32,7 @@ title: Inhalt
 #### Dokumentation
 * [Lab · Untersuchung · Schriftmuster (Papier)](/exercise-webfont/paper-specimen/)
 * [Lab · Zusammenstellung · Links](/exercise-webfont/font-foundries/)
+* [Technologiegeschichte der Schrift](/font-technology/)
 
 <!-- * [Lab · Plan](/plan/semester-02/) -->
 
