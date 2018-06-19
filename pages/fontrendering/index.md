@@ -1,7 +1,7 @@
 ---
 title: Fontdarstellung
 ---
-# Technologie · Fontdarstellung
+# Fontdarstellung
 
 ::: TOC
 **Content**
@@ -10,6 +10,28 @@ title: Fontdarstellung
 <div class='header'></div>
 
 
+## Fonts auf Websites
+### Geschichte
+::: margin compact
+#### Browser mit Webfont-Unterstüzung
+* Chrome 4.0+
+* Internet Explorer 4+
+* Firefox 3.5+
+* Safari 3.1+
+* Opera 10+
+
+Quelle: [Web typography - Wikipedia](https://en.wikipedia.org/wiki/Web_typography)
+
+:::
+Seit Computer eine Darstellung an einem Bildschirm aufweisen, wurde immer wieder nach technischen und gestalterischen Möglichkeiten gesucht, Schriften möglichst den Wünschen des Gestalters entsprechend dar zu stellen. Als das World Wide Web 1993 durch das CERN frei gegeben wird, war die Formatierung noch nicht durch einen Gestalter zu beeinflussen. Lediglich der Browser bestimmte das aussehen. Mit der Einführung von CSS im Jahre 1996 wurde dann die Möglichkeit geschaffen, Schriften einem Inhalt zu zuweisen. Allerdings musste der entsprechende Font bereits auf dem Zielgerät installiert sein. Bereits 1997 ermöglichte Microsoft mit damaliger Technologie in Ihrem Browser das Laden von Fonts über das Internet. Somit wurde es möglich, eigene Schriften einzusetzen. Doch diese Technologie war nur auf Internet Explorer (Windows) verfügbar und auch von den Font-Anbietern sehr schlecht akzeptiert. Erst im Jahre 2009 wurde auf Grundlage von OpenType ein neues Format namens «WOFF» (Web Open Font Format) entwickelt. Dieses Format wurde sehr schnell von Browser-Herstellern und von Font-Anbietern akzeptiert, so dass heute Problemlos auf allen wichtigen Browsern der vom Gestalter gewünschte Font dynamisch in die Seite geladen werden kann.
+
+
+### Verbreitung und Vorteile von Webfonts
+Meist kommt bei Webfonts das WOFF (Web Open Font Format) zum Einsatz. Seit 2014 sind auch die besser komprimierten WOFF 2.0 Dateien im Gebrauch, die heute von allen modernen Browsern unterstützt werden. Auch ältere Browser können mit älteren Font-Formaten (EOT)  Schriften einbinden.
+Verfügt man über eine Lizenz eines Webfonts, so kann diese Schrift dynamisch zur Seite hinzugeladen werden. Der Gestalter weiss somit, wie seine Seite aussehen wird und kann die Typografie vollständig kontrollieren.
+
+
+<div class='header'></div>
 
 
 ## Darstellung von Fonts
@@ -408,6 +430,7 @@ sh@signalwerk.ch
 Mai 2014: Erstellung  
 September 2015: Erweiterung  
 März 2017: Erweiterung
+Juni 2018: Erweiterung
 :::
 
 ## Weiterführende Informationen
@@ -416,6 +439,14 @@ März 2017: Erweiterung
 ### Subpixel-Rendering
 * [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
 
+### Fonts in Webfonts konvertieren
+* [Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)
+
+### Webfonts und Kompression von Webfonts
+* [Web Open Font Format - Wikipedia](https://en.wikipedia.org/wiki/Web_Open_Font_Format)
+* [WOFF File Format 1.0](http://www.w3.org/TR/WOFF/)
+* [WOFF File Format 2.0](https://www.w3.org/TR/WOFF2/)
+* [Google Developers Blog – WOFF 2.0](http://googledevelopers.blogspot.hu/2015/02/smaller-fonts-with-woff-20-and-unicode.html)
 
 ### Farbige Fonts
 * [Pixelambacht – multicolor fonts](https://pixelambacht.nl/2014/multicolor-fonts/)
