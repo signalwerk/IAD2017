@@ -108,7 +108,7 @@ Eine rechte Seite aus dem ersten Band der bekannten Bibel, die Gutenberg hergest
 
 Johannes Gutenberg (Johannes Gensfleisch zur Laden zum Gutenberg) gilt als Erfinder des Buchdrucks mit beweglichen Bleilettern und auch des mechanischen Buchdrucks. Als Goldschmied konnte Gutenberg mit Metall umgehen und erfand ein Handgiessinstrument das es ihm ermöglicht hat, dieselben Buchstaben aus einer Legierung (mit dem Hauptanteil Blei) immer wieder zu giessen. Die so gegossenen Zeichen waren wie kleine erhabene Stempel. Dazu musste die Druckfarbe, die nun auf Bleibuchstaben haften musste, als auch eine abgeänderte Spindelpresse erfunden oder weiterentwickelt werden, um die ersten Druckprodukte mit dieser neuartigen Technik zu produzieren.
 Diese Erfindung des Buchdruck (Hochdruckverfahren) verbreitete sich ab ~1450 ausgehend von Mainz (Deutschland) innert weniger Jahre über die ganze Welt und wurde technisch beinahe unverändert bis ins 20. Jahrhundert beibehalten.
-~1455 erschien Gutenbergs 42-zeilige Biebel (B42), welches als erstes gedrucktes Buch mit beweglichen Bleilettern gillt.
+~1455 erschien Gutenbergs 42-zeilige Biebel (B42), welches als erstes gedrucktes Buch mit beweglichen Bleilettern gillt. Gutenberg hatte dafür die damals übliche Textura (Schriftart) der Schreibstuben in Bleibuchstaben überführt und mit vielen verschiedenen Ligaturen und Zeichenformen das «künschtliche Schreiben» möglichst ähnlich dem damals vorherschenden Schreibstiel angepasst.
 
 Der Wachsende Bedarf an Bedruckstoffen fürhte dazu, dass prozentual immer weniger Bücher auf Pergament gedruckt wurden. Jedoch galten bis ins 19. Jahrhundert Pergament-Bände als besonders Wertvoll.
 
