@@ -396,6 +396,34 @@ Juni 2018: Erstellung
 :::
 
 
+## Weiterführende Informationen
+
+
+### Zusammenfassungen
+* [The U.S. Computer Printer Industry](http://jacques-andre.fr/chi/chi90/tomash.html)
+* [Digitalgeschichte der Schrift – Technologie](http://www.designhistory.org/Digital_Revolution_pages/EarlyDigType.html)
+* [Digitalgeschichte der Schrift – Menschen](http://www.designhistory.org/Digital_Revolution_pages/PioneersDig.html)
+* [Graphic Means – Film](http://www.graphicmeans.com/film/)
+* [Apple und DTP](https://www.fastcodesign.com/3065804/how-apple-helped-democratize-typography-in-the-90s)
+
+### Technologie
+* [Counterpunch](https://typejournal.ru/articles/Counterpunch-Review)
+* [Linotype – Film](http://www.linotypefilm.com/)
+* [ppm – Pixelformat](https://en.wikipedia.org/wiki/Netpbm_format) ([Spezifikation](http://netpbm.sourceforge.net/doc/ppm.html))
+* [IBM Selectric](https://player.vimeo.com/video/139984057)
+### Fontformen
+* [Kapitalis Monumentalis](https://typejournal.ru/en/articles/The-Trajan-Letter-in-Russia-and-America)
+* [Bell Centennial](https://nicksherman.com/articles/bellCentennial.html)
+
+
+## Weiterführende Stichworte
+
+* Optical Sizes
+* Buchproduktion vs. Manuskript
+* Ausbreitung von Druckpresen in Europa
+* Donald Knuth
+
+
 <br>
 <br>
 <br>
