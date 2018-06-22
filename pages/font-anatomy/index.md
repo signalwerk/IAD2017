@@ -107,3 +107,27 @@ Objekte in HTML können mittels CSS an der Schrift ausgerichtet werden.
 4. Amerikanische 1 | Europäische 1
 :::
 ![Font anatomy](./img/anatomy/SVG/font-character-forms.svg)
+
+
+
+
+
+
+<div class='header'></div>
+
+::: margin printonly
+#### Autor
+Stefan Huber  
+sh@signalwerk.ch  
++41 78 744 37 38
+
+#### Dokumentgeschichte
+märz 2018: Erstellung  
+:::
+
+
+## Weiterführende Informationen
+
+
+### Technik
+* [Panose Werte](https://twitter.com/ellmerstefan/status/934190602421448705/photo/1)
