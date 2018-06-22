@@ -1,7 +1,7 @@
 ---
-title: Fontdarstellung
+title: Fonts · Darstellung
 ---
-# Fontdarstellung
+# Fonts · Darstellung
 
 ::: TOC
 **Content**
@@ -9,29 +9,6 @@ title: Fontdarstellung
 :::
 <div class='header'></div>
 
-
-## Fonts auf Websites
-### Geschichte
-::: margin compact
-#### Browser mit Webfont-Unterstüzung
-* Chrome 4.0+
-* Internet Explorer 4+
-* Firefox 3.5+
-* Safari 3.1+
-* Opera 10+
-
-Quelle: [Web typography - Wikipedia](https://en.wikipedia.org/wiki/Web_typography)
-
-:::
-Seit Computer eine Darstellung an einem Bildschirm aufweisen, wurde immer wieder nach technischen und gestalterischen Möglichkeiten gesucht, Schriften möglichst den Wünschen des Gestalters entsprechend dar zu stellen. Als das World Wide Web 1993 durch das CERN frei gegeben wird, war die Formatierung noch nicht durch einen Gestalter zu beeinflussen. Lediglich der Browser bestimmte das aussehen. Mit der Einführung von CSS im Jahre 1996 wurde dann die Möglichkeit geschaffen, Schriften einem Inhalt zu zuweisen. Allerdings musste der entsprechende Font bereits auf dem Zielgerät installiert sein. Bereits 1997 ermöglichte Microsoft mit damaliger Technologie in Ihrem Browser das Laden von Fonts über das Internet. Somit wurde es möglich, eigene Schriften einzusetzen. Doch diese Technologie war nur auf Internet Explorer (Windows) verfügbar und auch von den Font-Anbietern sehr schlecht akzeptiert. Erst im Jahre 2009 wurde auf Grundlage von OpenType ein neues Format namens «WOFF» (Web Open Font Format) entwickelt. Dieses Format wurde sehr schnell von Browser-Herstellern und von Font-Anbietern akzeptiert, so dass heute Problemlos auf allen wichtigen Browsern der vom Gestalter gewünschte Font dynamisch in die Seite geladen werden kann.
-
-
-### Verbreitung und Vorteile von Webfonts
-Meist kommt bei Webfonts das WOFF (Web Open Font Format) zum Einsatz. Seit 2014 sind auch die besser komprimierten WOFF 2.0 Dateien im Gebrauch, die heute von allen modernen Browsern unterstützt werden. Auch ältere Browser können mit älteren Font-Formaten (EOT)  Schriften einbinden.
-Verfügt man über eine Lizenz eines Webfonts, so kann diese Schrift dynamisch zur Seite hinzugeladen werden. Der Gestalter weiss somit, wie seine Seite aussehen wird und kann die Typografie vollständig kontrollieren.
-
-
-<div class='header'></div>
 
 
 ## Darstellung von Fonts
@@ -415,6 +392,45 @@ Ist der Renderer in der Lage die neuen Instruktionen im Font zu lesen, so kann d
 
 
 
+<div class='header'></div>
+
+## Parametrische Fonts
+
+
+Bei Parametrischen Fonts führen veränderte Input-Parameter zu anders erzeugten Fonts. Dieses Konzept gibt es seit spätestens 1984 als Donald Knuth mit Metafont ein System präsentierte, welches Fonts mit unbeschränkt vielen Parametern versehen lässt.
+
+<br>
+
+:::: margin
+::: grid w80p
+![Experimente mit metaflop.com](./img/metaflop.svg)
+:::
+
+<br>
+Im Jahr 2012 entstand mit metaflop.com ein Font-Generator zum Erzeugen eines Fonts mittels Parametrischen eingaben. Einzelne Instanzen können als Font herunntergeladen werden.
+::::
+::: imageline
+![Prototypo – Font-Generator](./img/Prototypo-new-UI.jpg)
+:::
+Im Jahr 2014 startete mit «prototypo.io» zum ersten mal eine leicht zugängliche und einfach zu bedienende Web-App zum modifizieren parametrischer Fonts. Mittels Schiebereglern kann ein zuvor von den Machern definiertes Font-Model angepasst werden und dann als Font herunntergeladen werden. Die Fonts können dann in eine Website eingebunden oder auf dem Desktop verwendet werden.
+<br>
+<br>
+
+#### Interpolation für Websites
+Im Jahr 2015 entstanden die ersten JavaScript-Experimente mit denen Fonts live im Web-Browser interpoliert wurden und dann für die Anzeige verwendet wurden. Somit konnte auf die Umstände der Anzeige (Bildschirmgrösse, Gerät, ...) reagiert werden. Dieses Konzept war jedoch technisch nicht ausgereift genug für produktive Systeme. Es war eher ein «proof of concept».
+
+<br>
+
+
+::: grid
+![Anpassen von Fonts gemäss Fensterbreite](./img/InterpolationAll.png)
+:::
+Anpassen des Fonts je nach Fenstergrösse.
+
+Bildquelle: [A List Apart – Live font interpolation](http://alistapart.com/d/412/interpolation/)
+
+
+
 
 
 
@@ -429,8 +445,8 @@ sh@signalwerk.ch
 #### Dokumentgeschichte
 Mai 2014: Erstellung  
 September 2015: Erweiterung  
-März 2017: Erweiterung
-Juni 2018: Erweiterung
+März 2017: Erweiterung  
+Juni 2018: Erweiterung  
 :::
 
 ## Weiterführende Informationen
@@ -438,6 +454,8 @@ Juni 2018: Erweiterung
 
 ### Subpixel-Rendering
 * [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
+* [Subpixel rendering: from font rendering to image subsampling](https://ieeexplore.ieee.org/document/6494674/)
+
 
 ### Fonts in Webfonts konvertieren
 * [Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)
@@ -455,3 +473,6 @@ Juni 2018: Erweiterung
 * [Colorfont – JavaScript Solution](http://manufacturaindependente.com/colorfont/)
 * [Typography.Guru – Color Emoji](http://typography.guru/journal/windows-color-fonts/)
 * [OpenType - Wikipedia](https://en.wikipedia.org/wiki/OpenType#Color)
+
+### Andere Renderings
+* [Checkerboard rendering](https://en.wikipedia.org/wiki/Checkerboard_rendering)
