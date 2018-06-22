@@ -14,7 +14,10 @@ title: Inhalt
 * [Internet · Grundlagen](/grundlagen/)
 * [Fonts · Eigenschaften](/font-anatomy/)
 * [Fonts · Verwendung](/font-use/)
+* [Fonts · Darstellung](/font-rendering/)
+* [Screens](/screens/)
 * [Interaktion · Navigation](/navigation/)
+* [Technologiegeschichte der Schrift](/font-technology/)
 
 ### 1. Semester
 
@@ -28,11 +31,8 @@ title: Inhalt
 * [Lab · Ziele](/ziele/semester-02/)
 * [Lab · Aufgabe · Dropbox](/exercise-dropbox-handling/)
 * [Lab · Aufgabe · Fonts im Web](/exercise-webfont/)
-
-#### Dokumentation
 * [Lab · Untersuchung · Schriftmuster (Papier)](/exercise-webfont/paper-specimen/)
 * [Lab · Zusammenstellung · Links](/exercise-webfont/font-foundries/)
-* [Technologiegeschichte der Schrift](/font-technology/)
 
 <!-- * [Lab · Plan](/plan/semester-02/) -->
 
