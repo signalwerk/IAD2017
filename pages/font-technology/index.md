@@ -8,27 +8,6 @@ title: Technologiegeschichte der Schrift
 [[TOC]]
 :::
 
-<style>
-.embed-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-  height: auto;
-}
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
-
-
 ## Intro
 Die Nachfolgende Dokumentation soll die wichtigsten technologischen Schritte aufzeigen, die sich im 20. und 21. Jahrhunder auf die Schriftform ausgewirkt haben. Die Dokumentation beansprucht keine Vollständigkeit. Die hier dargestellte Technologiegeschichte hat einen Fokus auf die Europäische Geschichte.
 
@@ -86,17 +65,17 @@ Quelle: «Gewone letters: Gerrit Noordzij's early models» – Albert-Jan Pool, 
 
 #### Breitfeder
 
-<div class='embed-container'>
+::: video space3
   <iframe src="https://www.youtube.com/embed/i6fWPSMwJT8?start=322&end=345" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+:::
 
 
 
 #### Spitzfeder
 
-<div class='embed-container'>
+::: video space3
   <iframe src="https://player.vimeo.com/video/62849657" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+:::
 
 
 ## Buchdruck
@@ -196,27 +175,26 @@ Anfangs mechanisch, später auch optisch arbeitende Abtastgeräte steuern die Se
 
 
 #### Linotype
-<div class='embed-container'>
+::: video space3
   <iframe src="https://www.youtube.com/embed/13trF0_XIMs?start=34" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-<br/>
-<div class='embed-container'>
-  <iframe src="https://www.youtube.com/embed/avDuKuBNuCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+:::
 
+<br>
+
+::: video space3
+  <iframe src="https://www.youtube.com/embed/avDuKuBNuCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+:::
 
 #### Montoype Keyboard
 
-<div class='embed-container'>
+::: video space3
   <iframe src="https://www.youtube.com/embed/LcphfMlOzk4?start=20" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-<br/>
+:::
 
 #### Montoype Caster
-<div class='embed-container'>
+::: video space3
   <iframe src="https://www.youtube.com/embed/M9DV95IEKGU?start=690" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
+:::
 
 
 ## Fotosatz
@@ -349,6 +327,7 @@ Die TrueType-Technologie wurde später auch an Microsoft lizenziert.
 
 ::: margin
 ![](./img/mac/fonts/Original_Mac_fonts.png)
+Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Susan_Kare#/media/File:Original_Mac_fonts.png)
 
 Fonts von Susan Kare für Apple Macintosh entwickelt.
 :::
@@ -377,10 +356,9 @@ Adobe wurde im Dezember 1982 von John Warnock und Charles Geschke gegründet. Zu
 
 
 ### Laserdrucker
-<div class='embed-container'>
+::: video space3
   <iframe src="https://www.youtube.com/embed/WB0HnXcW8qQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
+:::
 
 
 <div class='header'></div>
