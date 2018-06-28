@@ -429,6 +429,8 @@ März 2018: Erweiterung
 
 ## Weiterführende Informationen
 
+### Linksammlung
+* [Awesome Typography](https://github.com/Jolg42/awesome-typography)
 
 ### Schriften Testsen
 * [Typecast](http://typecast.com) (über [Google Fonts](https://fonts.google.com/) auch ohne Account)
