@@ -245,6 +245,24 @@ Fontwechsel – Auswechseln von Fonts abhängig von der Fenstergrösse.
 
 ## Variable Fonts
 
+
+### Vorgeschichte
+Im Jahr 2015 entstanden die ersten JavaScript-Experimente mit denen Fonts live im Web-Browser interpoliert (Zwischenschnitt zwischen zwei Extrem-Schriftschnitten) wurden und dann für die Anzeige verwendet wurden. Somit konnte auf die Umstände der Anzeige (Bildschirmgrösse, Gerät, ...) reagiert werden. Dieses Konzept war jedoch technisch nicht ausgereift genug für produktive Systeme. Es war eher ein «proof of concept».
+
+<br>
+
+
+::: grid
+![Anpassen von Fonts gemäss Fensterbreite](./img/InterpolationAll.png)
+:::
+Anpassen des Fonts je nach Fenstergrösse.
+
+Bildquelle: [A List Apart – Live font interpolation](http://alistapart.com/d/412/interpolation/)
+
+
+
+### Standardisierung
+
 ::: margin compact
 #### Links
 * [Übersicht Variable Fonts](https://medium.com/@clagnut/get-started-with-variable-fonts-c055fd73ecd7)
