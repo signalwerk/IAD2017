@@ -12,8 +12,6 @@ title: CSS · Einheiten
 
 
 
-
-
 ## Veschiedene Arten von Einheiten
 
 * fixe Einheiten (immer gleich)
