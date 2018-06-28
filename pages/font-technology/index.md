@@ -304,7 +304,7 @@ Quelle: [Digital Media for Artists](http://www.dma.ufg.ac.at/app/link/Hardware%3
 ## Ikarus
 Im Jahr 1975 wurde von der Firma URW ein System namens Ikarus eingführt damit war es möglich mit einem für den Benutzer relativ einfachen System eine Aussenlinie eines Fonts zu beschreiben. Das System wird bis heute weiter entwickelt und viele hochwertige fonts wurden in den 1980–1990er Jahren mit diesem System gemacht.
 
-[Making Faces: Metal Type in the 21st Century](https://vimeo.com/82013261) Zeitmarke: 12:15
+[Making Faces: Metal Type in the 21st Century (nur Trailer)](https://vimeo.com/82013261) (Zeitmarke: 12:15 im Originalfilm)
 
 ![](./img/ikarus/dutchtypelibrary/Index_News_Nov_1.jpg)
 Zeichnung für die DLT Dorian mit den für Ikarus typischen Markierungen die für die digitale Erfassung nötig sind.  
@@ -314,7 +314,7 @@ Quelle: [Dutchtypelibrary](https://www.dutchtypelibrary.nl/index_desktop.html)
 ## Apple und TrueType
 ::: margin
 ![](./img/bezier/bezier_2_big.gif)
-Quadratische Kurve (TrueType)
+Quadratische Kurve (TrueType)  
 Quelle: [Wikipedia](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
 :::
 
@@ -347,7 +347,7 @@ Mit MacOS 7 gab es die Möglichkeit anstatt Bitmaps Vektoren zu verwenden.
 ## Adobe und PostScript
 ::: margin
 ![](./img/bezier/bezier_3_big.gif)
-Kubische Kurve (PostScript)
+Kubische Kurve (PostScript)  
 Quelle: [Wikipedia](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
 :::
 
@@ -355,10 +355,42 @@ Quelle: [Wikipedia](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
 Adobe wurde im Dezember 1982 von John Warnock und Charles Geschke gegründet. Zuvor hatten die beiden bei Xerox PARC gearbeitet, hatten dies jedoch verlassen, um die Vektorbeschreibungssprache PostScript (Kubische Funktion) zu entwickeln. 1985 lizenzierte Apple PostScript für den Einsatz in seinen LaserWriter-Druckern nun als Seitenbeschreibungssprache. Diese läuteten eine Revolution für die Grafische Industrie ein, da es nun möglich war für relativ wenig Geld sehr hochwertige Ausgaben zu erzielen.
 
 
+
+
+<div class='header'></div>
+
+
+
 ### Laserdrucker
 ::: video space3
   <iframe src="https://www.youtube.com/embed/WB0HnXcW8qQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 :::
+
+<div class='header'></div>
+
+## Parametrische Fonts
+
+
+Bei Parametrischen Fonts führen veränderte Input-Parameter zu anders erzeugten Fonts. Dieses Konzept gibt es seit spätestens 1984 als Donald Knuth mit Metafont ein System präsentierte, welches Fonts mit unbeschränkt vielen Parametern versehen lässt.
+
+<br>
+
+:::: margin
+::: grid w80p
+![Experimente mit metaflop.com](./img/metaflop.svg)
+:::
+
+<br>
+Im Jahr 2012 entstand mit [metaflop.com](https://www.metaflop.com/) ein Font-Generator zum Erzeugen eines Fonts mittels Parametrischen eingaben. Einzelne Instanzen können als Font herunntergeladen werden.
+::::
+::: imageline
+![Prototypo – Font-Generator](./img/Prototypo-new-UI.jpg)
+:::
+Im Jahr 2014 startete mit «prototypo.io» zum ersten mal eine leicht zugängliche und einfach zu bedienende Web-App zum modifizieren parametrischer Fonts. Mittels Schiebereglern kann ein zuvor von den Machern definiertes Font-Model angepasst werden und dann als Font herunntergeladen werden. Die Fonts können dann in eine Website eingebunden oder auf dem Desktop verwendet werden.
+<br>
+<br>
+
+
 
 
 <div class='header'></div>
@@ -389,13 +421,14 @@ Juni 2018: Erstellung
 * [Linotype – Film](http://www.linotypefilm.com/)
 * [ppm – Pixelformat](https://en.wikipedia.org/wiki/Netpbm_format) ([Spezifikation](http://netpbm.sourceforge.net/doc/ppm.html))
 * [IBM Selectric](https://player.vimeo.com/video/139984057)
+
 ### Fontformen
 * [Kapitalis Monumentalis](https://typejournal.ru/en/articles/The-Trajan-Letter-in-Russia-and-America)
 * [Bell Centennial](https://nicksherman.com/articles/bellCentennial.html)
-
+* [Simoncini – reverse deformation](https://articles.c-a-s-t.com/behind-simoncinis-glasses-347612482416)
+* [Nicolas Jenson](https://articles.c-a-s-t.com/nicolas-jenson-and-the-success-of-his-roman-type-9f0afeba4103)
 
 ## Weiterführende Stichworte
-
 * Optical Sizes
 * Buchproduktion vs. Manuskript
 * Ausbreitung von Druckpresen in Europa
