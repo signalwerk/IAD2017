@@ -1,8 +1,6 @@
-## Fragen an Jonas
-
 # Thesis
 
-> > Der Begriff Hypothese bezeichnet eine für die Forschung zielführende wissenschaftliche Behauptung mit Wahrheitsanspruch.
+>> Der Begriff Hypothese bezeichnet eine für die Forschung zielführende wissenschaftliche Behauptung mit Wahrheitsanspruch.
 
 ### Umfeld
 
