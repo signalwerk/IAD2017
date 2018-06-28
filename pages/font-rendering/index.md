@@ -16,6 +16,9 @@ title: Fonts · Darstellung
 ### Vektor zu Pixel
 Heutige Fonts bestehen meist aus Vektor-Daten, die dann für die Anzeige an einem Ausgabegerät in eine Pixel-Matrix umgesetzt werden müssen. Diese Umrechnung von Vektoren zu Pixel kann auf verschiedene Arten geschehen. Die dafür zuständige Software wird Renderer genannt und ist je nach Hersteller unterschiedlich und liefert für die selben Vektoren unterschiedliche Ergebnisse.
 
+### Grösse in Pixel
+Die Darstellungsgrösse einer Schrift wird in PPM (pixels per em) gemessen. Also wie viele Pixel das Geviert (vertikaler Raumbedarf) einnimmt. Wird also ein Font auf eine Schriftgrösse von 20 Pixel eingestellt, so ist der vertikale Raumbedarf 20 Pixel hoch. Das effektive Schriftbild (Schwärzung) ist jedoch im allgemeinen kleiner und von Schrift zu Schrift verschieden. Siehe [Fonts · Eigenschaften](../font-anatomy/).
+Eine Fontdatei hat intern ein ein Koordinatensystem, welches sich in Einheiten pro Geviert berechnet bei PostScript-basierten Schriften ist dies meist 1000 UPM (units per em) und bei TrueType-basierten Schriften meist 2048 UPM.
 
 <br>
 <br>
@@ -53,8 +56,8 @@ Eine höhere Auflösung pro Buchstabe kann erreicht werden, indem die Grösse de
 
 ::: grid fullsize upscale
 ![Arial as in s/w gerendert](./img/Microsoft_BW_Arial_a_waterfall@10x.png)
-#### MS-Renderer – S/W 8 bis 48 Pixel Höhe (PPM)
-Microsoft Arial Unicode (mit Hinting)
+#### 8 bis 48 Pixel Höhe (PPM)
+Microsoft Arial Unicode – MS-Renderer – S/W
 :::
 
 <div class='header'></div>
@@ -66,8 +69,8 @@ Microsoft Arial Unicode (mit Hinting)
 ![Textworte in Arial als s/w in 8–18px mit Microsoft Renderer](./img/Microsoft_BW_Arial_word_waterfall_8_18px@10x.png)
 :::
 ### 8 bis 18 Pixel Höhe (PPM)
-MS-Renderer – S/W  
-Microsoft Arial Unicode
+Microsoft Arial Unicode – MS-Renderer – S/W  
+
 ::::
 Bei kleinen Schriften oder aber bei gewissen Display-Technologien kann es sinnvoll sein, Schrift nur mit S/W darzustellen.
 
@@ -207,7 +210,7 @@ PostScript basierte Schriften (OpenType PS & PostScript Type 1) ermöglichen wen
 
 
 ### TrueType mit von Hand eingefügten Hints
-Microsoft Arial Unicode
+Microsoft Arial Unicode – MS-Renderer – S/W
 
 
 
@@ -221,7 +224,7 @@ Die Stammstärken des Buchstaben wachsen gleichmässig an.
 <br>
 
 ### Autohints in PostScript
-AMB Newut Medium
+AMB Newut Medium – MS-Renderer – S/W
 
 ::::: grid fullsize
 ![PostScript a in AMB Newut Medium 5 – 48](./img/Microsoft_BW_Newut_a_waterfall@10x.png)
@@ -311,7 +314,16 @@ Bei der Darstellung von Zeichen mit Graustufen wird je nach eingesetztem Rendere
 
 
 ## Darstellung mit Subpixel-Rendering
+::: margin
+
+:::
 Bei der Darstellung mit Subpixeln wird die Schrftglättung nicht nur über verschiedene Graustufen erzeugt, sondern auch noch der Vorteil ausgenutzt, dass ein Bildschirm in horizontaler Richtung eine dreifach grössere Auflösung besitzt, da die RGB-Darstellung über drei Farb-Zustände in horizontaler Richtung geschieht. Dadurch wird die Darstellungsqualität wesentlich verbessert.
+
+### Windows
+Unter Windows wurde im Jahr 2001 mit Windows XP (ClearType) das erste mal Subpixel-Rendering eingeführt. In Window 7 (2009) wurde mit der neuen Technologie [DirectWrite](https://www.webtype.com/info/articles/web-font-quality/) eine Verbesserung in der Darstellung mit Subpixel-Rendering erzielt.
+
+### MacOS
+Unter MacOS wurde Subpixel-Rendering mit [MacOS X 10.3 (Panther)](https://daringfireball.net/2003/11/panther_text_rendering) im Jahr 2003 eingeführt. MacOS 10.14 (Mojave) entfernt Subpixel-Rendering auf hochauflösenden Screens im 2018.
 
 
 ::::: grid fullsize space3 upscale
@@ -343,6 +355,34 @@ Microsoft Arial Unicode – 12 Pixel Höhe (PPM)
 Microsoft Arial Unicode – 12 Pixel Höhe (PPM)
 :::
 ![Testwort mit Subpixel-Darstellung](./img/Apple_subpixel_Arial_Hamburgefonts_12px@10x.png)
+
+
+
+
+<div class='header'></div>
+
+## Hochauflösende Darstellung & OLED
+Auf hochauflösenden Screens und auch bei OLED-Technologie wird meist kein Subpixel-Rendering mehr eingesetzt.
+
+::::: grid fullsize
+:::: col_6of12
+![](./img/iOS11_SanFranciscoProText17ptReg_IMG_5010@100x.png)
+#### Rendering ohne Subpixel-Rendering
+iOS 11 [San Francisco Pro Text Regular 17pt](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) (Screenshot)
+::::
+:::: col_6of12_last
+![](./img/normal/iPhoneX_iOS11_SanFranciscoProText17ptReg_IMG_5010.jpg)
+#### Darstellung ohne Subpixel-Rendering
+iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)
+::::
+:::::
+
+
+
+
+
+
+
 
 
 
@@ -389,51 +429,6 @@ Ist der Renderer in der Lage die neuen Instruktionen im Font zu lesen, so kann d
 :::::
 
 
-
-
-
-<div class='header'></div>
-
-## Parametrische Fonts
-
-
-Bei Parametrischen Fonts führen veränderte Input-Parameter zu anders erzeugten Fonts. Dieses Konzept gibt es seit spätestens 1984 als Donald Knuth mit Metafont ein System präsentierte, welches Fonts mit unbeschränkt vielen Parametern versehen lässt.
-
-<br>
-
-:::: margin
-::: grid w80p
-![Experimente mit metaflop.com](./img/metaflop.svg)
-:::
-
-<br>
-Im Jahr 2012 entstand mit metaflop.com ein Font-Generator zum Erzeugen eines Fonts mittels Parametrischen eingaben. Einzelne Instanzen können als Font herunntergeladen werden.
-::::
-::: imageline
-![Prototypo – Font-Generator](./img/Prototypo-new-UI.jpg)
-:::
-Im Jahr 2014 startete mit «prototypo.io» zum ersten mal eine leicht zugängliche und einfach zu bedienende Web-App zum modifizieren parametrischer Fonts. Mittels Schiebereglern kann ein zuvor von den Machern definiertes Font-Model angepasst werden und dann als Font herunntergeladen werden. Die Fonts können dann in eine Website eingebunden oder auf dem Desktop verwendet werden.
-<br>
-<br>
-
-#### Interpolation für Websites
-Im Jahr 2015 entstanden die ersten JavaScript-Experimente mit denen Fonts live im Web-Browser interpoliert wurden und dann für die Anzeige verwendet wurden. Somit konnte auf die Umstände der Anzeige (Bildschirmgrösse, Gerät, ...) reagiert werden. Dieses Konzept war jedoch technisch nicht ausgereift genug für produktive Systeme. Es war eher ein «proof of concept».
-
-<br>
-
-
-::: grid
-![Anpassen von Fonts gemäss Fensterbreite](./img/InterpolationAll.png)
-:::
-Anpassen des Fonts je nach Fenstergrösse.
-
-Bildquelle: [A List Apart – Live font interpolation](http://alistapart.com/d/412/interpolation/)
-
-
-
-
-
-
 <div class='header'></div>
 
 ::: margin printonly
@@ -451,20 +446,10 @@ Juni 2018: Erweiterung
 
 ## Weiterführende Informationen
 
-
 ### Subpixel-Rendering
 * [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
 * [Subpixel rendering: from font rendering to image subsampling](https://ieeexplore.ieee.org/document/6494674/)
-
-
-### Fonts in Webfonts konvertieren
-* [Font Squirrel](http://www.fontsquirrel.com/tools/webfont-generator)
-
-### Webfonts und Kompression von Webfonts
-* [Web Open Font Format - Wikipedia](https://en.wikipedia.org/wiki/Web_Open_Font_Format)
-* [WOFF File Format 1.0](http://www.w3.org/TR/WOFF/)
-* [WOFF File Format 2.0](https://www.w3.org/TR/WOFF2/)
-* [Google Developers Blog – WOFF 2.0](http://googledevelopers.blogspot.hu/2015/02/smaller-fonts-with-woff-20-and-unicode.html)
+* [Apple – Advanced Typography with Mac OS X](https://wwwimages2.adobe.com/content/dam/acom/en/products/type/pdfs/FontsonMacOSX.pdf)
 
 ### Farbige Fonts
 * [Pixelambacht – multicolor fonts](https://pixelambacht.nl/2014/multicolor-fonts/)

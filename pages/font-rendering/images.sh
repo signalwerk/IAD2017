@@ -1,6 +1,6 @@
 
 
-rm ./img/*.png
+#rm ./img/*.png
 
 for file in ./img/upscale100x/*.png; 
 do

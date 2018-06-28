@@ -1,0 +1,31 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+}
+
+body {
+  margin: 1rem;
+}
+
+.example {
+  border-bottom: 1px solid;
+  padding: 1rem 0;
+}
+
+.caption {
+  display: inline-block;
+  width: 30px;
+  font-size: 10px;
+}
+
+.text {
+  display: inline-block;
+}
+
+.stage {
+  width: 90px;
+}
+
+.subpixel {
+  -webkit-font-smoothing: subpixel-antialiased;
+}
