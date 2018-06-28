@@ -182,22 +182,25 @@ Quelle: Stefan Huber
 
 ::: grid fullsize
 ![](./img/OLED_detail.jpg)
+
 Bildquelle: [LG](http://www.lg.com/global/business/information-display/technology-solution/oled)
 :::
 
 
 
 ![](./img/OLED.png)
-OLED Varriante, bei dem zusätzlich zu RGB auch noch eine Weisskomponente angesteuert wird ([WRGB OLED](https://www.youtube.com/watch?v=3qRhTKOu9Pw)).
 
 Bildquelle: [Gamezone/LG](https://www.mweb.co.za/games/NewsArticles/tabid/2561/Article/30977/Samsung-QLED-How-does-its-display-work-and-is-it-better-than-OLED.aspx)
+
+OLED Varriante, bei dem zusätzlich zu RGB auch noch eine Weisskomponente angesteuert wird ([WRGB OLED](https://www.youtube.com/watch?v=3qRhTKOu9Pw)).
+
 
 
 ## Bildwiederholrate
 ::: margin
 * Animation flüssig: ab [20 – 30 Frames pro Sekunde (fps)](https://en.wikipedia.org/wiki/Frame_rate#/media/File:Animhorse.gif)
 * Ideal: 60 Frames pro Sekunde
-* Wow: einige Geräte haben heute 120 fps 
+* Wow: einige Geräte haben heute 120 fps
 
 :::
 Damit eine Animation flüssig auf dem Bildschirm erscheint, sollten zwischen 20 – 30 Frames pro Sekunde (fps) neu gezeichnet werden. 60 Frames pro Sekunde sind ideal. Viele Monitore können 60 Frames pro Sekunde anzeigen. Die limitierende Komponente ist meist eher ob der Computer in der Lage ist, so schnell die Bilder zu berechnen.
@@ -226,7 +229,7 @@ Juni 2018: Erstellung
 
 
 ### Kennzahlen zu Bildschirmen
-* [Lumen](https://de.wikipedia.org/wiki/Lumen_(Einheit))
+* [Lichtstärke – Lumen](https://de.wikipedia.org/wiki/Lumen_(Einheit))
 * [Leuchtdichte – Nits](https://de.wikipedia.org/wiki/Leuchtdichte)
 * [Farbraum](https://de.wikipedia.org/wiki/Farbraum)
 
@@ -238,3 +241,4 @@ Juni 2018: Erstellung
 ### Screens
 * [Kathodenstrahlröhre (Cathode ray tube – CRT)](https://youtu.be/3BJU2drrtCM?t=2m17s) & [Wikipedia](https://de.wikipedia.org/wiki/Kathodenstrahlr%C3%B6hre)
 * [iPhone X Display](https://www.theverge.com/2017/10/31/16579748/apple-iphone-x-review)
+* [Framerate](https://www.youtube.com/watch?v=mjYjFEp9Yx0)
