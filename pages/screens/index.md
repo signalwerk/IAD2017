@@ -173,9 +173,10 @@ Smartphone, Tablet, Desktop
 Seit wenigen Jahren sind OLED (organic light emitting diode) eine weitere Display-Technologie, die vermehrt Einsatz findet. Vor allem kleinere Screens, wie in Smartphones verbaut, halten vermehrt mit dieser neuen Technologie einzug. Während beim TFT LCD das Licht über eine weisse Hingergrundbeleuchtung kommt und gefiltert wird, wird beim OLED farbiges Licht ausgestrahlt.
 
 <video controls>
-  <source src="./img/REC016.mp4" />
-  <source src="./img/REC016.webm" />
+  <source src="https://cdn.rawgit.com/signalwerk/IAD.LAB.DOC/35af6c67/pages/screens/img/REC016.mp4" />
+  <source src="https://cdn.rawgit.com/signalwerk/IAD.LAB.DOC/35af6c67/pages/screens/img/REC016.webm" />
 </video>
+iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)
 
 Quelle: Stefan Huber
 
