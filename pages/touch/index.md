@@ -1,0 +1,2 @@
+
+resistiv capacitiv display
