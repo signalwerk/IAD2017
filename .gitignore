@@ -28,13 +28,10 @@ node_modules
 .gatsby-context.js
 .sass-cache/
 public/
-/pages/excercise-first-semester/feedback
-/pages/excercise-first-semester/nadia.md
+
+# travis
 travis/.ssh/id_rsa
-/pages/excercise-first-semester/work
-/__DATA
-/pages/thesis/__OLD
-/pages/font-technology/Schriftbild.2.pdf
-/pages/font-technology/Schriftbild.4.pdf
-/pages/exercise-exp-story/marks/index.md
-/pages/exercise-webfont/schriftmuster/_ZIP
+
+# not to publish
+/___not in use
+/pages/_PRIVATE
