@@ -390,6 +390,11 @@ iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)
 <div class='header'></div>
 
 ## Farbige Fonts
+::: margin compact
+#### Weiterführende Links
+
+[Übersicht Color Fonts](https://www.colorfonts.wtf/)
+:::
 Es gibt vier verschiedene Möglichkeiten, wie in einem OpenType-Font farbige Elemente definiert werden können. Abweichende «Standards» wurden jeweils separat von folgenden Parteien entwickelt;
 
 * Microsoft (COLR/CPAL)

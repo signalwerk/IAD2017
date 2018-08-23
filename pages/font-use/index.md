@@ -247,6 +247,15 @@ Fontwechsel – Auswechseln von Fonts abhängig von der Fenstergrösse.
 
 
 ### Vorgeschichte
+::: margin compact
+#### Links
+
+* [Verzeichnis von Variable Fonts](https://v-fonts.com/)
+* [Übersicht Variable Fonts](https://medium.com/@clagnut/get-started-with-variable-fonts-c055fd73ecd7)
+* [Getting started with variable fonts](https://clagnut.com/blog/2389/)
+* [Variable Fonts on the Web – WebKit](https://webkit.org/blog/7051/variable-fonts-on-the-web/)
+* [The Typekit Blog – Variable fonts](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
+:::
 Im Jahr 2015 entstanden die ersten JavaScript-Experimente mit denen Fonts live im Web-Browser interpoliert (Zwischenschnitt zwischen zwei Extrem-Schriftschnitten) wurden und dann für die Anzeige verwendet wurden. Somit konnte auf die Umstände der Anzeige (Bildschirmgrösse, Gerät, ...) reagiert werden. Dieses Konzept war jedoch technisch nicht ausgereift genug für produktive Systeme. Es war eher ein «proof of concept».
 
 <br>
@@ -262,14 +271,6 @@ Bildquelle: [A List Apart – Live font interpolation](http://alistapart.com/d/4
 
 
 ### Standardisierung
-
-::: margin compact
-#### Links
-* [Übersicht Variable Fonts](https://medium.com/@clagnut/get-started-with-variable-fonts-c055fd73ecd7)
-* [Getting started with variable fonts](https://clagnut.com/blog/2389/)
-* [Variable Fonts on the Web – WebKit](https://webkit.org/blog/7051/variable-fonts-on-the-web/)
-* [The Typekit Blog – Variable fonts](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
-:::
 
 Im Oktober 2016 hatte ein breites Konsortium von diversen Herstellern den OpenType-Standard mit der Version 1.8 angekündigt. Adobe, Google, Microsoft und Andere haben zugesagt diesen Standard bald in Ihre Software-Produkte zu integireren. Neben diversen eher technischen Erneuerungen ist vor allem die Möglichkeit für «Variable Fonts» für Gestalter heraus zu streichen. Mit dieser Funktion können Fonts mehrere so genannte Design-Achsen haben. Man kann also Fonts so einrichten, dass Sie zum Beispiel von ganz Light zu super Black stuffenlos (oder mit vom Designer gewählten Stufen) einstellbar sind. Aber auch andere Design-Achsen lassen sich frei vom Schriftdesinger bestimmen. Diese Technologie erinnert an die «Multiple master fonts» (1991), jedoch wird sich der neue Standard wohl besser verbreiten als die damalige Technologie.
 
