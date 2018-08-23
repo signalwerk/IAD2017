@@ -7,7 +7,7 @@ title: Info · Fablab
 <div class='header'></div>
 
 # ACHTUNG!!!
-## Wir produzieren wie ein Stempel. Damit nach dem Drucken alles richtig ist, muss der «Stempel» spiegelverkehrt sein!!!
+## Wir produzieren wie ein Stempel. Damit nach dem Drucken alles richtig ist, muss der «Stempel» spiegelverkehrt sein!!! Also spiegelverkehrt aufkleben, seitenrichtig lasern.
 
 
 ## Pro Person
@@ -44,6 +44,7 @@ title: Info · Fablab
 * Die einzelnen Buchstaben sind durch eine Linie abgetrennt
 
 ### Datei für Laser vorbereiten
+Instruktion siehe [Wiki](http://wiki.zurich.fablab.ch/AKJ_6090) und Thomas.
 ![](./img/IMG_7750.JPG)
 
 ### Material rechtwinklig (!) platzieren
@@ -51,6 +52,9 @@ Ob etwas im rechten Winel steht, kann auch mit dem Laser (Nullpunkt) geprüft we
 ![](./img/IMG_7749.JPG)
 
 ### brzzzz...
+AKJ 6090 (der Neue) – 6 mm/s – 75 % Energie  
+Ist aber eher zuviel.
+
 ![](./img/IMG_7752.JPG)
 
 ### Länge auf Träger anzeichnen
