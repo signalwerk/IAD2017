@@ -23,8 +23,9 @@ title: Inhalt
 #### Stubs
 * [CSS · Einheiten](/css-units/)
 * [Web-Typografie](/web-typography/)
-* [Touch-Interface](/touch/)
-* [Thesis](/thesis/)
+* [Cheatsheet · CLI](/cheatsheet-cli/)
+<!-- * [Touch-Interface](/touch/) -->
+<!-- * [Thesis](/thesis/) -->
 
 
 
@@ -47,7 +48,12 @@ title: Inhalt
 
 ### 3. Semester
 
+* [Lab · Aufgabe · Dropbox](/exercise-dropbox-handling/)
+* [Lab · Aufgabe · Cookie Clicker](/exercise-cookie-clicker/)
 * [Info · Fablab](/typesetting-infos/)
+
+### 4. Semester
+
 * [Lab · Aufgabe · Dropbox](/exercise-dropbox-handling/)
 
 <br>
