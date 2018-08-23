@@ -47,6 +47,7 @@ title: Inhalt
 
 ### 3. Semester
 
+* [Info · Fablab](/typesetting-infos/)
 * [Lab · Aufgabe · Dropbox](/exercise-dropbox-handling/)
 
 <br>
