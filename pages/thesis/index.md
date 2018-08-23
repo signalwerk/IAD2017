@@ -75,17 +75,16 @@ Der Ablauf der Verteidigung läuft wie folgt:
 | ----- | ------------------ |
 | 08:30 | Pascale Anderegg   |
 | 09:00 | Marius Becker      |
-| 09:30 | Nadia Bendinelli   |
-| 10:00 | Stephanie Fuchs    |
-| 10:30 | Marc Hatt          |
-| 11:00 | Severin Kilchhofer |
-| 13:00 | Matthias Koch      |
-| 13:30 | Lars Mäder         |
-| 14:00 | Nils Mäder         |
-| 14:30 | Tieu Khe Mayer     |
-| 15:00 | Natasha Ruf        |
-| 15:30 | Wolfgang Schoeck   |
-| 16:00 | Nicole Watrinet    |
+| 09:30 | Stephanie Fuchs    |
+| 10:00 | Marc Hatt          |
+| 10:30 | Severin Kilchhofer |
+| 11:00 | Matthias Koch      |
+| 13:00 | Lars Mäder         |
+| 13:30 | Nils Mäder         |
+| 14:00 | Tieu Khe Mayer     |
+| 14:30 | Natasha Ruf        |
+| 15:00 | Wolfgang Schoeck   |
+| 15:30 | Nicole Watrinet    |
 
 #### Nachtrag
 
