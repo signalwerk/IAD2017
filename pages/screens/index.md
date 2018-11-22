@@ -105,6 +105,11 @@ only screen and ( min-resolution: 75dpcm)
 [Support-Matrix für Browser](https://caniuse.com/#feat=css-media-resolution)
 
 ## Pixel zu Dots/Point (Device Pixel Ratio)
+
+::: margin
+Microsoft verfolgt mit [Device-Independent Pixels](https://docs.microsoft.com/en-us/windows/desktop/learnwin32/dpi-and-device-independent-pixels) ein ähnliches Konzept für Desktop-Applikationen.
+:::
+
 So genannte hochauflösende Bildschirme (High pixel density display) zeichnen einen Pixel (Ausmass) mit mehreren Bildschirmpunkten (Dots/Point) an. Ist jedoch pro Pixel mehr Information vorhanden (zum Beispiel bei Bildern), werden die effektiven Bildschirmpunkten mit voller Auflösung genutzt. Je höher die Auflösung eines Bildschrims ist, desto schärfer wirkt der Bildschirm für den Menschen.
 Apple spricht bei hochaufgelösten Bildschirmen von Retina-Auflösung.
 
