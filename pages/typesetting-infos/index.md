@@ -60,7 +60,11 @@ Ist aber eher zuviel.
 ### Länge auf Träger anzeichnen
 ![](./img/IMG_7756.JPG)
 
+
+
 ### Träger ablängen
+# Auchtung! Die Säge ist gefährlich! Bitte Haare, Ketten etc. zurückbinden und immer ein Holz verwenden um sei Werkstuck zu schieben. Achtung Hände!
+
 ![](./img/IMG_7758.JPG)
 
 ### Aufleimen mit Hilfe vom «Abfall»
