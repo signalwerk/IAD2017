@@ -37,7 +37,7 @@ Einige Personen, die man berücksichtigen könnte. Ich bitte [Frauen](https://en
 
 
 ## Seitenstruktur
-Die ganze Klasse arbeitet in einem [→ Repository](https://github.com/logrinto/IAD2017.mobile-menu). Die Studierenden erstellen jeweils;
+Die ganze Klasse arbeitet in einem [Repository](https://github.com/logrinto/IAD2017.mobile-menu). Die Studierenden erstellen jeweils;
 
 ```
 {Nachname der Internet-Persönlichkeit}
