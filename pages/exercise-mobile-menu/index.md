@@ -9,7 +9,7 @@ title: Aufgabe · Hamburger-Menü
 In fast jedem Web-Projekt gibt es ein «Hamburger-Menü». Nun da die Studierenden in der lage sind einfache JavaScript-Arbeiten zu realisieren, kann ein Mobile-Menü mit «ausfahrendem» Inhalt realisiert werden.
 
 ### Termin
-Am 18. Januar 2019 muss die Website (gh-pages) online sein.
+Am 18. Januar 2019 muss die Website mittels `gh-pages` online sein. Zusätzlich muss im Unterricht die Person und das Design kurz (5 min.) präsentiert werden.
 
 ## Aufgabe
 Jede Person schreibt einen Text über eine bekannte «Internet-Persönlichkeit» im Umfang von etwa 1000 Zeichen. Quellen müssen korrekt und vollständig angegeben werden. Ein kritischer Umgang mit der Zuverlässigkeit der Quellen ist gefordert. Dieser Text soll als HTML-Dateien abgegeben werden. Bitte nur Text und Textstruktur verwenden. Keine Bilder, Videos, ... Plagiate werden mit der Note 1 bewertet. Für die Übersichtsseite muss zusätzlich ein Foto der Person im Format 1200 ✕ 900 px abgegeben werden. Bitte Quelle im Text deutlich vermerken. Lizenzen für Bild beachten!
