@@ -14,35 +14,38 @@ Am 18. Januar 2019 muss die Website mittels `gh-pages` online sein. Zusätzlich 
 ## Aufgabe
 Jede Person schreibt einen Text über eine bekannte «Internet-Persönlichkeit» im Umfang von etwa 1000 Zeichen. Quellen müssen korrekt und vollständig angegeben werden. Ein kritischer Umgang mit der Zuverlässigkeit der Quellen ist gefordert. Dieser Text soll als HTML-Dateien abgegeben werden. Bitte nur Text und Textstruktur verwenden. Keine Bilder, Videos, ... Plagiate werden mit der Note 1 bewertet. Für die Übersichtsseite muss zusätzlich ein Foto der Person im Format 1200 ✕ 900 px abgegeben werden. Bitte Quelle im Text deutlich vermerken. Lizenzen für Bild beachten!
 
-Einige Personen, die man berücksichtigen könnte. Ich bitte [Frauen](https://en.wikipedia.org/wiki/Women_in_computing) wo möglich zu bevorzugen:
-* Marissa Mayer
-* Steve Jobs
-* Bill Gates
-* Larry Page
-* Sergey Brin
-* Jeff Bezos
-* Donald E. Knuth
-* Aaron Swartz
-* Vint Cerf
-* Douglas Engelbart
-* Tim Berners-Lee
-* Brendan Eich
-* Peter Sunde
-* Julian Assange
-* Chelsea Manning
-* Edward Snowden
-* Glenn Greenwald
-* Lawrence Lessig
-* Steve Wozniak
+Einige Personen, die man berücksichtigen könnte. Ich bitte [Frauen](https://en.wikipedia.org/wiki/Category:Women_Internet_pioneers) wo möglich zu bevorzugen:
+* Marissa Mayer → Ex-CEO Yahoo!
+* Chelsea Manning → Whistleblowerin
+* Jen Simmons → CSS-Grids
+* Lin Clark → Mozilla Hacks
+* Lea Verou → CSS
+* Becky Stern → Hacker & Maker
+* Steve Jobs → Ex-CEO Apple
+* Bill Gates → Ex-CEO Microsoft
+* Larry Page → CEO Alphabet (google)
+* Sergey Brin → President Alphabet (google)
+* Jeff Bezos → CEO Amazon
+* Donald E. Knuth → TeX & METAFONT
+* Aaron Swartz → Internet hacktivist
+* Vint Cerf → TCP/IP, ICANN, ...
+* Douglas Engelbart → Hypertext, GUI, Maus
+* Tim Berners-Lee → WWW
+* Brendan Eich → JavaScript  
+* Peter Sunde → The Pirate Bay, Flattr
+* Julian Assange → WikiLeaks
+* Edward Snowden → Whistleblower
+* Glenn Greenwald → Journalist
+* Lawrence Lessig → Creative Commons
 
 
 ## Seitenstruktur
 Die ganze Klasse arbeitet in einem [Repository](https://github.com/logrinto/IAD2017.mobile-menu). Die Studierenden erstellen jeweils;
 
 ```
-{Nachname der Internet-Persönlichkeit}
+docs/{Nachname der Internet-Persönlichkeit}/
    ├── index.html      → html-File des Texts & Hamburger-Menü
-   ├── style.css       → Formatierung
+   ├── styles.css      → Formatierung
    ├── script.js       → JavaScript
    ├── preview.jpg     → Bild der Person
    └── preview.md      → Quelle des Bildes
