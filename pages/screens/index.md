@@ -246,5 +246,6 @@ Juni 2018: Erstellung
 
 ### Screens
 * [Kathodenstrahlröhre (Cathode ray tube – CRT)](https://youtu.be/3BJU2drrtCM?t=2m17s) & [Wikipedia](https://de.wikipedia.org/wiki/Kathodenstrahlr%C3%B6hre)
+* [Quantum-Dot Displays](https://spectrum.ieee.org/consumer-electronics/audiovideo/your-guide-to-televisions-quantumdot-future)
 * [iPhone X Display](https://www.theverge.com/2017/10/31/16579748/apple-iphone-x-review)
 * [Framerate](https://www.youtube.com/watch?v=mjYjFEp9Yx0)
