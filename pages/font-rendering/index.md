@@ -393,7 +393,10 @@ iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)
 ::: margin compact
 #### Weiterführende Links
 
-[Übersicht Color Fonts](https://www.colorfonts.wtf/)
+* [Übersicht Color Fonts](https://www.colorfonts.wtf/)
+* [History of Emoji](https://shadycharacters.co.uk/series/emoji/)
+
+
 :::
 Es gibt vier verschiedene Möglichkeiten, wie in einem OpenType-Font farbige Elemente definiert werden können. Abweichende «Standards» wurden jeweils separat von folgenden Parteien entwickelt;
 
