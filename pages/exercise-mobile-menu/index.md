@@ -1,5 +1,5 @@
 ---
-title: Aufgabe · Hamburger-Menü
+title: Aufgabe · Mobile Menu
 ---
 
 # Aufgabe · Mobile Menu
