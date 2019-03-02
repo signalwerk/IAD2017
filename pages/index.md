@@ -59,7 +59,7 @@ title: Inhalt
 
 * [Lab · Aufgabe · Dropbox](/exercise-dropbox-handling/)
 * [Lab · Aufgabe · Cookie Clicker](/exercise-cookie-clicker/)
-* [Lab · Aufgabe · Hamburger-Menü](/exercise-mobile-menu/)
+* [Lab · Aufgabe · Mobile Menu](/exercise-mobile-menu/)
 * [Info · Fablab](/typesetting-infos/)
 
 ### 4. Semester
