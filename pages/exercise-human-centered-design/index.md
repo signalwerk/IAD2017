@@ -23,6 +23,7 @@ Die Bewertung erfolgt im Modul «Lab» bezogen auf Arbeitstechnik (der Dokumenta
 * Wurden verschiedene Formen (Text, Bild, Video, ...) eingesetz
 * Wurde die nötige «objektivität» für eine Dokumentation eingehalten (Kommentare möglich)
 * Wurde das Material kontinuierlich erarbeitet und nicht erst am Schluss
+* Wurden gestalterische Prinzipien eingehalten
 
 
 
