@@ -4,7 +4,7 @@
 
 ### Umfeld
 
-Für den Abschluss als «diplomierte Gestalterin HF/diplomierter Gestalter HF, Fachrichtung Kommunikationsdesign, Vertiefung Interaction Design» erarbeiten die Studierenden eine Thesis und eine Diplomarbeit. Im 5. Semester wird die Thesis als theoretischer Leistungsnachweis verfasst und dieser dient bei genügender Leistung als Zulassungskriterium zur Diplomarbeit. Die Thesis zählt dabei zu 20% zur Diplomarbeit (Abschlussnote der Ausbildung).  
+Für den Abschluss als «diplomierte Gestalterin HF/diplomierter Gestalter HF, Fachrichtung Kommunikationsdesign, Vertiefung Interaction Design» erarbeiten die Studierenden eine Thesis und eine Diplomarbeit. Im 5. Semester wird die Thesis als theoretischer Leistungsnachweis verfasst und dieser dient bei genügender Leistung als Zulassungskriterium zur Diplomarbeit. Die Thesis zählt dabei zu 20 % zur Diplomarbeit (Abschlussnote der Ausbildung).  
 Die Inhalte der Arbeit stehen unter einer CC-BY-SA Lizenz. Es ist also darauf zu achten, dass keine Lizenzverstösse gemacht werden.
 
 ### Ziele
@@ -39,7 +39,7 @@ Die Studierenden wurden während iherer Ausbildung mehrfach mit theoretischen Ar
 
 ### Umfang
 
-Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting der Arbeit muss auf github erfolgen. Der Umfang beträgt 32000 Zeichen (mit Wortabstand). Der Umfang kann +/- 10% varrieren. Titel, Inhaltsverzeichnis, Literaturverzeichnis und Abbildungsverzeichnis werden nicht gezählt. Es dürfen Zitate verwendet werden (Zitatrecht) der Kern der Arbeit muss jedoch eigentständig erarbeitet sein.
+Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting der Arbeit muss auf github erfolgen. Der Umfang beträgt 32 000 Zeichen (mit Wortabstand). Der Umfang kann +/- 10% varrieren. Titel, Inhaltsverzeichnis, Literaturverzeichnis und Abbildungsverzeichnis werden nicht gezählt. Es dürfen Zitate verwendet werden (Zitatrecht) der Kern der Arbeit muss jedoch eigentständig erarbeitet sein.
 
 ### Mentorat
 
@@ -92,7 +92,7 @@ Der Ablauf der Verteidigung läuft wie folgt:
 Die Mentoratszeit ergibt sich wie folgt;
 
 ```
-4½ Studnen * 13 Studierende / 1.6 Faktor zur Umrechnung in Lektionen = ~36 Lektionen
+4½ Stunden * 13 Studierende / 1.6 Faktor zur Umrechnung in Lektionen = ~36 Lektionen
 ```
 
 Die Benotung aller Arbeiten wird durch zwei Begleiter beurteilt. Diese haben ein Zeitbudget von 12 Lektionen.

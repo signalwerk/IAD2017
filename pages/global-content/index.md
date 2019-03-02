@@ -1,4 +1,5 @@
 EN: 1 floor = DE: EG
+USA rechnen in blocks, norden süden westen
 
 Date format
 29/05/1981  >>> Aufsteigend
@@ -15,6 +16,10 @@ mile/km
     Australien → Olympia-Zeitzone geändert
     US → Indianerreservate
     China zu Afganistan → 4h bei grenzübergang
+	Events über die Zeitone hinweg
+	Schaltsekunde
+
+– 
 
 – Kartenprojektion
   – https://en.wikipedia.org/wiki/Mercator_projection
