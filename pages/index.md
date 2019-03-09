@@ -9,9 +9,15 @@ title: Inhalt
 <br>
 <br>
 
+
+## Aufgabe · 9. März 2019
+* Was habe ich für Fragen zu AI und Blockchain?
+
+## Aufgabe · 15. März 2019
+* Was habe ich für Fragen zur (aktuellen) Netzpolitik?
+
 ## Aufgabe · 23. März 2019
 * Lokalisierung → Probleme & Erfahrungen in Stichworten
-* Was habe ich für Fragen zu AI und Blockchain?
 * [Arbeit · Human-centered design](/exercise-human-centered-design/)
 
 <br>
