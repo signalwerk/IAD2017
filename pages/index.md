@@ -4,10 +4,27 @@ title: Inhalt
 
 # IAD 2017 · Dokumente
 
-<small>Signalwerk GmbH – Stefan Huber · 2017 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</small>
+<small>Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</small>
 
 <br>
 <br>
+
+
+## Aufgabe · 9. März 2019
+* Was habe ich für Fragen zu AI und Blockchain?
+
+## Aufgabe · 15. März 2019
+* Was habe ich für Fragen zur (aktuellen) Netzpolitik?
+
+## Aufgabe · 23. März 2019
+* Lokalisierung → Probleme & Erfahrungen in Stichworten
+* [Arbeit · Human-centered design](/exercise-human-centered-design/)
+
+<br>
+<br>
+
+#### Slides
+* [Online-Version](https://signalwerk.github.io/IAD.LAB.SLD/)
 
 #### Dokumentation
 
@@ -31,14 +48,12 @@ title: Inhalt
 
 ### 1. Semester
 
-* [Lab · Ziele](/ziele/semester-01/)
 * [Lab · Dokumentation · Experimentelles Erzählen](/exercise-exp-story/)
 * [Case Study · Aufgabe · Interface](/exercise-case-study/)
 * [IAD2017 · Semesterprüfung](/excercise-first-semester/)
 
 ### 2. Semester
 
-* [Lab · Ziele](/ziele/semester-02/)
 * [Lab · Aufgabe · Dropbox](/exercise-dropbox-handling/)
 * [Lab · Aufgabe · Fonts im Web](/exercise-webfont/)
 * [Lab · Untersuchung · Schriftmuster (Papier)](/exercise-webfont/paper-specimen/)
@@ -56,6 +71,7 @@ title: Inhalt
 ### 4. Semester
 
 * [Lab · Aufgabe · Dropbox](/exercise-dropbox-handling/)
+* [Lab · Dokumentation · Human-centered design](/exercise-human-centered-design/)
 
 <br>
 <br>
