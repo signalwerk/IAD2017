@@ -35,6 +35,7 @@ title: Inhalt
 * [Screens](/screens/)
 * [Interaktion · Navigation](/navigation/)
 * [Technologiegeschichte der Schrift](/font-technology/)
+* [Lokalisierung · Internationalisierung](/global-content/)
 
 
 #### Stubs
