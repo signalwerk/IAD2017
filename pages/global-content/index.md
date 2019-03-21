@@ -19,3 +19,6 @@ mile/km
 – Kartenprojektion
   – https://en.wikipedia.org/wiki/Mercator_projection
   – http://www.dailymail.co.uk/sciencetech/article-4339250/Five-maps-change-way-look-world.html
+
+– Bankzahlung
+IBAN >>> Checkes
