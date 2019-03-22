@@ -22,9 +22,10 @@
 </div>
 
 
-
-
-
+* Masseinheiten
+* Datum/Zeit
+* Geografie/Adressen
+* Geld/Bank
 
 Körpergrösse: 5 inch
 Genauigkeit bei Angaben.

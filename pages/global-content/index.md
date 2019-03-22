@@ -143,7 +143,6 @@ Beispiel zur Konfiguration des MacOS 10.14 Betriebsystem
 :::
 
 Das Unicode Konsortium wurde geschaffen um eine Standardisierung zu erreichen, welcher Wert/Zeichencode (Codepoint) welchem Schriftzeichen (Glyph) entspricht.
-Die erste Version
 
 
 ### Beispiel
@@ -208,7 +207,7 @@ Größe: 80 m
 </div>
 Eine Schreibweise mit «ß» wird in Deutschland aber auch in der Schweiz als normal erachtet.
 
-### UK oder US
+### US oder UK
 <div class="example example--h1">
 color gray
 </div>
@@ -289,7 +288,7 @@ Kommen innerhalb der Anführungszeichen weitere Anführungen vor, so kommen die 
 </div>
 
 
-### Frankreich
+### Französisch
 
 <div class="example example--h1">
 « Bonjour ! »  
