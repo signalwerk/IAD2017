@@ -18,7 +18,7 @@
 
 
 <div class="example example--h1">
-«Noch während dem 2. Weltkrieg …»
+
 </div>
 
 
@@ -36,9 +36,8 @@ USA rechnen in blocks, norden süden westen
 
 EN 1 = 7 = l handschrift in Amerika
 
-ein Saaland gross >> ein fussbalfeld >> so schwer wie ein VW-Golf
 
-Vergleichung und Sortierung
+
 Farben
 
 Date format
@@ -55,7 +54,7 @@ icons
 
 verschiedene Kalender
 
-Daten- und Zeitformate, örtliche Kalender, Zahlenformate und numerische Systeme, Sortierung und Darstellung von Listen, Handhabung von persönlichen Namen und Adressformen und so weiter.
+Daten- und Zeitformate, örtliche Kalender, Zahlenformate und numerische Systeme, Handhabung von persönlichen Namen und Adressformen und so weiter.
 
 IBAN >>> Checkes
 
