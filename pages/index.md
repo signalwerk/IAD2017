@@ -9,16 +9,20 @@ title: Inhalt
 <br>
 <br>
 
+## 23. März 2019
+* Abgabe der Arbeit «Human-centered design» auf 12. April 2019 verschoben.
+* Hausaufgabe: «[Arbeit · Human-centered design](/exercise-human-centered-design/)» weiterführen
 
-## Aufgabe · 9. März 2019
-* Was habe ich für Fragen zu AI und Blockchain?
+## 30. März 2019
+* Unterricht: etwa ~1 –1.5 h Zeit an «Arbeit · Human-centered design» in der Klasse zu arbeiten.
+* Hausaufgabe: «[Arbeit · Human-centered design](/exercise-human-centered-design/)» weiterführen
 
-## Aufgabe · 15. März 2019
-* Was habe ich für Fragen zur (aktuellen) Netzpolitik?
+## 6. April 2019
+* Nachmittag: Freies Arbeiten an «[Arbeit · Human-centered design](/exercise-human-centered-design/)» (für Personen, die an keinen Workshops teil nehmen)
 
-## Aufgabe · 23. März 2019
-* Lokalisierung → Probleme & Erfahrungen in Stichworten
-* [Arbeit · Human-centered design](/exercise-human-centered-design/)
+## 12. April 2019
+* Kurzpräsentation «[Arbeit · Human-centered design](/exercise-human-centered-design/)» in der Klasse
+
 
 <br>
 <br>
