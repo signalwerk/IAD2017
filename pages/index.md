@@ -10,18 +10,18 @@ title: Inhalt
 <br>
 
 ## 23. März 2019
-* Abgabe der Arbeit «Human-centered design» auf 12. April 2019 verschoben.
-* Hausaufgabe: «[Arbeit · Human-centered design](/exercise-human-centered-design/)» weiterführen
+* Abgabe der Arbeit «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» auf 12. April 2019 verschoben.
+* Hausaufgabe: «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» weiterführen
 
 ## 30. März 2019
-* Unterricht: etwa ~1 –1.5 h Zeit an «Arbeit · Human-centered design» in der Klasse zu arbeiten.
-* Hausaufgabe: «[Arbeit · Human-centered design](/exercise-human-centered-design/)» weiterführen
+* Unterricht: etwa ~1 –1.5 h Zeit an «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» in der Klasse zu arbeiten.
+* Hausaufgabe: «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» weiterführen
 
 ## 6. April 2019
-* Nachmittag: Freies Arbeiten an «[Arbeit · Human-centered design](/exercise-human-centered-design/)» (für Personen, die an keinen Workshops teil nehmen)
+* Nachmittag: Freies Arbeiten an «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» (für Personen, die an keinen Workshops teilnehmen)
 
 ## 12. April 2019
-* Kurzpräsentation «[Arbeit · Human-centered design](/exercise-human-centered-design/)» in der Klasse
+* Kurzpräsentation «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» in der Klasse
 
 
 <br>
