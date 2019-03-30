@@ -14,7 +14,7 @@ title: Inhalt
 * Hausaufgabe: «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» weiterführen
 
 ## 30. März 2019
-* Unterricht: etwa ~1 –1.5 h Zeit an «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» in der Klasse zu arbeiten.
+* Unterricht: etwa ~1 – 1.5 h Zeit an «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» in der Klasse zu arbeiten.
 * Hausaufgabe: «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» weiterführen
 
 ## 6. April 2019
