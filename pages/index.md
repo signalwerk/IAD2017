@@ -23,6 +23,10 @@ title: Inhalt
 ## 12. April 2019
 * Kurzpräsentation «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» in der Klasse
 
+## 10. Mai 2019
+* Kurzpräsentation von Groblayout & Icons der «[Aufgabe · Chat-Client](/exercise-chat/)» in der Klasse
+* Am 10. Mai 2019 wird es ein Update der Aufgabe geben
+
 
 <br>
 <br>
@@ -77,6 +81,7 @@ title: Inhalt
 
 * [Lab · Aufgabe · Dropbox](/exercise-dropbox-handling/)
 * [Lab · Dokumentation · Human-centered design](/exercise-human-centered-design/)
+* [Lab · Aufgabe · Chat-Client](/exercise-chat/)
 
 <br>
 <br>
