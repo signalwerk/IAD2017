@@ -40,7 +40,7 @@ Die Aufgabe umfasst insbesondere folgende Punkte:
 
 ### Grafisches Konzept (50%)
 * Das Grafische Konzept ist schlüssig
-* Wurden gestalterische Prinzipien eingehalten
+* Gestalterische Prinzipien wurden eingehalten
 * Grafische Sprache bewusst gewählt und definiert
 * Typografie überlegt eingesetzt
 * Icons gekonnt eingesetzt
