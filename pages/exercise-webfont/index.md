@@ -56,6 +56,7 @@ Einige Schriften, die man berücksichtigen könnte.
 * Noto Sans & Serif
 * Fira Sans
 * Amstelvar
+* [Inter](https://rsms.me/inter/)
 
 Abzugeben ist ein SVG, bei dem das Wort «Hamburgefonts» (klassisches Testwort für Schriftmuster) gesetzt wird und spezielle Merkmale der Schrift farblich markiert sind. Die Legende dazu ist in einer Textdatei abzugeben. Siehe Beispieldatei.  
 Zusätzlich; Kenne ich digitale Schriftmuster? Bringen Sie drei URL's mit; Zwei Schriftenhersteller (nicht Linotype, Monotype, Fontshop, fonts.com, google-Fonts), eine Website bei der Schriften vorgestellt werden (Blog-Post oder ähnliches). Kurze Vorstellung des Favoriten in der Klasse.

@@ -592,13 +592,18 @@ Auf vielen Servern wird bei der Installation keine automatische Zeitzone gestell
 In einigen Regionen der Welt wird in den Sommermonaten eine Sommerzeit (Daylight saving time – DST) eingeführt. Diese wird meist eine Stunde vor der üblichen Zeit gestellt. So ist die mitteleuropäische Zeit (MEZ) in den Wintermonaten UTC+1 und in den Sommermonaten UTC+2.
 
 ::: margin compact
+#### Schweiz
+Am 28. Mai 1978 wurde in einer Volksabstimmung (Referendum) beschlossen, dass man sich nicht mit der Sommerzeit den Nachbarstaaten anschliesst. Aufgrund massiver Probleme wurde die «Zeitinsel-Schweiz» per Gesetz ab 1. Januar 1981 dem Ausland angeglichen und das Chaos hatte ein Ende.  
 Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Daylight_saving_time)
 :::
 ![](https://upload.wikimedia.org/wikipedia/commons/1/16/DST_Countries_Map.png)
-Regionen mit Sommerzeit in blau markiert.
+Regionen mit Sommerzeit in blau markiert. Bildquelle: [Wikipedia](https://en.wikipedia.org/wiki/Daylight_saving_time)
 
-Politische Entscheide können sehr schnell die Einführung oder Abschaffung von Sommerzeit beeinflussen. [In Maroko](https://www.maghreb-post.de/gesellschaft/marokko-regierung-schafft-die-zeitumstellung-ab/) wurde zum Beispiel am 27. Oktober 2018 beschlossen, dass die Winterzeit am Folgetag nicht mehr zur Anwendung kommen wird. Dies führte zu diversen Problemen, da die Umstellung sehr kurzfristig war. Im Moment wird in Europa diskutiert, ob die Sommerzeit abgeschaft werden soll.
 
+Politische Entscheide können sehr schnell die Einführung oder Abschaffung von Sommerzeit beeinflussen. [In Maroko](https://www.maghreb-post.de/gesellschaft/marokko-regierung-schafft-die-zeitumstellung-ab/) wurde zum Beispiel am 27. Oktober 2018 beschlossen, dass die Winterzeit am Folgetag nicht mehr zur Anwendung kommen wird. Dies führte zu diversen Problemen, da die Umstellung sehr kurzfristig war.
+
+#### Abschaffung in der EU
+Das EU-Parlament entschied im März 2019, dass nur noch bis 2021 eine Sommerzeitumstellung erfolgen soll. Danach steht es den Mitgliedstaaten frei ob sie in Normal- oder Sommerzeit ihre weiter fahren. Es bleibt zu hoffen, dass die Staaten sich einigen können, so dass es weiterhin eine grosse geschlossene Zeitzone (MEZ) in der EU gibt.
 
 ## Datum & Kalender
 Der [gregorianische Kalender](https://de.wikipedia.org/wiki/Gregorianischer_Kalender) ist weltweit der meist gebrauchte Kalender und wurde im Jahr 1582 von Papst Gregor XIII verordnet. Dabei hat das Jahr (Umlauf der Erde um die Sonne) im Durchschnitt etwa 365,25 Tage und diese werden auf 12 Monate verteilt. Die Schaltjahre haben 366 Tage, sonstige Jahre werden mit 365 Tagen geführt.
@@ -680,7 +685,11 @@ Neuere Smartphones habe in Hardware die Funktion einer Kreditkarte abgebildet. S
 
 ### Kartenprojektion
 ::: margin
-[Alternative Mercator-Projektionen](http://richarddmorey.org/map/)
+#### Swiss Grid
+Die Schweizerische Landesvermessung verwendet für die Projektion der Schweiz üblicherweise die Projektonsart [«Swiss Grid»](https://www.swisstopo.admin.ch/de/wissen-fakten/geodaesie-vermessung/bezugsysteme/kartenprojektionen.html).
+
+* [Visualisierung «Swiss Grid vs. Web Mercator»](https://observablehq.com/@rzoller/swiss-grid-vs-web-mercator)
+* [Weitere alternative Projektionen von Karten](http://richarddmorey.org/map/)
 :::
 Die am weitesten Verbreitete Projektion der runden Erde auf eine zweidimensionale Karte ist die so genannte [Mercator-Projektion](https://de.wikipedia.org/wiki/Mercator-Projektion):
 
