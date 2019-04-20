@@ -9,19 +9,6 @@ title: Inhalt
 <br>
 <br>
 
-## 23. März 2019
-* Abgabe der Arbeit «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» auf 12. April 2019 verschoben.
-* Hausaufgabe: «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» weiterführen
-
-## 30. März 2019
-* Unterricht: etwa ~1 – 1.5 h Zeit an «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» in der Klasse zu arbeiten.
-* Hausaufgabe: «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» weiterführen
-
-## 6. April 2019
-* Nachmittag: Freies Arbeiten an «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» (für Personen, die an keinen Workshops teilnehmen)
-
-## 12. April 2019
-* Kurzpräsentation «[Dokumentation · Human‑centered design](/exercise-human-centered-design/)» in der Klasse
 
 ## 10. Mai 2019
 * Kurzpräsentation von Groblayout & Icons der «[Aufgabe · Chat-Client](/exercise-chat/)» in der Klasse
