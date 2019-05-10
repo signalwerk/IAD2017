@@ -15,6 +15,11 @@ title: Inhalt
 * Am 10. Mai 2019 wird es ein Update der Aufgabe geben
 
 
+## 24. Mai 2019
+* Kurzpräsentation von Grundlayout in CSS
+  * Mobile und Desktop Skallierung/Platzierung von Chat-Verlauf, Schreiben/Senden und Konversationsübersicht
+  * Inhalte müssen noch nicht stimmen
+
 <br>
 <br>
 

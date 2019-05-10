@@ -10,7 +10,6 @@ In grösseren Teams gibt es oft eine Aufteilung zwischen UI/UX und Programmierun
 
 ### Termin
 Am 28. Juni 2019 muss der Code in einem Branch (bitte Vorname verwenden) vom [Repo](https://github.com/logrinto/IAD2017.chat) online sein. Zusätzlich muss im Unterricht das Design kurz (5 min.) präsentiert werden.  
-**ACHTUNG!** Am 10. Mai 2019 wird es ein Update der Aufgabe geben
 
 ## Aufgabe
 Jede Person macht ein Styling für den Chat-Client. Anforderung an die Programmierung können jederzeit formuliert werden und es wird versucht eine Programmierung zu finden, die dann für alle Studierende passt.
@@ -46,3 +45,13 @@ Die Aufgabe umfasst insbesondere folgende Punkte:
 * Icons gekonnt eingesetzt
 * Architektur überlegt
 * Zweckmässigkeit gegeben
+
+
+
+## Erweiterung (Am 10. Mai 2019)
+Folgende Ergänzungen sind gegenüber dem ursprünglichen Code eingearbeitet worden:
+
+* Es gibt nun eine Markierung für neu eingetroffene Nachrichten in der Chat-Übersicht
+* Ein Header ist nun oberhalb des Chats platziert mit dem Kontakt des Gegenübers
+
+Beide Elemente sind in der Endabgabe entsprechend mit zu berücksichtigen
