@@ -16,8 +16,8 @@ export default class Template extends React.Component {
         <Helmet
           title={config.siteTitle}
           meta={[
-            { name: "description", content: "Sample" },
-            { name: "keywords", content: "sample, something" },
+            { name: "description", content: "IAD Dokumentation · Stefan Huber" },
+            { name: "keywords", content: "IAD" },
           ]}
         />
         <div className='navigation'>
