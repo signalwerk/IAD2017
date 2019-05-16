@@ -10,12 +10,12 @@ Die Inhalte der Arbeit stehen unter einer CC-BY-SA Lizenz. Es ist also darauf zu
 ### Ziele
 
 * Eine klar formulierte Fragestellung (Thesis) in einem selbst gewählten Interesseschwerpunkt.
-* Die eigenständige Bearbeitung dieser Thesis mit wissenschaftlichen Methoden und Untersuchungen.
+* Die eigenständige Bearbeitung dieser Thesis mit objektiven Methoden und Untersuchungen.
 * Die ins Zentrum gerückte Fragestellung wird mit Ergebnissen der Recherchen der Studierenden beleuchtet und es muss korrekt mit Sprache und Quellmaterial umgegangen werden.
 
 ### Prozess
 
-Die Studierenden wurden während iherer Ausbildung mehrfach mit theoretischen Arbeiten beauftragt und verstehen, wie eine schriftliche Arbeit zu glieder und zu bewältigen ist. Zudem wurde in den zwei Vorbereitungstagen den Studierenden bei der Themenfindung und der Heranführung an die Thesis hand geboten. Die Arbeit soll nun selbstänidg erarbeitet werden und von einem Mentor begleitet werden.
+Die Studierenden wurden während iherer Ausbildung mehrfach mit theoretischen Arbeiten beauftragt und verstehen, wie eine schriftliche Arbeit zu glieder und zu bewältigen ist. Zudem wurde in den zwei Vorbereitungstagen den Studierenden bei der Themenfindung und der Heranführung an die Thesis hand geboten. Die Arbeit soll nun selbstänidg erarbeitet werden und von einem Mentorat begleitet werden.
 
 ### Aufbau der Arbeit
 
@@ -39,20 +39,21 @@ Die Studierenden wurden während iherer Ausbildung mehrfach mit theoretischen Ar
 
 ### Umfang
 
-Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting der Arbeit muss auf github erfolgen. Der Umfang beträgt 32 000 Zeichen (mit Wortabstand). Der Umfang kann +/- 10% varrieren. Titel, Inhaltsverzeichnis, Literaturverzeichnis und Abbildungsverzeichnis werden nicht gezählt. Es dürfen Zitate verwendet werden (Zitatrecht) der Kern der Arbeit muss jedoch eigentständig erarbeitet sein.
+Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting muss gemäss separater technischer Spezifikation erfolgen. Der Umfang beträgt 32 000 Zeichen (mit Wortabstand). Der Umfang kann +/- 10% varrieren. Titel, Inhaltsverzeichnis, Literaturverzeichnis und Abbildungsverzeichnis werden nicht gezählt. Es dürfen Zitate verwendet werden (Zitatrecht) der Kern der Arbeit muss jedoch eigentständig erarbeitet sein. 
 
 ### Mentorat
 
 Die Aufgabe des Mentors ist dem Studierenden eine Rückmeldung während des Prozesses auf seine Arbeitsweise und seine Erkenntnisse zu geben.  
-Zum Mentorat sind alle Dozierenden berechtigt, die am Unterricht des Studiengangs beteiligt waren. Externe Mentoren können von den Studenten vorgeschlagen werden.
-Für das Mentorat stehen den Mentoren pro Kandidat 4½ Stunden (nicht Lektionen) zur Verfügung. Es wird empfohlen dieses Zeitbudget in zwei persönlichen kurzen Sitzungen und deren Vorbereitung zu nutzen. Die Mentoren sind angehalten sich an die Zeitvorgaben zu halten, da sonst ein unterschiedlicher Betreuungsgrad zwischen den Studierenden entsteht.
+Zum Mentorat sind alle Dozierenden berechtigt, die am Unterricht des Studiengangs beteiligt waren. Externe Mentoren können von den Studierenden vorgeschlagen werden.
+Für das Mentorat stehen pro Person 4½ Stunden (nicht Lektionen) zur Verfügung. Es wird empfohlen dieses Zeitbudget in zwei persönlichen kurzen Sitzungen und deren Vorbereitung zu nutzen. Die Mentorierenden sind angehalten sich an die Zeitvorgaben zu halten, da sonst ein unterschiedlicher Betreuungsgrad zwischen den Studierenden entsteht.
+Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 540.– in Aussicht gestellt werden.
 
 ### Zeitlicher Ablauf
 
 | Zeit           | Task                                           |
 | -------------- | ---------------------------------------------- |
 | 23.8.2019      | Thesis-Aufgabe abgeben                         |
-| September 2019 | 2 Tage Einführung & Themenfindung durch Ulrike |
+| ■■ noch offen ■■ 2019 | 2 Tage Einführung & Themenfindung durch Ulrike |
 | 29.11.2019     | Abgabe des endgültigen Thema & Mentorwunsch    |
 | 10.1.2020      | Abgabe der Thesis                              |
 | 31.1./1.2.2020 | Verteidigung                                   |
@@ -60,9 +61,15 @@ Für das Mentorat stehen den Mentoren pro Kandidat 4½ Stunden (nicht Lektionen)
 
 ### Bewertungskriterien
 
+
+
+### Plagiate
+Bei Plagiaten wird die ganze Arbeit mit der Note 1 bewertet. Als Definition von Plagiaten gilt die [Definition](https://www.uzh.ch/de/studies/teaching/plagiate.html) der Universität Zürich.
+
+
 ### Verteidigung
 
-Es wird eine mündliche Verteidigung (Fachgespräch) der Arbeit geben. Die anwesenden Experten haben die Arbeit gelesen und sind Thematisch mit der Arbeit vertraut. Die Präsentation der Arbeit soll somit die eigene Erkenntnis ins Zentrum rücken. Die Verteidigung wird nicht separat bewertet, sondern dient den Experten zur Endbeurteilung der Thesis.
+Es wird eine mündliche Verteidigung (Fachgespräch) der Arbeit geben. Die anwesende Expertengruppe hat die Arbeit gelesen und sind Thematisch mit der Arbeit vertraut. Die Präsentation der Arbeit soll somit die eigene Erkenntnis ins Zentrum rücken. Die Verteidigung wird nicht separat bewertet, sondern dient den Experten zur Endbeurteilung der Thesis.
 
 Der Ablauf der Verteidigung läuft wie folgt:
 
@@ -92,7 +99,7 @@ Der Ablauf der Verteidigung läuft wie folgt:
 Die Mentoratszeit ergibt sich wie folgt;
 
 ```
-4½ Stunden * 13 Studierende / 1.6 Faktor zur Umrechnung in Lektionen = ~36 Lektionen
+4½ Stunden * 12 Studierende / 1.6 Faktor zur Umrechnung in Lektionen = ~34 Lektionen
 ```
 
-Die Benotung aller Arbeiten wird durch zwei Begleiter beurteilt. Diese haben ein Zeitbudget von 12 Lektionen.
+Die Benotung aller Arbeiten wird durch zwei Begleiter beurteilt. Diese haben ein Zeitbudget von 14 Lektionen.
