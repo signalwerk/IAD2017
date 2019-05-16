@@ -12,9 +12,12 @@ title: Aufgabe · Thesis
 Für den Abschluss als «diplomierte Gestalterin HF/diplomierter Gestalter HF, Fachrichtung Kommunikationsdesign, Vertiefung Interaction Design» erarbeiten die Studierenden eine Thesis und eine Diplomarbeit. Im 5. Semester wird die Thesis als theoretischer Leistungsnachweis verfasst und dieser dient bei genügender Leistung als Zulassungskriterium zur Diplomarbeit. Die Thesis zählt dabei zu 20 % zur Diplomarbeit (Abschlussnote der Ausbildung).  
 Die Inhalte der Arbeit stehen unter einer [CC-BY-SA 4.0 Lizenz](https://creativecommons.org/licenses/by-sa/4.0/). Es ist also darauf zu achten, dass keine Lizenzverstösse gemacht werden.
 
+### Thema
+■■ Thema wird noch bekannt gegeben ■■
+
 ### Ziele
 
-* Eine klar formulierte Fragestellung (Thesis) in einem selbst gewählten Interesseschwerpunkt.
+* Eine klar formulierte Fragestellung (Thesis) in einem selbst gewählten Interesseschwerpunkt zum Thema.
 * Die eigenständige Bearbeitung dieser Thesis mit objektiven Methoden und Untersuchungen.
 * Die ins Zentrum gerückte Fragestellung wird mit Ergebnissen der Recherchen der Studierenden beleuchtet und es muss korrekt mit Sprache und Quellmaterial umgegangen werden.
 
