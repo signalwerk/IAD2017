@@ -1,3 +1,8 @@
+---
+title: Aufgabe · Thesis
+---
+
+
 # Thesis
 
 >> Der Begriff Hypothese bezeichnet eine für die Forschung zielführende wissenschaftliche Behauptung mit Wahrheitsanspruch.
@@ -39,7 +44,7 @@ Die Studierenden wurden während iherer Ausbildung mehrfach mit theoretischen Ar
 
 ### Umfang
 
-Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting muss gemäss separater technischer Spezifikation erfolgen. Der Umfang beträgt 32 000 Zeichen (mit Wortabstand). Der Umfang kann +/- 10% varrieren. Titel, Inhaltsverzeichnis, Literaturverzeichnis und Abbildungsverzeichnis werden nicht gezählt. Es dürfen Zitate verwendet werden (Zitatrecht) der Kern der Arbeit muss jedoch eigentständig erarbeitet sein. 
+Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting muss gemäss separater technischer Spezifikation erfolgen. Der Umfang beträgt 32 000 Zeichen (mit Wortabstand). Der Umfang kann +/- 10% varrieren. Titel, Inhaltsverzeichnis, Literaturverzeichnis und Abbildungsverzeichnis werden nicht gezählt. Es dürfen Zitate verwendet werden (Zitatrecht) der Kern der Arbeit muss jedoch eigentständig erarbeitet sein.
 
 ### Mentorat
 
@@ -61,6 +66,36 @@ Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 540.– in A
 
 ### Bewertungskriterien
 
+
+Informationen übersichtlich und vollständig
+Inhaltliche Strukturen wurden geschaffen
+Alle Inhaltselemente wurden vollständig erarbeitet und eingefügt
+Texte erfüllen die Anforderung und sind vollständig
+Text wurde mit Sorgfalt verfasst (Quellen/Vollständigkeit)
+Wichtige Merkmale angezeichnet und erkannt
+
+
+#### Methode · 20 %
+* Text wurde mit Sorgfalt verfasst (Vollständigkeit)
+* Fakten sind geprüft und mit Quellen versehen
+* Erkenntnisse sind dokumentiert und mit Untersuchungen belegt
+
+#### Inhalt · 40 %
+* Fragestellung relevant und zeitgemäss
+* Inhaltliche Strukturen passend zur Fragestellung
+* Thematische Nähe zur Ausbildung gegeben
+* Aussagen stimmen mit der allgemeinen Erkenntnisslage überein (Richtigkeit)
+* Inhalt ist für den Lesenden nachvollziebar
+
+#### Erkenntniss · 25 %
+* Ableitung des Inhalts in eine Erkenntnis sichtbar (Mehrwert)
+* Eigenerkenntnisse formuliert
+* Fachliche Erkenntnis in Struktur und Sprache deutlich von persönlicher Erkenntnis getrennt
+* Konsistente Argumentation mit Hinterfragung bei offenen Punkten
+
+#### Aufbau, Struktur und Sprache · 15 %
+* Die technischen Vorgaben sind eingehalten
+* Logischer und nachvollziebarer Ablauf in Argumentation und Form
 
 
 ### Plagiate
