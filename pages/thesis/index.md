@@ -10,7 +10,7 @@ title: Aufgabe · Thesis
 ### Umfeld
 
 Für den Abschluss als «diplomierte Gestalterin HF/diplomierter Gestalter HF, Fachrichtung Kommunikationsdesign, Vertiefung Interaction Design» erarbeiten die Studierenden eine Thesis und eine Diplomarbeit. Im 5. Semester wird die Thesis als theoretischer Leistungsnachweis verfasst und dieser dient bei genügender Leistung als Zulassungskriterium zur Diplomarbeit. Die Thesis zählt dabei zu 20 % zur Diplomarbeit (Abschlussnote der Ausbildung).  
-Die Inhalte der Arbeit stehen unter einer CC-BY-SA Lizenz. Es ist also darauf zu achten, dass keine Lizenzverstösse gemacht werden.
+Die Inhalte der Arbeit stehen unter einer [CC-BY-SA 4.0 Lizenz](https://creativecommons.org/licenses/by-sa/4.0/). Es ist also darauf zu achten, dass keine Lizenzverstösse gemacht werden.
 
 ### Ziele
 
@@ -99,7 +99,7 @@ Wichtige Merkmale angezeichnet und erkannt
 
 
 ### Plagiate
-Bei Plagiaten wird die ganze Arbeit mit der Note 1 bewertet. Als Definition von Plagiaten gilt die [Definition](https://www.uzh.ch/de/studies/teaching/plagiate.html) der Universität Zürich.
+Bei Plagiaten wird die ganze Arbeit mit der Note 1 bewertet. Als Definition von Plagiaten gilt die [Definition der Universität Zürich](https://www.uzh.ch/de/studies/teaching/plagiate.html).
 
 
 ### Verteidigung
