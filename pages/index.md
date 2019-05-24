@@ -10,15 +10,17 @@ title: Inhalt
 <br>
 
 
-## 10. Mai 2019
-* Kurzpräsentation von Groblayout & Icons der «[Aufgabe · Chat-Client](/exercise-chat/)» in der Klasse
-* Am 10. Mai 2019 wird es ein Update der Aufgabe geben
-
-
 ## 24. Mai 2019
 * Kurzpräsentation von Grundlayout in CSS
   * Mobile und Desktop Skallierung/Platzierung von Chat-Verlauf, Schreiben/Senden und Konversationsübersicht
   * Inhalte müssen noch nicht stimmen
+
+
+## 7. Juli 2019
+* Präsentation der «[Aufgabe · Chat-Client](/exercise-chat/)» in der Klasse.
+* Grundlayout und Inhalte sollten mittels CSS sichtbar sein. Feinschliff fehlt eventuell noch.
+
+
 
 <br>
 <br>
