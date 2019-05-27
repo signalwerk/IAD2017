@@ -36,12 +36,12 @@ Die Studierenden wurden während iherer Ausbildung mehrfach mit theoretischen Ar
 * Inhaltsverzeichnis
   * Überschriften
 * Einleitung
-  * Thesis und Methoden
+  * Fragestellung und Ziele
 * Hauptteil
   * Erarbeitung der Thesis
 * Schlusswort
-  * Wesentliche Ergebnisse
-  * Eigenerkentnis
+  * Fazit
+  * Ausblick
 * Literaturverzeichnis
 * Abbildungsverzeichnis
 
@@ -62,37 +62,32 @@ Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 540.– in A
 | -------------- | ---------------------------------------------- |
 | 23.8.2019      | Thesis-Aufgabe abgeben                         |
 | ■■ noch offen ■■ 2019 | 2 Tage Einführung & Themenfindung durch Ulrike |
-| 29.11.2019     | Abgabe des endgültigen Thema & Mentorwunsch    |
+| 29.11.2019     | Abgabe eines kurzen Exposés mit Thema, Fragestellung, Literatur und Zeitplan sowie Mentorenwunsch    |
 | 10.1.2020      | Abgabe der Thesis                              |
 | 31.1./1.2.2020 | Verteidigung                                   |
 | Februar        | Benotung                                       |
 
 ### Bewertungskriterien
-
-
-Informationen übersichtlich und vollständig
-Inhaltliche Strukturen wurden geschaffen
-Alle Inhaltselemente wurden vollständig erarbeitet und eingefügt
-Texte erfüllen die Anforderung und sind vollständig
-Text wurde mit Sorgfalt verfasst (Quellen/Vollständigkeit)
-Wichtige Merkmale angezeichnet und erkannt
-
+* Inhaltliche Strukturen wurden geschaffen (sprachlich, typografisch)
+* Angemessene Tiefe der Bearbeitung des Themas in Hinblick auf die Fragestellung
+* Alle Inhaltselemente wurden erarbeitet (Einleitung: Ziele, Fragestellung; Hauptteil, Fazit, Ausblick)
+* Der Hauptteil enthält einen Kontextteil (Theorie, Geschichte o.ä.), Anwendungsbeispiele (Konkretisierung) und eine Diskussion (Argumentation)
+* Text wurde mit Sorgfalt verfasst (Quellen/Sprache und Stil)
 
 #### Methode · 20 %
-* Text wurde mit Sorgfalt verfasst (Vollständigkeit)
-* Fakten sind geprüft und mit Quellen versehen
-* Erkenntnisse sind dokumentiert und mit Untersuchungen belegt
+* Text wurde mit Sorgfalt verfasst (Angemessene Tiefe der Bearbeitung des Themas in Hinblick auf die Fragestellung)
+* Fakten sind nachvollziebar und mit Quellen versehen
 
-#### Inhalt · 40 %
+#### Inhalt · 50 %
 * Fragestellung relevant und zeitgemäss
-* Inhaltliche Strukturen passend zur Fragestellung
+* Inhaltliche Detailstruktur passend zur Fragestellung
 * Thematische Nähe zur Ausbildung gegeben
-* Aussagen stimmen mit der allgemeinen Erkenntnisslage überein (Richtigkeit)
+* Aussagen stimmen mit der allgemeinen Erkenntnislage überein (Richtigkeit)
 * Inhalt ist für den Lesenden nachvollziebar
 
-#### Erkenntniss · 25 %
-* Ableitung des Inhalts in eine Erkenntnis sichtbar (Mehrwert)
-* Eigenerkenntnisse formuliert
+#### Erkenntnisse · 15 %
+* Ableitung des Inhalts in eine Erkenntnis sichtbar
+* Eigenerkenntnisse werden sachlich formuliert und diskutiert
 * Fachliche Erkenntnis in Struktur und Sprache deutlich von persönlicher Erkenntnis getrennt
 * Konsistente Argumentation mit Hinterfragung bei offenen Punkten
 
