@@ -10,16 +10,12 @@ title: Inhalt
 <br>
 
 
-## 24. Mai 2019
-* Kurzpräsentation von Grundlayout in CSS
-  * Mobile und Desktop Skallierung/Platzierung von Chat-Verlauf, Schreiben/Senden und Konversationsübersicht
-  * Inhalte müssen noch nicht stimmen
-
-
 ## 7. Juli 2019
 * Präsentation der «[Aufgabe · Chat-Client](/exercise-chat/)» in der Klasse.
 * Grundlayout und Inhalte sollten mittels CSS sichtbar sein. Feinschliff fehlt eventuell noch.
 
+## 28. Juli 2019
+* Präsentation der «[Aufgabe · Chat-Client](/exercise-chat/)» in der Klasse.
 
 
 <br>
