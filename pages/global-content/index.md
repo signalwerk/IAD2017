@@ -759,6 +759,18 @@ In Washington werden Nummern (Nord – Süd) und Buchstaben (West – Os
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.088055169129!2d-77.02333333422055!3d38.89910164126649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c6de5af6e45b%3A0xc2524522d4885d2a!2sWashington%2C+DC%2C+USA!5e0!3m2!1sen!2sch!4v1553907503329!5m2!1sen!2sch" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
+## Telefonnummer
+Telefonnummern sollten gemäss der Empfehlung von [ITU-T Recommendation E.123](https://www.itu.int/rec/T-REC-E.123-200102-I/en) formatiert werden. 
+
+
+### Beispiele
+```md
+Schweiz: `+41¦78¦700¦10¦10`
+Deutschland: `+49¦341¦2000000` 
+
+¦ = Geschützte schmales Leerzeichen für typografisch korrekte Darstellung
+```
+
 
 ::: margin printonly
 #### Autor
