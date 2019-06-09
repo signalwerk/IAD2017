@@ -760,16 +760,17 @@ In Washington werden Nummern (Nord – Süd) und Buchstaben (West – Os
 </div>
 
 ## Telefonnummer
+::: margin
+[Online-Helfer](https://signalwerk.github.io/contact-parser/)
+:::
 Telefonnummern sollten gemäss der Empfehlung von [ITU-T Recommendation E.123](https://www.itu.int/rec/T-REC-E.123-200102-I/en) formatiert werden. 
 
-
 ### Beispiele
-```md
-Schweiz: `+41¦78¦700¦10¦10`
-Deutschland: `+49¦341¦2000000` 
-
-¦ = Geschützte schmales Leerzeichen für typografisch korrekte Darstellung
 ```
+Schweiz: +41¦78¦700¦10¦10
+Deutschland: +49¦341¦2000000
+```
+¦ = Geschützte schmales Leerzeichen für typografisch korrekte Darstellung
 
 
 ::: margin printonly
