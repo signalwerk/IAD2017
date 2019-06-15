@@ -28,11 +28,19 @@ Alle Ersetzungen müssen in einem Durchgang erfolgen.
 
 | Vorgabe                  | Ziel                         |
 |--------------------------|------------------------------|
-| Donald Knuth             | Donald E. Knuth              | 
-| Donald E. Knuth          | Donald E. Knuth              | 
-| D. E. Knuth              | Donald E. Knuth              | 
-| Don Knuth                | Donald E. Knuth              | 
-| Donald Ervin «Don» Knuth | Donald E. Knuth              | 
-| Donald «Don» Knuth       | Donald E. Knuth              | 
-| Dr. Donald E. Knuth      | Donald E. Knuth              | 
-| Don Knuth & Jill Knuth   | Donald E. Knuth & Jill Knuth | 
+| Donald Knuth             | Donald E. Knuth              |
+| Donald E. Knuth          | Donald E. Knuth              |
+| D. E. Knuth              | Donald E. Knuth              |
+| Don Knuth                | Donald E. Knuth              |
+| Donald Ervin «Don» Knuth | Donald E. Knuth              |
+| Donald «Don» Knuth       | Donald E. Knuth              |
+| Dr. Donald E. Knuth      | Donald E. Knuth              |
+| Don Knuth & Jill Knuth   | Donald E. Knuth & Jill Knuth |
+
+
+
+## Übung D
+* Aufgabe → group replacement
+
+## Übung E
+* Aufgabe → Postkarte

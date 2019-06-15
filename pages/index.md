@@ -34,7 +34,9 @@ title: Inhalt
 * [Interaktion · Navigation](/navigation/)
 * [Technologiegeschichte der Schrift](/font-technology/)
 * [Lokalisierung · Internationalisierung](/global-content/)
-* [Reguläre Ausdrücke · Grundlagen](/regex/)
+
+<!-- * [Reguläre Ausdrücke · Grundlagen](/regex/) -->
+<!-- * [Parser · Grundlagen](/parser/) -->
 
 
 #### Stubs

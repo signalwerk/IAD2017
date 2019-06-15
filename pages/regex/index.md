@@ -1,3 +1,6 @@
+---
+title: Reguläre Ausdrücke · Grundlagen
+---
 # Reguläre Ausdrücke · Grundlagen
 
 ## Grundlagen
