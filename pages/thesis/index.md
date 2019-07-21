@@ -10,10 +10,10 @@ title: Aufgabe · Thesis
 ### Umfeld
 
 Für den Abschluss als «diplomierte Gestalterin HF/diplomierter Gestalter HF, Fachrichtung Kommunikationsdesign, Vertiefung Interaction Design» erarbeiten die Studierenden eine Thesis und eine Diplomarbeit. Im 5. Semester wird die Thesis als theoretischer Leistungsnachweis verfasst und dieser dient bei genügender Leistung als Zulassungskriterium zur Diplomarbeit. Die Thesis zählt dabei zu 20 % zur Diplomarbeit (Abschlussnote der Ausbildung).  
-Die Inhalte der Arbeit stehen unter einer [CC-BY-SA 4.0 Lizenz](https://creativecommons.org/licenses/by-sa/4.0/). Es ist also darauf zu achten, dass keine Lizenzverstösse gemacht werden.
+Die Inhalte der Arbeit stehen unter einer [CC-BY-SA 4.0 Lizenz](https://creativecommons.org/licenses/by-sa/4.0/) und werden publiziert. Es ist also darauf zu achten, dass keine Lizenzverstösse gemacht werden.
 
 ### Thema
-■■ Thema wird noch bekannt gegeben ■■
+«Dynamische Strukturen»
 
 ### Ziele
 
@@ -60,11 +60,12 @@ Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 540.– in A
 
 | Zeit           | Task                                           |
 | -------------- | ---------------------------------------------- |
-| 23.8.2019      | Thesis-Aufgabe abgeben                         |
-| ■■ noch offen ■■ 2019 | 2 Tage Einführung & Themenfindung durch Ulrike |
-| 29.11.2019     | Abgabe eines kurzen Exposés mit Thema, Fragestellung, Literatur und Zeitplan sowie Mentorenwunsch    |
-| 10.1.2020      | Abgabe der Thesis                              |
-| 31.1./1.2.2020 | Verteidigung                                   |
+| 23. 8. 2019      | Thesis-Aufgabe abgeben                         |
+| 23. 8. 2019 & 26. 10. 2019  | 2 Tage Einführung & Themenfindung durch Ulrike Felsing |
+| 7. 9. 2019 | Einführung digitale Abgabe Thesis durch Stefan Huber |
+| 29. 11. 2019     | Abgabe eines kurzen Exposés mit Thema, Fragestellung, Literatur und Zeitplan sowie Mentorenwunsch    |
+| 11. 1. 2020, 8:15&nbsp;Uhr | Abgabe der Thesis auf [Git-Repository](https://github.com/logrinto/IAD2017.thesis)                              |
+| 31. 1. 2020 | Verteidigung                                   |
 | Februar        | Benotung                                       |
 
 ### Bewertungskriterien
@@ -100,39 +101,39 @@ Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 540.– in A
 Bei Plagiaten wird die ganze Arbeit mit der Note 1 bewertet. Als Definition von Plagiaten gilt die [Definition der Universität Zürich](https://www.uzh.ch/de/studies/teaching/plagiate.html).
 
 
-### Verteidigung
+### Verteidigung · 31. Januar 2020
 
 Es wird eine mündliche Verteidigung (Fachgespräch) der Arbeit geben. Die anwesende Expertengruppe hat die Arbeit gelesen und sind Thematisch mit der Arbeit vertraut. Die Präsentation der Arbeit soll somit die eigene Erkenntnis ins Zentrum rücken. Die Verteidigung wird nicht separat bewertet, sondern dient den Experten zur Endbeurteilung der Thesis.
 
 Der Ablauf der Verteidigung läuft wie folgt:
 
 * 2 Minuten Einrichten
-* 5 Minuten Präsentation
+* 10 Minuten Präsentation
 * 15 Minuten Fragen & Antworten
-* 8 Minuten Besprechung der Experten
+* 13 Minuten Besprechung der Experten
 
-| Zeit  | Person             |
-| ----- | ------------------ |
-| 08:30 | Pascale Anderegg   |
-| 09:00 | Marius Becker      |
-| 09:30 | Stephanie Fuchs    |
-| 10:00 | Marc Hatt          |
-| 10:30 | Severin Kilchhofer |
-| 11:00 | Matthias Koch      |
-| 13:00 | Lars Mäder         |
-| 13:30 | Nils Mäder         |
-| 14:00 | Tieu Khe Mayer     |
-| 14:30 | Natasha Ruf        |
-| 15:00 | Wolfgang Schoeck   |
-| 15:30 | Nicole Watrinet    |
+| Zeit          | Person             |
+|---------------|--------------------|
+| 08:00 – 08:40 | Pascale Anderegg   |
+| 08:40 – 09:20 | Marius Becker      |
+| 09:20 – 10:00 | Stephanie Fuchs    |
+| 10:00 – 10:40 | Marc Hatt          |
+| 10:40 – 11:20 | Severin Kilchhofer |
+| 11:20 – 12:00 | Matthias Koch      |
+| 13:00 – 13:40 | Lars Mäder         |
+| 13:40 – 14:20 | Nils Mäder         |
+| 14:20 – 15:00 | Tieu Khe Mayer     |
+| 15:00 – 15:40 | Natasha Ruf        |
+| 15:40 – 16:20 | Wolfgang Schoeck   |
+| 16:20 – 17:00 | Nicole Watrinet    |
 
 #### Nachtrag
 
 48 Lektionen stehen für die Betreuung der Thesis zur Verfügung.  
 Die Mentoratszeit ergibt sich wie folgt;
 
-```
+`
 4½ Stunden * 12 Studierende / 1.6 Faktor zur Umrechnung in Lektionen = ~34 Lektionen
-```
+`
 
 Die Benotung aller Arbeiten wird durch zwei Begleiter beurteilt. Diese haben ein Zeitbudget von 14 Lektionen.
