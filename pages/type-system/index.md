@@ -49,3 +49,4 @@ body {
 
 
 https://internetingishard.com/html-and-css/web-typography/
+https://tobiasahlin.com/blog/masonry-with-css/
