@@ -47,7 +47,7 @@ Die Studierenden wurden während iherer Ausbildung mehrfach mit theoretischen Ar
 
 ### Umfang
 
-Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting muss gemäss separater technischer Spezifikation erfolgen. Der Umfang beträgt 32 000 Zeichen (mit Wortabstand). Der Umfang kann +/- 10% varrieren. Titel, Inhaltsverzeichnis, Literaturverzeichnis und Abbildungsverzeichnis werden nicht gezählt. Es dürfen Zitate verwendet werden (Zitatrecht) der Kern der Arbeit muss jedoch eigentständig erarbeitet sein.
+Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting muss gemäss separater technischer Spezifikation erfolgen. Der Umfang beträgt 32 000 Zeichen (mit Wortabstand). Der Umfang kann +/– 10 % varrieren. Titel, Inhaltsverzeichnis, Literaturverzeichnis und Abbildungsverzeichnis werden nicht gezählt. Es dürfen Zitate verwendet werden (Zitatrecht) der Kern der Arbeit muss jedoch eigentständig erarbeitet sein.
 
 ### Mentorat
 
