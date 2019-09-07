@@ -11,12 +11,7 @@ Es wird für eine reale oder fiktive Person ein curriculum vitae aufgebaut. Dies
 Am 10. Januar 2019 muss die Website online sein.
 
 ## Hintergrund
-Die Studierenden sollen durch die Aufgabe die Zeit erhalten, sich eine Grundstruktur für einen CV aufzubauen, den Sie allenfalls später benutzen könnten.
-
-## Bewertung
-Die Bewertung erfolgt im Modul «Lab» bezogen auf Arbeitstechnik (der Dokumentation), Technik und korrektem Umgang mit Text und Medien. Dazu zählen insbesondere:
-
-
+Die Studierenden sollen durch die Aufgabe die Zeit erhalten, sich eine Grundstruktur für einen CV aufzubauen, den Sie allenfalls später persönlich benutzen könnten.
 
 ## Bewertung
 Da es sehr schwer fallen wird, eine objektive Bewertung pro Schüler·in ab zu geben (unterschiedliche Vorstellungen was abzudecken ist), wird vor allem Umgang mit Struktur, Typografie und Gestaltung gezählt.
