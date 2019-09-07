@@ -10,12 +10,8 @@ title: Inhalt
 <br>
 
 
-## 7. Juli 2019
-* Präsentation der «[Aufgabe · Chat-Client](/exercise-chat/)» in der Klasse.
-* Grundlayout und Inhalte sollten mittels CSS sichtbar sein. Feinschliff fehlt eventuell noch.
-
-## 28. Juli 2019
-* Präsentation der «[Aufgabe · Chat-Client](/exercise-chat/)» in der Klasse.
+## 20.September 2019
+* Text für CV (eigene oder fremde/fiktive Person) vorbereiten.
 
 
 <br>
@@ -75,6 +71,10 @@ title: Inhalt
 * [Lab · Aufgabe · Dropbox](/exercise-dropbox-handling/)
 * [Lab · Dokumentation · Human-centered design](/exercise-human-centered-design/)
 * [Lab · Aufgabe · Chat-Client](/exercise-chat/)
+
+### 5. Semester
+* [Lab · Thesis begleiten](https://github.com/logrinto/IAD2017.thesis)
+
 
 <br>
 <br>
