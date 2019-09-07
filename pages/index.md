@@ -74,6 +74,7 @@ title: Inhalt
 
 ### 5. Semester
 * [Lab · Thesis begleiten](https://github.com/logrinto/IAD2017.thesis)
+* [Lab · Aufgabe · curriculum vitae](/exercise-CV/)
 
 
 <br>
