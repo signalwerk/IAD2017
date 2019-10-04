@@ -10,9 +10,9 @@ title: Inhalt
 <br>
 
 
-## 20.September 2019
-* Text für CV (eigene oder fremde/fiktive Person) vorbereiten.
-
+## 2. November 2019
+* Inhalt für Review «fertig» machen
+* Im Unterricht wird es ein Review mit Präsentation geben
 
 <br>
 <br>
@@ -22,22 +22,24 @@ title: Inhalt
 
 #### Dokumentation
 
-* [Internet · Grundlagen](/grundlagen/)
+* [Grundlagen des Internets ↗](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
 * [Fonts · Eigenschaften](/font-anatomy/)
 * [Fonts · Verwendung](/font-use/)
 * [Fonts · Darstellung](/font-rendering/)
-* [Screens](/screens/)
+* [Screens ↗](https://signalwerk.github.io/learn.interaction/articles/screens/)
 * [Interaktion · Navigation](/navigation/)
-* [Technologiegeschichte der Schrift](/font-technology/)
+* [Technologiegeschichte der Schrift ↗](http://webtypo.signalwerk.ch)
 * [Lokalisierung · Internationalisierung](/global-content/)
 
 <!-- * [Reguläre Ausdrücke · Grundlagen](/regex/) -->
 <!-- * [Parser · Grundlagen](/parser/) -->
 
 
+/articles/basic-technology/
+
 #### Stubs
-* [CSS · Einheiten](/css-units/)
-* [Web-Typografie](/web-typography/)
+* [CSS · Einheiten (integriert) ↗](https://signalwerk.github.io/learn.interaction/articles/basic-technology/)
+* [Web-Typografie ↗](http://webtypo.signalwerk.ch)
 * [Cheatsheet · CLI](/cheatsheet-cli/)
 <!-- * [Touch-Interface](/touch/) -->
 <!-- * [Thesis](/thesis/) -->
