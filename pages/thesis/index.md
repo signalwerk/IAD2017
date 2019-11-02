@@ -63,7 +63,7 @@ Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 540.– in A
 | 23. 8. 2019      | Thesis-Aufgabe abgeben                         |
 | 23. 8. 2019 & 26. 10. 2019  | 2 Tage Einführung & Themenfindung durch Ulrike Felsing |
 | 7. 9. 2019 | Einführung digitale Abgabe Thesis durch Stefan Huber |
-| 29. 11. 2019     | Abgabe eines kurzen Exposés mit Thema, Fragestellung, Literatur und Zeitplan sowie Mentorenwunsch    |
+| 29. 11. 2019     | Abgabe eines kurzen Exposés als [GitHub-Issue](https://github.com/logrinto/IAD2017.thesis/issues) mit Thema, Fragestellung, Literatur und Zeitplan sowie Mentorenwunsch    |
 | 11. 1. 2020, 8:15&nbsp;Uhr | Abgabe der Thesis auf [Git-Repository](https://github.com/logrinto/IAD2017.thesis)                              |
 | 31. 1. 2020 | Verteidigung                                   |
 | Februar        | Benotung                                       |
