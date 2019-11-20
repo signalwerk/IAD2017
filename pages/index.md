@@ -10,9 +10,8 @@ title: Inhalt
 <br>
 
 
-## 2. November 2019
-* Inhalt für Review «fertig» machen
-* Im Unterricht wird es ein Review mit Präsentation geben
+## 30. November 2019
+* Inhalt & Design «umgesetzt»
 
 <br>
 <br>
