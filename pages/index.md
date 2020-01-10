@@ -9,13 +9,14 @@ title: Inhalt
 <br>
 <br>
 
-
+<!--
 ## 2. November 2019
 * Inhalt für Review «fertig» machen
 * Im Unterricht wird es ein Review mit Präsentation geben
 
 <br>
 <br>
+-->
 
 #### Slides
 * [Online-Version](https://signalwerk.github.io/IAD.LAB.SLD/)
@@ -33,9 +34,6 @@ title: Inhalt
 
 <!-- * [Reguläre Ausdrücke · Grundlagen](/regex/) -->
 <!-- * [Parser · Grundlagen](/parser/) -->
-
-
-/articles/basic-technology/
 
 #### Stubs
 * [CSS · Einheiten (integriert) ↗](https://signalwerk.github.io/learn.interaction/articles/basic-technology/)

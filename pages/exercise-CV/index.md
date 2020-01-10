@@ -57,6 +57,15 @@ Die nachfolgenden möchlichen Fragen, welche an einem Bewerbungsgespräch gestel
 * Was kannst du besonders gut?
 * Wie viele Pizza Slices schneidest du um die Pizza zu viert zu teilen?
 
+<hr />
+## Beispiele
+Nachfolgend einige «einfache» CV/Portfolio-Seiten.
+
+* [Jonny McLaughlin](https://jonny.wtf/)
+* [Jürgen Wössner – Typograf und Frontend-Entwickler](https://j.wssnr.ch/)
+* [Robby Leonardi](http://www.rleonardi.com/interactive-resume/)
+* [Cornel Widmer](https://pixelarium.ch)
+* [Theme Kaufen](https://themeforest.net/category/wordpress/creative/portfolio)
 
 <br>
 <br>
