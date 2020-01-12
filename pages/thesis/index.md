@@ -98,7 +98,7 @@ Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 540.– in A
 
 
 ### Plagiate
-Bei Plagiaten wird die ganze Arbeit mit der Note 1 bewertet. Als Definition von Plagiaten gilt die [Definition der Universität Zürich](https://www.uzh.ch/de/studies/teaching/plagiate.html).
+Bei Plagiaten wird die ganze Arbeit mit der Note 1 bewertet. Als Definition von Plagiaten gilt die [Definition der Universität Zürich](https://web.archive.org/web/20180718162232/http://www.uzh.ch/de/studies/teaching/plagiate.html).
 
 
 ### Verteidigung · 31. Januar 2020
