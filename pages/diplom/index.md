@@ -66,7 +66,7 @@ Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 840.– in A
 | 16. 5. 2020 | Review in der Klasse mit externem Dozent |
 | 29. 5. 2020 | Technisches Review durch Alex Jenter |
 | 05. 6. 2020 | Review in der Klasse mit Boris Périsset |
-| 14. 6. 2020, 8:15 Uhr | Abgabe der Diplom-Arbeit auf ein frei wählbares GitHub-Repository & Screenshot aller wesentlicher Teile. |
+| 14. 6. 2020, 8:15 Uhr | Abgabe der Diplom-Arbeit auf ein frei wählbares GitHub-Repository. URL zu Repository & Screenshots aller wesentlichen Teile werden auf [GitHub-Issue](https://github.com/logrinto/IAD2017.diplom/issues) abgegeben. |
 | <span class="nobreak">26. & 27. 6. 2020</span> | Verteidigung |
 | Juli & August | Benotung |
 
