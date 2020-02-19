@@ -525,6 +525,8 @@ In einigen Regionen der Welt wird anstatt der 24-Stunden-Schreibweise für die Z
 | 11:59 PM | 23:59 |
 | 12:00 AM | 24:00 |
 
+Wir die AM/PM schreibweise verwendet, sollten keine führenden Nullstellen bei der Stunde verwendet werden um [Verwirrungen](https://twitter.com/LeaVerou/status/1229481014906511360) zu vermeiden. Also nicht ~~02:45 PM~~ sondern 2:45 PM. Aber immer führende Nullstellen bei den Minuten. 
+
 
 ### Schaltsekunde
 Da die Erde leicht langsamer um die eigene Achse rotiert, als die definierte Anzahl Sekunden (86400) in einem Tag (Sekunde zu schnell definiert), wird mit «Schaltsekunden» diese Abweichung kompensiert.
