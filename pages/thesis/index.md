@@ -23,7 +23,7 @@ Die Inhalte der Arbeit stehen unter einer [CC-BY-SA 4.0 Lizenz](https://creative
 
 ### Prozess
 
-Die Studierenden wurden während iherer Ausbildung mehrfach mit theoretischen Arbeiten beauftragt und verstehen, wie eine schriftliche Arbeit zu glieder und zu bewältigen ist. Zudem wurde in den zwei Vorbereitungstagen den Studierenden bei der Themenfindung und der Heranführung an die Thesis hand geboten. Die Arbeit soll nun selbstänidg erarbeitet werden und von einem Mentorat begleitet werden.
+Die Studierenden wurden während ihrer Ausbildung mehrfach mit theoretischen Arbeiten beauftragt und verstehen, wie eine schriftliche Arbeit zu glieder und zu bewältigen ist. Zudem wurde in den zwei Vorbereitungstagen den Studierenden bei der Themenfindung und der Heranführung an die Thesis hand geboten. Die Arbeit soll nun selbständig erarbeitet werden und von einem Mentorat begleitet werden.
 
 ### Aufbau der Arbeit
 

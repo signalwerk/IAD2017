@@ -71,6 +71,10 @@ title: Inhalt
 * [Lab · Aufgabe · curriculum vitae](/exercise-CV/)
 
 
+### 6. Semester
+* [Lab · Diplom](/diplom/)
+* [Lab · Aufgabe · Portfolio](/exercise-portfolio/)
+
 <br>
 <br>
 
