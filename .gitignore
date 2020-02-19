@@ -35,3 +35,6 @@ travis/.ssh/id_rsa
 # not to publish
 /___not in use
 /pages/_PRIVATE
+/pages/exercise-chat/marks
+/lab2017--noten.xlsx
+/pages/exercise-human-centered-design/mark
