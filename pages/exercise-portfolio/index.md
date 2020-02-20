@@ -9,7 +9,7 @@ Es wird für eine reale oder fiktive Person ein portfolio aufgebaut. Dieses soll
 
 ### Termin
 * Am 29. Februar 2020 – Es gibt vor der Klasse eine Präsentation der Wireframes und eine inhaltliche Struktur
-* Am 12. Juni 2020 muss die Website online sein.
+* Am 12. Juni 2020 muss die Website online sein und eine Präsentation wird vor der Klasse gehalten.
 
 ## Hintergrund
 Die Studierenden sollen durch die Aufgabe die Zeit erhalten, sich eine Grundstruktur für ein Portfolio aufzubauen, welches Sie allenfalls später persönlich benutzen könnten.
