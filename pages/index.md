@@ -73,7 +73,7 @@ title: Inhalt
 
 ### 6. Semester
 * [Lab · Diplom](/diplom/)
-* [Lab · Aufgabe · Portfolio](/exercise-portfolio/)
+* [Lab · Aufgabe · Portfolio](/exercise-my-portfolio/)
 
 <br>
 <br>
