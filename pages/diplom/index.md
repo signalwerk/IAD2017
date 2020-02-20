@@ -32,7 +32,7 @@ Da die Website möglichst lange zugänglich sein soll, sind alle Teile der Websi
 ### Mentorat
 
 Die Aufgabe des Mentorats ist es, den Studierenden eine Rückmeldung während des Prozesses auf ihre gestalterische und inhaltliche Arbeit zu geben.  
-Zum Mentorat sind alle Dozierenden berechtigt, die am Unterricht des Studiengangs beteiligt waren. Externe Mentoren können von den Studierenden zuhanden der Lehrgangskoordination vorgeschlagen werden und werden durch diese bewilligt .
+Zum Mentorat sind alle Dozierenden berechtigt, die am Unterricht des Studiengangs beteiligt waren. Externe Mentorate können von den Studierenden zuhanden der Lehrgangskoordination vorgeschlagen werden und werden durch diese bewilligt.
 Für das Mentorat stehen pro Person 7 Stunden (nicht Lektionen) zur Verfügung. Es wird empfohlen dieses Zeitbudget in mehrere persönliche kurze Sitzungen und für deren Vorbereitung zu nutzen. Die Mentorierenden sind angehalten sich an die Zeitvorgaben zu halten, da sonst ein unterschiedlicher Betreuungsgrad zwischen den Studierenden entsteht.
 Die Mentorierenden melden den Prozess anhand eines Fragebogens an die Lehrgangskoordination zurück.
 Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 840.– in Aussicht gestellt werden.
@@ -62,7 +62,7 @@ Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 840.– in A
 | Zeit | Task |
 | --------- | --------- |
 | 22. 2. 2020 | Diplom-Aufgabe abgeben |
-| 4. 4. 2020 | Abgabe eines kurzen Exposés als [GitHub-Issue](https://github.com/logrinto/IAD2017.diplom/issues) mit Thema/Projekt, Zeitplan sowie Mentorenwunsch. Server-Technologien müssen bis zu diesem Zeitpunkt beantragt werden. |
+| 4. 4. 2020 | Abgabe eines kurzen Exposés als [GitHub-Issue](https://github.com/logrinto/IAD2017.diplom/issues) mit Thema/Projekt, Zeitplan sowie Mentoratswunsch. Server-Technologien müssen bis zu diesem Zeitpunkt beantragt werden. |
 | 16. 5. 2020 | Review in der Klasse mit externem Dozent |
 | 29. 5. 2020 | Technisches Review durch Alex Jenter |
 | 05. 6. 2020 | Review in der Klasse mit Boris Périsset |

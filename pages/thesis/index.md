@@ -51,7 +51,7 @@ Die Arbeit ist in digitaler Form als Website abzugeben. Das Hosting muss gemäss
 
 ### Mentorat
 
-Die Aufgabe des Mentors ist dem Studierenden eine Rückmeldung während des Prozesses auf seine Arbeitsweise und seine Erkenntnisse zu geben.  
+Die Aufgabe des Mentorats ist es, den Studierenden eine Rückmeldung während des Prozesses auf ihre Arbeitsweise und ihre Erkenntnisse zu geben.  
 Zum Mentorat sind alle Dozierenden berechtigt, die am Unterricht des Studiengangs beteiligt waren. Externe Mentoren können von den Studierenden vorgeschlagen werden.
 Für das Mentorat stehen pro Person 4½ Stunden (nicht Lektionen) zur Verfügung. Es wird empfohlen dieses Zeitbudget in zwei persönlichen kurzen Sitzungen und deren Vorbereitung zu nutzen. Die Mentorierenden sind angehalten sich an die Zeitvorgaben zu halten, da sonst ein unterschiedlicher Betreuungsgrad zwischen den Studierenden entsteht.
 Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 540.– in Aussicht gestellt werden.
