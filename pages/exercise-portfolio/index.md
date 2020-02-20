@@ -9,13 +9,13 @@ Es wird für eine reale oder fiktive Person ein portfolio aufgebaut. Dieses soll
 
 ### Termin
 * Am 29. Februar 2020 – Es gibt vor der Klasse eine Präsentation der Wireframes und eine inhaltliche Struktur
-* Am 12. Juni 2020 muss die Website online sein und eine Präsentation wird vor der Klasse gehalten.
+* Am 12. Juni 2020 muss die Website online sein und eine Präsentation wird vor der Klasse gehalten. Abgabe per URL auf Slack.
 
 ## Hintergrund
 Die Studierenden sollen durch die Aufgabe die Zeit erhalten, sich eine Grundstruktur für ein Portfolio aufzubauen, welches Sie allenfalls später persönlich benutzen könnten.
 
 ## Bewertung
-Da es sehr schwer fallen wird, eine objektive Bewertung pro Schüler·in ab zu geben (unterschiedliche Vorstellungen was abzudecken ist), wird vor allem Umgang mit Struktur, Typografie und Gestaltung gezählt.
+Da es sehr schwer fallen wird, eine objektive Bewertung pro Schüler·in ab zu geben (unterschiedliche Vorstellungen was abzudecken ist), wird vor allem Umgang mit Struktur, Typografie und Gestaltung gezählt. Es wird erwartet, dass ein grafisches System gezeigt wird, welches sich später mit mehr Inhalt abfüllen lässt. Es wird erwartet, dass mindestens 3 Arbeiten dokumentiert werden.
 
 * Das Grafische Konzept ist schlüssig und durchgängig
 * Die publizierten Inhalte sind technisch einwandfrei
