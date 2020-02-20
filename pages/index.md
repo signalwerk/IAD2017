@@ -37,7 +37,6 @@ title: Inhalt
 <!-- * [Thesis](/thesis/) -->
 
 
-
 ### 1. Semester
 
 * [Lab · Dokumentation · Experimentelles Erzählen](/exercise-exp-story/)
@@ -73,7 +72,7 @@ title: Inhalt
 
 ### 6. Semester
 * [Lab · Diplom](/diplom/)
-* [Lab · Aufgabe · Portfolio](/exercise-my-portfolio/)
+* [Lab · Aufgabe · Portfolio](/exercise-portfolio/)
 
 <br>
 <br>
