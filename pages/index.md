@@ -16,7 +16,7 @@ title: Inhalt
 #### Dokumentation
 
 * [Grundlagen des Internets ↗](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
-* [Fonts · Eigenschaften](/font-anatomy/)
+* [Fonts · Eigenschaften ↗](https://signalwerk.github.io/learn.interaction/articles/font-anatomy/)
 * [Fonts · Verwendung](/font-use/)
 * [Fonts · Darstellung](/font-rendering/)
 * [Screens ↗](https://signalwerk.github.io/learn.interaction/articles/screens/)
