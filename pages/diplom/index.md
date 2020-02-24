@@ -144,7 +144,7 @@ Der Ablauf der Verteidigung ist wie folgt:
 
 #### Nachtrag
 
-80 Lektionen stehen für die Betreuung der Thesis zur Verfügung.  
+80 Lektionen stehen für die Betreuung der Diplomarbeit zur Verfügung.  
 Die Mentoratszeit ergibt sich wie folgt;
 
 `
