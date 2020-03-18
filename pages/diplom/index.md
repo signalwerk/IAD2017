@@ -109,7 +109,7 @@ Die Abgabe erfolgt via öffentlich zugänglichem GitHub-Repository der studentis
 Bei Plagiaten wird die ganze Arbeit mit der Note 1 bewertet. Als Definition von Plagiaten gilt die [Definition der Universität Zürich](https://web.archive.org/web/20180718162232/http://www.uzh.ch/de/studies/teaching/plagiate.html).
 
 
-### Verteidigung · 26. & 27. 6. 2020
+### Verteidigung
 
 Es wird eine mündliche Verteidigung (Fachgespräch) der Arbeit geben. Die anwesende Expertengruppe hat die Arbeit gesichtet und sind mit der Arbeit vertraut. Die Arbeit soll gezeigt werden und die Überlegungen oder Entscheidungen die zur Arbeit führten darstellen. Die Verteidigung (Präsentation/Fachgespräch) zählt zu 20 Prozent zur Note der Diplomarbeit.
 
