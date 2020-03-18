@@ -120,25 +120,40 @@ Der Ablauf der Verteidigung ist wie folgt:
 * 15 Minuten Fragen & Antworten
 * 13 Minuten Besprechung der Experten
 
+
+
+#### Verteidigung · 18. 6. 2020 (Donnerstag)
+Am 18. 6. 2020 wird eine Delegation für das Anerkennungsverfahren für dne Lehrgang HF Interaction Design anwesend sein.
+Die vier studentischen Personen haben sich freiwillig gemeldet.
+
+Die genauen Zeiten folgen noch.
+
+* Severin Kilchhofer
+* Marc Hatt
+* Natasha Ruf
+* Marius Becker
+
+
+
 #### Verteidigung · 26. 6. 2020
 | Zeit          | Person             |
 |---------------|--------------------|
 | 09:00 – 09:45 | Nicole Watrinet |
 | 09:45 – 10:30 | Wolfgang Schoeck |
-| 10:30 – 11:15 | Natasha Ruf |
+| 10:30 – 11:15 | – |
 | 11:15 – 12:00 | Tieu Khe Mayer |
 | 13:15 – 14:00 | Nils Mäder |
 | 14:00 – 14:45 | Lars Mäder |
 | 14:45 – 15:30 | Matthias Koch |
-| 15:30 – 16:15 | Severin Kilchhofer |
+| 15:30 – 16:15 | – |
 
 
 #### Verteidigung · 27. 6. 2020
 | Zeit          | Person             |
 |---------------|--------------------|
-| 09:00 – 09:45 | Marc Hatt |
+| 09:00 – 09:45 | – |
 | 09:45 – 10:30 | Stephanie Fuchs |
-| 10:30 – 11:15 | Marius Becker |
+| 10:30 – 11:15 | – |
 | 11:15 – 12:00 | Pascale Anderegg |
 
 
