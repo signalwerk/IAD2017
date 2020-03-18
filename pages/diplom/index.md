@@ -129,10 +129,10 @@ Die vier studentischen Personen haben sich freiwillig gemeldet.
 
 | Zeit          | Person             |
 |---------------|--------------------|
-| 09:00 – 09:45 | Severin Kilchhofer |
-| 09:45 – 10:30 | Marius Becker |
-| 10:30 – 11:15 | Natasha Ruf |
-| 11:15 – 12:00 | Marc Hatt |
+| 08:15 – 09:00 | Severin Kilchhofer |
+| 09:00 – 09:45 | Marius Becker |
+| 09:45 – 10:30 | Natasha Ruf |
+| 10:30 – 11:15 | Marc Hatt |
 
 
 
