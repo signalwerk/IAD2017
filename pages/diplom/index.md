@@ -126,12 +126,13 @@ Der Ablauf der Verteidigung ist wie folgt:
 Am 18. 6. 2020 wird eine Delegation für das Anerkennungsverfahren für dne Lehrgang HF Interaction Design anwesend sein.
 Die vier studentischen Personen haben sich freiwillig gemeldet.
 
-Die genauen Zeiten folgen noch.
 
-* Severin Kilchhofer
-* Marc Hatt
-* Natasha Ruf
-* Marius Becker
+| Zeit          | Person             |
+|---------------|--------------------|
+| 09:00 – 09:45 | Severin Kilchhofer |
+| 09:45 – 10:30 | Marius Becker |
+| 10:30 – 11:15 | Natasha Ruf |
+| 11:15 – 12:00 | Marc Hatt |
 
 
 
