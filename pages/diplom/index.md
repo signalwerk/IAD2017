@@ -67,7 +67,7 @@ Bei Anfragen an externe Dozierende kann eine Entschädigung von Fr. 840.– in A
 | 29. 5. 2020 | Technisches Review durch Alex Jenter |
 | 05. 6. 2020 | Review in der Klasse mit Boris Périsset |
 | 14. 6. 2020, 8:15 Uhr | Abgabe der Diplom-Arbeit auf ein frei wählbares GitHub-Repository. URL zu Repository & Screenshots aller wesentlichen Teile werden auf [GitHub-Issue](https://github.com/logrinto/IAD2017.diplom/issues) abgegeben. |
-| <span class="nobreak">26. & 27. 6. 2020</span> | Verteidigung |
+| <span class="nobreak">18. & 26. 6. 2020</span> | Verteidigung |
 | Juli & August | Benotung |
 
 </div>
@@ -141,21 +141,12 @@ Die vier studentischen Personen haben sich freiwillig gemeldet.
 |---------------|--------------------|
 | 09:00 – 09:45 | Nicole Watrinet |
 | 09:45 – 10:30 | Wolfgang Schoeck |
-| 10:30 – 11:15 | – |
+| 10:30 – 11:15 | Stephanie Fuchs |
 | 11:15 – 12:00 | Tieu Khe Mayer |
 | 13:15 – 14:00 | Nils Mäder |
 | 14:00 – 14:45 | Lars Mäder |
 | 14:45 – 15:30 | Matthias Koch |
-| 15:30 – 16:15 | – |
-
-
-#### Verteidigung · 27. 6. 2020
-| Zeit          | Person             |
-|---------------|--------------------|
-| 09:00 – 09:45 | – |
-| 09:45 – 10:30 | Stephanie Fuchs |
-| 10:30 – 11:15 | – |
-| 11:15 – 12:00 | Pascale Anderegg |
+| 15:30 – 16:15 | Pascale Anderegg |
 
 
 #### Nachtrag
