@@ -159,3 +159,9 @@ Die Mentoratszeit ergibt sich wie folgt;
 `
 
 Die Benotung aller Arbeiten wird durch drei Begleiter beurteilt. Diese haben ein Zeitbudget von 28 Lektionen.
+
+
+
+#### Ergänzung 29.5.2020
+* Google Fonts als «Externe Services» sind zulässig. Begründung: Da dieser Service statisch ist und von Millionen von Seiten genutzt wird, ist nicht mit einem Wegfall zu rechnen. Zudem wäre diese Quelle nicht entscheidend für das weitere Existieren des Diploms.
+* An GitHub angeschlossene öffentliche Build-Dienste wie Netlify sind als «Externe Services» zulässig. Begründung: Ein Build wäre auch ohne Netlify (oder Ähnlichem) ohne Probleme möglich.
