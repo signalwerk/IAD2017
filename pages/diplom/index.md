@@ -124,7 +124,7 @@ Der Ablauf der Verteidigung ist wie folgt:
 
 #### Verteidigung · 18. 6. 2020 (Donnerstag)
 Am 18. 6. 2020 wird eine Delegation für das Anerkennungsverfahren für dne Lehrgang HF Interaction Design anwesend sein.
-Die vier studentischen Personen haben sich freiwillig gemeldet.
+Die vier studentischen Personen haben sich freiwillig gemeldet. Ort: Zimmer 510 · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich
 
 
 | Zeit          | Person             |
@@ -137,6 +137,8 @@ Die vier studentischen Personen haben sich freiwillig gemeldet.
 
 
 #### Verteidigung · 26. 6. 2020
+Ort: Zimmer 413 · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich
+
 | Zeit          | Person             |
 |---------------|--------------------|
 | 09:00 – 09:45 | Nicole Watrinet |
