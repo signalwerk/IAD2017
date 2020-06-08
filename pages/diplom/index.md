@@ -160,7 +160,7 @@ Die Mentoratszeit ergibt sich wie folgt;
 (80 Lektionen – 28 Lektionen Benotung) / 12 Studierende × 1.6 Faktor zur Umrechung in Stunden = 7 Stunden
 `
 
-Die Benotung aller Arbeiten wird durch drei Begleiter beurteilt. Diese haben ein Zeitbudget von 28 Lektionen.
+Die Benotung aller Arbeiten wird durch Experten beurteilt (siehe [Promotionsordnung](https://cdn.rawgit.com/logrinto/IAD2017/dd035580/docs/HF_IAD_Promotionsordnung_28.03.2017.pdf)). Diese haben ein Zeitbudget von 28 Lektionen.
 
 
 
