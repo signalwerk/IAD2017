@@ -21,7 +21,7 @@ title: Inhalt
 * [Fonts · Darstellung](/font-rendering/)
 * [Screens ↗](https://signalwerk.github.io/learn.interaction/articles/screens/)
 * [Interaktion · Navigation](/navigation/)
-* [Technologiegeschichte der Schrift ↗](http://webtypo.signalwerk.ch)
+* [Technologiegeschichte der Schrift ↗](https://signalwerk.github.io/learn.interaction/articles/font-history/)
 * [Lokalisierung · Internationalisierung](/global-content/)
 
 <!-- * [Reguläre Ausdrücke · Grundlagen](/regex/) -->
