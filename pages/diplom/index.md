@@ -124,19 +124,21 @@ Der Ablauf der Verteidigung ist wie folgt:
 
 #### Verteidigung · 18. 6. 2020 (Donnerstag)
 Am 18. 6. 2020 wird eine Delegation für das Anerkennungsverfahren für dne Lehrgang HF Interaction Design anwesend sein.
-Die vier studentischen Personen haben sich freiwillig gemeldet.
+Die vier studentischen Personen haben sich freiwillig gemeldet. Ort: Zimmer 510 · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich
 
 
 | Zeit          | Person             |
 |---------------|--------------------|
 | 08:15 – 09:00 | Severin Kilchhofer |
-| 09:00 – 09:45 | Marius Becker |
+| 09:00 – 09:45 | Marc Hatt |
 | 09:45 – 10:30 | Natasha Ruf |
-| 10:30 – 11:15 | Marc Hatt |
+| 10:30 – 11:15 | ~~Marius Becker~~ |
 
 
 
 #### Verteidigung · 26. 6. 2020
+Ort: Zimmer 413 · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich
+
 | Zeit          | Person             |
 |---------------|--------------------|
 | 09:00 – 09:45 | Nicole Watrinet |
@@ -158,4 +160,10 @@ Die Mentoratszeit ergibt sich wie folgt;
 (80 Lektionen – 28 Lektionen Benotung) / 12 Studierende × 1.6 Faktor zur Umrechung in Stunden = 7 Stunden
 `
 
-Die Benotung aller Arbeiten wird durch drei Begleiter beurteilt. Diese haben ein Zeitbudget von 28 Lektionen.
+Die Benotung aller Arbeiten wird durch Experten beurteilt (siehe [Promotionsordnung](https://cdn.rawgit.com/logrinto/IAD2017/dd035580/docs/HF_IAD_Promotionsordnung_28.03.2017.pdf)). Diese haben ein Zeitbudget von 28 Lektionen.
+
+
+
+#### Ergänzung 29.5.2020
+* Google Fonts als «Externe Services» sind zulässig. Begründung: Da dieser Service statisch ist und von Millionen von Seiten genutzt wird, ist nicht mit einem Wegfall zu rechnen. Zudem wäre diese Quelle nicht entscheidend für das weitere Existieren des Diploms.
+* An GitHub angeschlossene öffentliche Build-Dienste wie Netlify sind als «Externe Services» zulässig. Begründung: Ein Build wäre auch ohne Netlify (oder Ähnlichem) ohne Probleme möglich.
