@@ -338,6 +338,16 @@ oder aber auch die «Single quotes»
 </div>
 
 ### Laufrichtung des Textes
+
+::: margin
+
+### Beispiel
+* [Twitter · Laufrichtung links nach rechts](https://twitter.com/sfgzzh?lang=de)
+* [Twitter · Laufrichtung rechts nach links](https://twitter.com/sfgzzh?lang=ar)
+
+:::
+
+
 Je nach Sprache kann der Text in ganz verschiedene richtungen laufen. In den westlichen Sprachen wird häufig von links nach rechts gelesen. Entsprechend der Leserichtung ist auch die Abfolge der Elemente zu sortieren.
 
 ### left to right (ltr) und right to left (rtl)
@@ -525,7 +535,7 @@ In einigen Regionen der Welt wird anstatt der 24-Stunden-Schreibweise für die Z
 | 11:59 PM | 23:59 |
 | 12:00 AM | 24:00 |
 
-Wir die AM/PM schreibweise verwendet, sollten keine führenden Nullstellen bei der Stunde verwendet werden um [Verwirrungen](https://twitter.com/LeaVerou/status/1229481014906511360) zu vermeiden. Also nicht ~~02:45 PM~~ sondern 2:45 PM. Aber immer führende Nullstellen bei den Minuten. 
+Wir die AM/PM schreibweise verwendet, sollten keine führenden Nullstellen bei der Stunde verwendet werden um [Verwirrungen](https://twitter.com/LeaVerou/status/1229481014906511360) zu vermeiden. Also nicht ~~02:45 PM~~ sondern 2:45 PM. Aber immer führende Nullstellen bei den Minuten.
 
 
 ### Schaltsekunde
@@ -765,7 +775,7 @@ In Washington werden Nummern (Nord – Süd) und Buchstaben (West – Os
 ::: margin
 [Online-Helfer](https://signalwerk.github.io/contact-parser/)
 :::
-Telefonnummern sollten gemäss der Empfehlung von [ITU-T Recommendation E.123](https://www.itu.int/rec/T-REC-E.123-200102-I/en) formatiert werden. 
+Telefonnummern sollten gemäss der Empfehlung von [ITU-T Recommendation E.123](https://www.itu.int/rec/T-REC-E.123-200102-I/en) formatiert werden.
 
 ### Beispiele
 ```
