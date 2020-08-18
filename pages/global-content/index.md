@@ -450,7 +450,7 @@ Im deutschen Sprachraum alleine gibt es bereits drei Sortierungen.
 :::: col_4of12
 <div class="example example--h1">
 
-### DIN 5007 Variante 1
+### DIN 5007 Variante 2
 * Göbel
 * Goethe
 * Göthe
@@ -465,7 +465,7 @@ Im deutschen Sprachraum alleine gibt es bereits drei Sortierungen.
 :::: col_4of12_last
 <div class="example example--h1">
 
-### DIN 5007 Variante 1
+### Österreichische Sortierung
 * Goethe
 * Goldmann
 * Göbel
