@@ -29,8 +29,6 @@ node_modules
 .sass-cache/
 public/
 
-# travis
-travis/.ssh/id_rsa
 
 # not to publish
 /___not in use
@@ -40,3 +38,7 @@ travis/.ssh/id_rsa
 /pages/exercise-human-centered-design/mark
 /pages/exercise-CV/marks/index.md
 /pages/exercise-IAD2019/marks/index.md
+ci/.ssh/id_rsa
+ci/.ssh/secret.key
+/pages/exercise-IAD2019-exp-story/marks
+/pages/exercise-IAD2019-type-termes/marks

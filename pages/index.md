@@ -22,7 +22,7 @@ title: Inhalt
 * [Screens ↗](https://signalwerk.github.io/learn.interaction/articles/screens/)
 * [Interaktion · Navigation](/navigation/)
 * [Technologiegeschichte der Schrift ↗](https://signalwerk.github.io/learn.interaction/articles/font-history/)
-* [Lokalisierung · Internationalisierung](/global-content/)
+* [Lokalisierung · Internationalisierung ↗](https://signalwerk.github.io/learn.interaction/articles/global-content/)
 
 <!-- * [Reguläre Ausdrücke · Grundlagen](/regex/) -->
 <!-- * [Parser · Grundlagen](/parser/) -->

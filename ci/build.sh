@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "-- run npm build"
-npm run build-prefix-links
+npm run build
