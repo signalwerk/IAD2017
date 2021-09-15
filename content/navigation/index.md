@@ -3,10 +3,7 @@ title: Navigations- und Ordnungskonzepte
 ---
 # Gestaltung · <br>Navigations- und Ordnungskonzepte
 
-::: TOC
-**Content**
-[[TOC]]
-:::
+{{OLD_TOC}}
 <div class='header'></div>
 
 ## Navigations- und Ordnungskonzepte

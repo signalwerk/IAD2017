@@ -1,13 +1,17 @@
 ---
-title: Inhalt
+title: IAD 2017 · Dokumente
 ---
 
-# IAD 2017 · Dokumente
+<header>
+
+# {{process.content.frontmatter.title}}
 
 <small>Signalwerk GmbH – Stefan Huber · 2021 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</small>
 
-<br>
-<br>
+
+</header>
+
+
 
 
 #### Slides
@@ -74,10 +78,3 @@ title: Inhalt
 * [Lab · Diplom](/diplom/)
 * [Lab · Aufgabe · Portfolio](/exercise-portfolio/)
 
-<br>
-<br>
-
-<hr>
-
-Kontakt:
-Stefan Huber · sh@signalwerk.ch
