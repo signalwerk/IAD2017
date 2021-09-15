@@ -1,32 +1,27 @@
 {
-  "name": "gatsby-starter-signalwerk",
-  "description": "Gatsby signalwerk starter",
+  "name": "IAD2017",
   "version": "1.0.0",
-  "author": "Stefan Huber <sh@signalwerk.ch>",
-  "dependencies": {
-    "gatsby": "^0.12.48",
-    "object-assign": "^4.1.1",
-    "react-helmet": "^5.0.3"
-  },
-  "devDependencies": {
-    "gh-pages": "^0.12.0",
-    "normalize.css": "^7.0.0",
-    "signalwerk.documentation.md": "0.0.9",
-    "signalwerk.documentation.style": "0.0.8",
-    "susy": "^2.2.12"
-  },
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "MIT",
-  "main": "n/a",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "build": "gatsby build",
-    "build-prefix-links": "gatsby build --prefix-links",
-    "deploy": "gatsby build --prefix-links && gh-pages -d public",
-    "develop": "gatsby develop",
-    "start": "npm run develop",
-    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"pages/*.js\" \"utils/*.js\" \"wrappers/*.js\" \"html.js\"",
+    "start": "webpack-dev-server --config ./packages/signalwerk.documentation.md/webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signalwerk/IAD2017.git"
+  },
+  "keywords": [],
+  "author": "Stefan Huber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/signalwerk/IAD2017/issues"
+  },
+  "homepage": "https://github.com/signalwerk/IAD2017#readme",
+  "workspaces": [
+    "./packages/*"
+  ],
+  "devDependencies": {
+    "signalwerk.documentation.md": "file:packages/signalwerk.documentation.md"
   }
 }
