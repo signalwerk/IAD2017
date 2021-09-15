@@ -3,9 +3,9 @@ name: default
 
 steps:
   - name: build
-    image: node:6
+    image: node:12
     commands:
-      - npm install
+      - npm ci
       - bash ./ci/gh-pages.sh
     environment:
       DECRYPT_KEY:
