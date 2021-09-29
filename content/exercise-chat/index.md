@@ -2,7 +2,11 @@
 title: Aufgabe · Chat-Client
 ---
 
-# Aufgabe · Chat-Client
+<header>
+
+# {{process.content.frontmatter.title}}
+
+</header>
 
 
 ## Ausgangslage

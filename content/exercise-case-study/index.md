@@ -1,11 +1,12 @@
 ---
 title: Case Study · Interface
 ---
-# Case Study · Interface
-<div class='header'></div>
 
+<header>
 
+# {{process.content.frontmatter.title}}
 
+</header>
 
 ## Ausgangslage
 Die gestaltenden Personen haben die Aufgabe, die Abfahrten-Tabelle der SBB auf einem Interaktiven-Screen neu zu gestalten. Der bestehende Sreen wurde in der Klasse analysiert und besprochen. Die neue Lösung muss entsprechend verbessert werden. Es muss in Teams gearbeitet werden und die Bewertung erfolgt je Team.

@@ -1,13 +1,14 @@
 ---
 title: Cheatsheet · CLI
 ---
-# Cheatsheet · CLI
+<header>
 
-::: TOC
-**Content**
-[[TOC]]
-:::
+# {{process.content.frontmatter.title}}
 
+</header>
+
+
+{{OLD_TOC}}
 
 ## Navigation in Verzeichnis
 
