@@ -1,5 +1,5 @@
 ---
-title: Diplomarbeit
+title: Aufgabe · Diplomarbeit
 ---
 
 <header>
@@ -175,14 +175,14 @@ Die Benotung aller Arbeiten wird durch Experten beurteilt (siehe [Promotionsordn
 
 ## Abgaben
 
-* [Nils Mäder](https://www.accessibility-designer-guide.com/)
-* [Lars Mäder](https://www.vui.guide/)
-* [Matthias Koch](https://matthias.logrinto.ch/)
-* [Severin Kilchhofer](https://severinkilchhofer.github.io/diplomarbeit/)
-* [Stephanie Fuchs](http://faceit.logrinto.ch/)
-* [Tieu Khe Mayer](https://zupla.logrinto.ch/)
-* [Pascale Anderegg](https://divo.logrinto.ch/)
-* [Wolfgang Schoeck](https://wschoeck.github.io/domizil/)
-* [Marc Hatt](https://diplom.marc-hatt.ch/)
-* [Nicole Watrinet](https://nicole.logrinto.ch/)
-* [Natasha Ruf](https://natasharuf.github.io/swissdeafhistory/)
+* [Nils Mäder ↗](https://www.accessibility-designer-guide.com/)
+* [Lars Mäder ↗](https://www.vui.guide/)
+* [Matthias Koch ↗](https://matthias.logrinto.ch/)
+* [Severin Kilchhofer ↗](https://severinkilchhofer.github.io/diplomarbeit/)
+* [Stephanie Fuchs ↗](http://faceit.logrinto.ch/)
+* [Tieu Khe Mayer ↗](https://zupla.logrinto.ch/)
+* [Pascale Anderegg ↗](https://divo.logrinto.ch/)
+* [Wolfgang Schoeck ↗](https://wschoeck.github.io/domizil/)
+* [Marc Hatt ↗](https://diplom.marc-hatt.ch/)
+* [Nicole Watrinet ↗](https://nicole.logrinto.ch/)
+* [Natasha Ruf ↗](https://natasharuf.github.io/swissdeafhistory/)

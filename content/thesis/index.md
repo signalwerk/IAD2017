@@ -137,3 +137,21 @@ Die Mentoratszeit ergibt sich wie folgt;
 `
 
 Die Benotung aller Arbeiten wird durch zwei Begleiter beurteilt. Diese haben ein Zeitbudget von 14 Lektionen.
+
+
+
+## Abgaben
+
+
+* [Machine Learning im Designprozess ↗](https://thesis.logrinto.ch/posts/2020/pascale/) – Pascale Anderegg
+* [Gruppendynamik in der Anonymität des Internets ↗](https://thesis.logrinto.ch/posts/2020/marius/) – Marius Becker
+* [Der Pferdesport auf dem Weg zu modernen Technologien ↗](https://thesis.logrinto.ch/posts/2020/steffi/) – Stephanie Fuchs
+* [Crowdfunding im Gaming-Journalismus ↗](https://thesis.logrinto.ch/posts/2020/marc/) – Marc Hatt
+* [Social Commerce ↗](https://thesis.logrinto.ch/posts/2020/severin/) – Severin Kilchhofer
+* [Personalisierte Werbung ↗](https://thesis.logrinto.ch/posts/2020/matthias/) – Matthias Koch
+* [Dr. Alexa & Co.: Medizinische Auskunft aus dem Internet ↗](https://thesis.logrinto.ch/posts/2020/lars/) – Lars Mäder
+* [Inwiefern sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert hat ↗](https://thesis.logrinto.ch/posts/2020/nils/) – Nils Mäder
+* [Quantified Self ↗](https://thesis.logrinto.ch/posts/2020/tieukhe/) – Tieu Khe Mayer
+* [Wie entsteht Vertrauen zu P2P Content Sharing Plattformen? ↗](https://thesis.logrinto.ch/posts/2020/natasha/) – Natasha Ruf
+* [Wie Co-Creation Unternehmen und KundInnen näher zusammenbringt ↗](https://thesis.logrinto.ch/posts/2020/wolfgang/) – Wolfgang Schoeck
+* [Einwirkung Künstlicher Intelligenz auf das Benutzererlebnis ↗](https://thesis.logrinto.ch/posts/2020/nicole/) – Nicole Watrinet
