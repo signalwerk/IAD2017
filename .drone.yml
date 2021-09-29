@@ -3,7 +3,7 @@ name: default
 
 steps:
   - name: build
-    image: node:12
+    image: node:latest
     commands:
       - npm ci
       - bash ./ci/gh-pages.sh
@@ -11,7 +11,7 @@ steps:
       DECRYPT_KEY:
         from_secret: "DECRYPT_KEY"
       COMMIT_AUTHOR_EMAIL: "sh@signalwerk.ch"
-      DEPLOY_DIR: "public"
+      DEPLOY_DIR: "build"
     when:
       branch:
         - master
