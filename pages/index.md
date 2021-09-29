@@ -15,14 +15,14 @@ title: Inhalt
 
 #### Dokumentation
 
-* [Grundlagen des Internets ↗](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
-* [Fonts · Eigenschaften ↗](https://signalwerk.github.io/learn.interaction/articles/font-anatomy/)
-* [Fonts · Verwendung](/font-use/)
-* [Fonts · Darstellung](/font-rendering/)
-* [Screens ↗](https://signalwerk.github.io/learn.interaction/articles/screens/)
+* [Grundlagen des Internets ↗](https://interaction.signalwerk.ch/articles/internet-technology/)
+* [Fonts · Eigenschaften ↗](https://interaction.signalwerk.ch/articles/font-anatomy/)
+* [Fonts · Verwendung ↗](https://interaction.signalwerk.ch/articles/font-use/)
+* [Fonts · Darstellung ↗](https://interaction.signalwerk.ch/articles/font-rendering/)
+* [Screens ↗](https://interaction.signalwerk.ch/articles/screens/)
 * [Interaktion · Navigation](/navigation/)
-* [Technologiegeschichte der Schrift ↗](https://signalwerk.github.io/learn.interaction/articles/font-history/)
-* [Lokalisierung · Internationalisierung ↗](https://signalwerk.github.io/learn.interaction/articles/global-content/)
+* [Technologiegeschichte der Schrift ↗](https://interaction.signalwerk.ch/articles/font-history/)
+* [Lokalisierung · Internationalisierung ↗](https://interaction.signalwerk.ch/articles/global-content/)
 
 <!-- * [Reguläre Ausdrücke · Grundlagen](/regex/) -->
 <!-- * [Parser · Grundlagen](/parser/) -->
@@ -30,7 +30,7 @@ title: Inhalt
 
 
 #### Stubs
-* [CSS · Einheiten (integriert) ↗](https://signalwerk.github.io/learn.interaction/articles/basic-technology/)
+* [CSS · Einheiten (integriert) ↗](https://interaction.signalwerk.ch/articles/basic-technology/)
 * [Web-Typografie ↗](http://webtypo.signalwerk.ch)
 * [Cheatsheet · CLI](/cheatsheet-cli/)
 <!-- * [Touch-Interface](/touch/) -->
@@ -66,12 +66,13 @@ title: Inhalt
 * [Lab · Aufgabe · Chat-Client](/exercise-chat/)
 
 ### 5. Semester
+* [Aufgabe · Thesis](/thesis/)
 * [Lab · Thesis begleiten](https://github.com/logrinto/IAD2017.thesis)
 * [Lab · Aufgabe · curriculum vitae](/exercise-CV/)
 
 
 ### 6. Semester
-* [Lab · Diplom](/diplom/)
+* [Aufgabe · Diplom](/diplom/)
 * [Lab · Aufgabe · Portfolio](/exercise-portfolio/)
 
 <br>
