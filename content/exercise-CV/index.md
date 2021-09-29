@@ -58,6 +58,8 @@ Die nachfolgenden möchlichen Fragen, welche an einem Bewerbungsgespräch gestel
 * Wie viele Pizza Slices schneidest du um die Pizza zu viert zu teilen?
 
 <hr />
+
+
 ## Beispiele
 Nachfolgend einige «einfache» CV/Portfolio-Seiten.
 

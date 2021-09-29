@@ -17,8 +17,8 @@ title: Info · Fablab
 
 
 ## Material
-![](./img/IMG_7766.JPG)
-![](./img/IMG_7764.JPG)
+![](/assets/typesetting-infos/img/IMG_7766.JPG)
+![](/assets/typesetting-infos/img/IMG_7764.JPG)
 
 ### Buchstaben klein (~24 Cicero)
 * 7 × 18 mm × 550 mm × 108 mm – Sperrholz Birke
@@ -45,34 +45,34 @@ title: Info · Fablab
 
 ### Datei für Laser vorbereiten
 Instruktion siehe [Wiki](http://wiki.zurich.fablab.ch/AKJ_6090) und Thomas.
-![](./img/IMG_7750.JPG)
+![](/assets/typesetting-infos/img/IMG_7750.JPG)
 
 ### Material rechtwinklig (!) platzieren
 Ob etwas im rechten Winel steht, kann auch mit dem Laser (Nullpunkt) geprüft werden.
-![](./img/IMG_7749.JPG)
+![](/assets/typesetting-infos/img/IMG_7749.JPG)
 
 ### brzzzz...
 AKJ 6090 (der Neue) – 6 mm/s – 75 % Energie  
 Ist aber eher zuviel.
 
-![](./img/IMG_7752.JPG)
+![](/assets/typesetting-infos/img/IMG_7752.JPG)
 
 ### Länge auf Träger anzeichnen
-![](./img/IMG_7756.JPG)
+![](/assets/typesetting-infos/img/IMG_7756.JPG)
 
 
 
 ### Träger ablängen
 # Auchtung! Die Säge ist gefährlich! Bitte Haare, Ketten etc. zurückbinden und immer ein Holz verwenden um sei Werkstuck zu schieben. Achtung Hände!
 
-![](./img/IMG_7758.JPG)
+![](/assets/typesetting-infos/img/IMG_7758.JPG)
 
 ### Aufleimen mit Hilfe vom «Abfall»
-![](./img/IMG_7767.JPG)
+![](/assets/typesetting-infos/img/IMG_7767.JPG)
 
 ### «Abfall» vor Trocknung abziehen
-![](./img/IMG_7768.JPG)
+![](/assets/typesetting-infos/img/IMG_7768.JPG)
 
 ### Fertiger Buchstabe muss durch Lehre passen
-![](./img/IMG_7771.JPG)
-![](./img/IMG_7770.JPG)
+![](/assets/typesetting-infos/img/IMG_7771.JPG)
+![](/assets/typesetting-infos/img/IMG_7770.JPG)
