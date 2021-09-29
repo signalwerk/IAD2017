@@ -167,3 +167,19 @@ Die Benotung aller Arbeiten wird durch Experten beurteilt (siehe [Promotionsordn
 #### Ergänzung 29.5.2020
 * Google Fonts als «Externe Services» sind zulässig. Begründung: Da dieser Service statisch ist und von Millionen von Seiten genutzt wird, ist nicht mit einem Wegfall zu rechnen. Zudem wäre diese Quelle nicht entscheidend für das weitere Existieren des Diploms.
 * An GitHub angeschlossene öffentliche Build-Dienste wie Netlify sind als «Externe Services» zulässig. Begründung: Ein Build wäre auch ohne Netlify (oder Ähnlichem) ohne Probleme möglich.
+
+
+
+## Abgaben
+
+* [Nils Mäder ↗](https://www.accessibility-designer-guide.com/)
+* [Lars Mäder ↗](https://www.vui.guide/)
+* [Matthias Koch ↗](https://matthias.logrinto.ch/)
+* [Severin Kilchhofer ↗](https://severinkilchhofer.github.io/diplomarbeit/)
+* [Stephanie Fuchs ↗](http://faceit.logrinto.ch/)
+* [Tieu Khe Mayer ↗](https://zupla.logrinto.ch/)
+* [Pascale Anderegg ↗](https://divo.logrinto.ch/)
+* [Wolfgang Schoeck ↗](https://wschoeck.github.io/domizil/)
+* [Marc Hatt ↗](https://diplom.marc-hatt.ch/)
+* [Nicole Watrinet ↗](https://nicole.logrinto.ch/)
+* [Natasha Ruf ↗](https://natasharuf.github.io/swissdeafhistory/)
