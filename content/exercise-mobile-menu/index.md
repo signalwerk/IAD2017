@@ -2,7 +2,11 @@
 title: Aufgabe · Mobile Menu
 ---
 
-# Aufgabe · Mobile Menu
+<header>
+
+# {{process.content.frontmatter.title}}
+
+</header>
 
 
 ## Ausgangslage

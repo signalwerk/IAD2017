@@ -1,8 +1,12 @@
 ---
 title: Aufgabe · curriculum vitae
 ---
-# Aufgabe · curriculum vitae
-<div class='header'></div>
+<header>
+
+# {{process.content.frontmatter.title}}
+
+</header>
+
 
 ## Aufgabe
 Es wird für eine reale oder fiktive Person ein curriculum vitae aufgebaut. Dieser soll als Website funktionieren. Der CV soll kein Portfolio ersetzen, sondern dieses ergänzen.

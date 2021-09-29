@@ -2,9 +2,11 @@
 title: Zusammenstellung · Links
 ---
 
-# Zusammenstellung · Links
+<header>
 
-<div class='header'></div>
+# {{process.content.frontmatter.title}}
+
+</header>
 
 
 ## Redaktionelle Font-Beispiele/Font-Muster

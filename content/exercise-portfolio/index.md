@@ -1,8 +1,12 @@
 ---
 title: Aufgabe · Portfolio
 ---
-# Aufgabe · Portfolio
-<div class='header'></div>
+<header>
+
+# {{process.content.frontmatter.title}}
+
+</header>
+
 
 ## Aufgabe
 Es wird für eine reale oder fiktive Person ein portfolio aufgebaut. Dieses soll als Website funktionieren.

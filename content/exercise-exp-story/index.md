@@ -1,8 +1,11 @@
 ---
 title: Dokumentation · Experimentelles Erzählen
 ---
-# Dokumentation · Experimentelles Erzählen
-<div class='header'></div>
+<header>
+
+# {{process.content.frontmatter.title}}
+
+</header>
 
 ## Vorgaben
 Fortschritt und Arbeitsweise des Moduls «Experimentelles Erzählen» werden als Website dokumentiert. Die Studierenden sollen sowohl Zwischenschritte, wie auch Ergebnisse in digitaler Form (Foto, Video, Text) festhalten. Die dokumentierten Schritte sollen Verbesserungen oder konzeptionelle Entscheide aufzeigen.

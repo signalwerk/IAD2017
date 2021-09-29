@@ -2,9 +2,11 @@
 title: Untersuchung · Schriftmuster (Papier)
 ---
 
-# Untersuchung · Schriftmuster (Papier)
+<header>
 
-<div class='header'></div>
+# {{process.content.frontmatter.title}}
+
+</header>
 
 ## Cast
 

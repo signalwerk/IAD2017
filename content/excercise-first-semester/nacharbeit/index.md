@@ -1,22 +1,23 @@
 ---
-title: Semesterprüfung · IAD2017
+title: Semesterprüfung · Nacharbeit · IAD2017
 ---
-# Semesterprüfung · IAD2017
+<header>
 
+# {{process.content.frontmatter.title}}
 
-<br>
+</header>
 
-
-
-
-## Thema
-::: margin compact small
 
 #### Ablauf · 19.01.2018
+
 **13:15 – 13:35** · Einführung  
 **13:05 – 15:05** · Aufgabe lösen  
 **15:55 – 16:05** · Review  
-:::
+
+
+## Thema
+
+
 15 Jahre Neumühle Töss – Architekt Beat Rothen
 
 ## Umfeld
@@ -44,7 +45,6 @@ Sie haben im 1. Semester – unter Anderem – gelernt, wie man eine Community a
 ## Hilfsmittel
 Computer, Internet und Drucker dürfen verwendet werden.
 
-<div class='header'></div>
 
 ## Benotung
 Jonas Schudel und Stefan Huber entscheiden darüber, ob die Abgabe der Studenten genügend schlüssig und mit der geforderten Qualität ist.

@@ -2,23 +2,33 @@
 title: Semesterplan
 ---
 
-# LAB · Semesterplan
+<header>
+
+# {{process.content.frontmatter.title}}
+
+</header>
+
 
 ### Ablauf
 
 Der nachfolgende Zeitplan gilt als grobe Übersicht, es kann je nach Arbeitsgeschwindigkeit zu Abweichungen kommen.
 
-<div class='header'></div>
+
 
 ## Zeit
 
-### Schriftmuster {.line}
+
+
+----
+
+
+### Schriftmuster
 
 KW08 · 23.02.2018 · 8 Lektionen
 
-::::: grid
+<div class="grid-12col">
+<div class="col-1to6">
 
-:::: col_6of12
 
 ##### Theorie
 
@@ -33,9 +43,9 @@ KW08 · 23.02.2018 · 8 Lektionen
 * Dokumentation · Papier-Schriftmuster
 * Timeline «Medien-/Technologiegeschichte»
 
-  ::::
+</div>
 
-:::: col_6of12_last
+<div class="col-7to12">
 
 ##### Hausarbeit
 
@@ -43,17 +53,21 @@ KW08 · 23.02.2018 · 8 Lektionen
 * SVG-Testdatei erstellen
 * 3 digitale Schriftmuster wählen
 
-::::
+</div>
 
-:::::
+</div>
 
-### Kriterien der Schrift {.line}
+
+----
+
+
+### Kriterien der Schrift
 
 KW11 · 16.03.2018 · 4 Lektionen
 
-::::: grid
+<div class="grid-12col">
+<div class="col-1to6">
 
-:::: col_6of12
 
 ##### Theorie
 * Fonts · Eigenschaften & Verwendung
@@ -69,26 +83,30 @@ KW11 · 16.03.2018 · 4 Lektionen
 * Dokumentation · Schriftmuster
 * Webfonts
 
-::::
+</div>
 
-:::: col_6of12_last
+<div class="col-7to12">
 
 ##### Hausarbeit
 
 * SVG-Testdatei korrigieren
 * Text zur Schrift (1000 Zeichen)
 
-::::
+</div>
 
-:::::
+</div>
 
-### Navigation {.line}
+
+----
+
+
+### Navigation
 
 KW12 · 23.03.2018 · 4 Lektionen
 
-::::: grid
+<div class="grid-12col">
+<div class="col-1to6">
 
-:::: col_6of12
 
 ##### Theorie
 
@@ -99,26 +117,30 @@ KW12 · 23.03.2018 · 4 Lektionen
 
 * Dokumentation · Navigation
 
-::::
+</div>
 
-:::: col_6of12_last
+<div class="col-7to12">
 
 ##### Hausarbeit
 
 * Fact-Check von fremdem Text
 * Text zum Gestalter (1000 Zeichen)
 
-::::
+</div>
 
-:::::
+</div>
 
-### Typografische Zeichensetzung {.line}
+
+----
+
+
+### Typografische Zeichensetzung
 
 KW14 · 06.04.2018 · 4 Lektionen
 
-::::: grid
+<div class="grid-12col">
+<div class="col-1to6">
 
-:::: col_6of12
 
 ##### Theorie
 
@@ -130,26 +152,30 @@ KW14 · 06.04.2018 · 4 Lektionen
 * Schriftmuster · Inhalte/Elemente bestimmen
 * Typografische Zeichensetzung
 
-::::
+</div>
 
-:::: col_6of12_last
+<div class="col-7to12">
 
 ##### Hausarbeit
 
 * Fact-Check von fremdem Text
 * Beispielwebsite analysieren
 
-::::
+</div>
 
-:::::
+</div>
 
-### CSS-Masseinheiten {.line}
+
+----
+
+
+### CSS-Masseinheiten
 
 KW16 · 20.04.2018 · 4 Lektionen
 
-::::: grid
+<div class="grid-12col">
+<div class="col-1to6">
 
-:::: col_6of12
 
 ##### Theorie
 
@@ -162,25 +188,29 @@ KW16 · 20.04.2018 · 4 Lektionen
 * Erarbeitung Beispiele
 * Dokumentation · Beispielwebsite
 
-::::
+</div>
 
-:::: col_6of12_last
+<div class="col-7to12">
 
 ##### Hausarbeit
 
 * Schriftmuster-Beispiele erarbeiten
 
-::::
+</div>
 
-:::::
+</div>
 
-### Naming things {.line}
+
+----
+
+
+### Naming things
 
 KW20 · 18.05.2018 · 4 Lektionen
 
-::::: grid
+<div class="grid-12col">
+<div class="col-1to6">
 
-:::: col_6of12
 
 ##### Theorie
 
@@ -192,25 +222,29 @@ KW20 · 18.05.2018 · 4 Lektionen
 
 * Schriftmuster-Beispiele überarbeiten
 
-::::
+</div>
 
-:::: col_6of12_last
+<div class="col-7to12">
 
 ##### Hausarbeit
 
 * Schriftmuster-Beispiele überarbeiten
 
-::::
+</div>
 
-:::::
+</div>
 
-### Review {.line}
+
+----
+
+
+### Review
 
 KW22 · 01.06.2018 · 4 Lektionen
 
-::::: grid
+<div class="grid-12col">
+<div class="col-1to6">
 
-:::: col_6of12
 
 ##### Theorie
 
@@ -223,25 +257,29 @@ KW22 · 01.06.2018 · 4 Lektionen
 * Review Schriftmuster
 * Dokumentation · Schriftmuster
 
-::::
+</div>
 
-:::: col_6of12_last
+<div class="col-7to12">
 
 ##### Hausarbeit
 
 * Schriftmuster-Beispiele überarbeiten
 
-::::
+</div>
 
-:::::
+</div>
 
-### Endpräsentation Schriftmuster {.line}
+
+----
+
+
+### Endpräsentation Schriftmuster
 
 KW26 · 29.06.2018 · 4 Lektionen
 
-::::: grid
+<div class="grid-12col">
+<div class="col-1to6">
 
-:::: col_6of12
 
 ##### Theorie
 
@@ -252,25 +290,29 @@ KW26 · 29.06.2018 · 4 Lektionen
 
 * Webfonts – Variable Fonts
 
-::::
+</div>
 
-:::: col_6of12_last
+<div class="col-7to12">
 
 ##### Hausarbeit
 
 * Wie kann man eine Schrift beschreiben?
 
-::::
+</div>
 
-:::::
+</div>
 
-### OpenType {.line}
+
+----
+
+
+### OpenType
 
 KW28 · 14.07.2018 · 4 Lektionen
 
-::::: grid
+<div class="grid-12col">
+<div class="col-1to6">
 
-:::: col_6of12
 
 ##### Theorie
 
@@ -283,14 +325,14 @@ KW28 · 14.07.2018 · 4 Lektionen
 * OpenType-Details
 * Fonts und Laser
 
-::::
+</div>
 
-:::: col_6of12_last
+<div class="col-7to12">
 
 ##### Hausarbeit
 
 * Ferien!
 
-::::
+</div>
 
-:::::
+</div>

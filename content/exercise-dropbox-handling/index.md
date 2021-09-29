@@ -2,9 +2,13 @@
 title: Dropbox · Ablage
 ---
 
-# Dropbox · Ablage
+<header>
 
-<div class='header'></div>
+# {{process.content.frontmatter.title}}
+
+</header>
+
+
 
 ## Aufgabe
 

@@ -2,9 +2,11 @@
 title: Info · Fablab
 ---
 
-# Info · Fablab
+<header>
 
-<div class='header'></div>
+# {{process.content.frontmatter.title}}
+
+</header>
 
 # ACHTUNG!!!
 ## Wir produzieren wie ein Stempel. Damit nach dem Drucken alles richtig ist, muss der «Stempel» spiegelverkehrt sein!!! Also spiegelverkehrt aufkleben, seitenrichtig lasern.

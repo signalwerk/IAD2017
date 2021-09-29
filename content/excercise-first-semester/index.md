@@ -8,7 +8,6 @@ title: Semesterprüfung · IAD2017
 
 </header>
 
-<div class="margin margin--compact margin--small">
 
 #### Ablauf · 12.01.2018
 
@@ -17,7 +16,6 @@ title: Semesterprüfung · IAD2017
 **15:35 – 15:55** · Pause  
 **15:55 – 16:45** · Review
 
-</div>
 
 
 ## Thema
@@ -52,7 +50,6 @@ Sie haben im 1. Semester – unter Anderem – gelernt, wie man eine Community a
 
 Computer, Internet und Drucker dürfen verwendet werden.
 
-<div class='header'></div>
 
 ## Benotung
 

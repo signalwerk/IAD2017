@@ -1,8 +1,11 @@
 ---
 title: Aufgabe · Cookie Clicker
 ---
+<header>
 
-# Aufgabe · Cookie Clicker
+# {{process.content.frontmatter.title}}
+
+</header>
 
 
 ## Ausgangslage

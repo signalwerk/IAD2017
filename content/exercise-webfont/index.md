@@ -1,10 +1,13 @@
 ---
 title: Aufgabe · Fonts im Web
 ---
+<header>
 
-# Aufgabe · Fonts im Web
+# {{process.content.frontmatter.title}}
 
-<div class='header'></div>
+</header>
+
+
 
 ## Ausgangslage
 

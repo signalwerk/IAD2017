@@ -1,8 +1,11 @@
 ---
 title: Dokumentation · Human-centered design
 ---
-# Dokumentation · Human&#x2011;centered design
-<div class='header'></div>
+<header>
+
+# {{process.content.frontmatter.title}}
+
+</header>
 
 ## Aufgabe
 Fortschritt und Arbeitsweise des Moduls «Human-centered design» werden als Website dokumentiert. Die Studierenden sollen sowohl Zwischenschritte, wie auch Ergebnisse in digitaler Form (Foto, Video, Text) festhalten. Die dokumentierten Schritte sollen Verbesserungen oder konzeptionelle Entscheide aufzeigen.
@@ -25,9 +28,3 @@ Die Bewertung erfolgt im Modul «Lab» bezogen auf Arbeitstechnik (der Dokumenta
 * Wurde das Material kontinuierlich erarbeitet und nicht erst am Schluss
 * Wurden gestalterische Prinzipien eingehalten
 
-
-
-<br>
-<br>
-<br>
-<br>

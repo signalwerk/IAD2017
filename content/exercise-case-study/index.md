@@ -24,7 +24,6 @@ Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerha
 * Wer Zeit hat, kann das Dashboard/Start-Screen neue gestalten. (freiwillig)
 * Die Präsentation muss abgegeben werden. Technologie der Abgabe ist frei.
 
-<div class='header'></div>
 
 ## Bewertung
 ### Technik (10%)
