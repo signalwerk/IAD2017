@@ -1,0 +1,49 @@
+/* HTML Color */
+
+:root {
+  --brown-color: rgb(178, 112, 0);
+}
+
+code.language-html {
+  color: black;
+}
+
+.language-html .hljs-tag {
+    color: var(--blue-color);
+  }
+
+.language-html .hljs-name,
+  .language-html .hljs-attr {
+    color: rgb(178, 112, 0);
+    color: var(--brown-color);
+  }
+
+.language-html .hljs-string {
+    color: var(--green-color);
+  }
+
+/* CSS Color */
+
+code.language-css {
+  color: var(--blue-color);
+}
+
+.language-css .hljs-selector-class {
+    color: var(--green-color);
+  }
+
+.language-css .hljs-attribute {
+    color: rgb(178, 112, 0);
+    color: var(--brown-color);
+  }
+
+.language-css .hljs-comment {
+    color: #888;
+  }
+
+@media print {
+  .navigation {
+    display: none;
+  }
+}
+
