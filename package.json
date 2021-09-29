@@ -1,23 +1,26 @@
 {
-  "name": "IAD2017",
+  "name": "iad2017",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./packages/signalwerk.documentation.md/webpack.config.js",
+    "deploy": "npm run build && gh-pages -d dist",
+    "build": "NODE_ENV=production webpack --config ./packages/signalwerk.documentation.md/webpack.config.js && cp ./static/CNAME ./dist",
+    "update": "node ./packages/signalwerk.documentation.md/cli.js update",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/signalwerk/IAD2017.git"
+    "url": "git+https://github.com/signalwerk/iad2017.git"
   },
   "keywords": [],
   "author": "Stefan Huber",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/signalwerk/IAD2017/issues"
+    "url": "https://github.com/signalwerk/iad2017/issues"
   },
-  "homepage": "https://github.com/signalwerk/IAD2017#readme",
+  "homepage": "https://github.com/signalwerk/iad2017#readme",
   "workspaces": [
     "./packages/*"
   ],
