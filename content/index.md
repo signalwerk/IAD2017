@@ -12,7 +12,7 @@ title: IAD 2017 · Dokumente
 
 #### Slides
 
-- [Online-Version](https://signalwerk.github.io/IAD.LAB.SLD/)
+- [Slides Übersicht](/slides/)
 
 #### Dokumentation
 
