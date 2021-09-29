@@ -24,7 +24,7 @@ title: IAD 2017 · Dokumente
 * [Fonts · Verwendung ↗](https://interaction.signalwerk.ch/articles/font-use/)
 * [Fonts · Darstellung ↗](https://interaction.signalwerk.ch/articles/font-rendering/)
 * [Screens ↗](https://interaction.signalwerk.ch/articles/screens/)
-* [Interaktion · Navigation](/navigation/)
+* [Interaktion · Navigation ↗](https://interaction.signalwerk.ch/articles/navigation/)
 * [Technologiegeschichte der Schrift ↗](https://interaction.signalwerk.ch/articles/font-history/)
 * [Lokalisierung · Internationalisierung ↗](https://interaction.signalwerk.ch/articles/global-content/)
 
